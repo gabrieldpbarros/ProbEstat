@@ -34,6 +34,10 @@ Através deste trabalho, espera-se contemplar os Objetivos de Desenvolvimento Su
 
 As séries utilizadas estão contidas na pasta [dados](dados), com algumas alterações de formatação em relação à fonte original. Essa escolha foi feita para facilitar a manipulação das séries pelas funções dos códigos.
 
+### Informações relevantes
+
+**Esta seção vai incluir quais dados foram mais valorizados para fazer a análise**
+
 ## Análise
 
 ## Discussão
