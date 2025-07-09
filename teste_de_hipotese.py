@@ -1,8 +1,8 @@
 import numpy as np
 import scipy.stats as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from typing import Tuple, List # Auxilar na padronizacao dos tipos dos retornos das funcoes
+from boxplot import bp
 
 """ FUNCAO QUE CARREGA OS DADOS E FORMATA EM PANDAS DATAFRAME """
 def loadData(archive_name: str) -> pd.DataFrame:
@@ -86,31 +86,6 @@ def prepareData(data: pd.DataFrame, zone_col: str, value_cols: List[str], zone1:
 
     return zone1_data, zone2_data
 
-
-
-""" FUNCAO QUE MONTA BOXPLOTS PARA OS DADOS OBSERVADOS """
-def boxplot(zone1_data: np.ndarray, zone2_data: np.ndarray, zone1: str, zone2: str) -> None:
-     # Verificar se ha dados para plotar
-    if zone1_data.size == 0 and zone2_data.size == 0:
-        print("Não há dados válidos para plotar o boxplot.")
-        return
-    
-    # Filtra NaNs        
-    data1 = zone1_data[~np.isnan(zone1_data)] 
-    data2 = zone2_data[~np.isnan(zone2_data)]
-
-    # Verifica se ainda há dados após remover NaNs
-    if data1.size == 0 and data2.size == 0:
-        print("Não há dados numéricos válidos para plotar o boxplot após remover valores ausentes.")
-        return
-
-    plt.close("all")
-    plt.figure(figsize=(8, 5))
-    plt.boxplot([data1, data2], tick_labels=[zone1, zone2])
-    plt.title("Comparação do Número de Desempregados por Região/Estado (2015-2025)")
-    plt.ylabel("Número de Desempregados")
-    plt.show()
-
 nome_arq_series = "ipeadata[02-07-2025-09-51] (1).xlsx - Séries.csv"
 def main():
     dados_df = loadData(nome_arq_series)
@@ -142,7 +117,7 @@ def main():
 
     dados1_bp = dados1.values.flatten()
     dados2_bp = dados2.values.flatten()
-    boxplot(dados1_bp, dados2_bp, "São Paulo", "Minas Gerais")
+    bp(dados1_bp, dados2_bp, "São Paulo", "Minas Gerais")
 
     # EXEMPLO DE TESTE T COM OS DADOS ACHATADOS (bagulho q o Gemini criou)
     if dados1_bp.size > 1 and dados2_bp.size > 1: # Precisa de pelo menos 2 pontos para t-test
