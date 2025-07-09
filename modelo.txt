@@ -1,0 +1,87 @@
+# Título: Análise do Surgimento de Pequenas Empresas por Região/Estado com Teste de Hipóteses
+
+# 1. Importar Bibliotecas Necessárias
+IMPORT pandas AS pd  # Para manipulação de dados (DataFrames)
+IMPORT scipy.stats AS stats # Para funções estatísticas, incluindo testes de hipóteses
+IMPORT numpy AS np # Para operações numéricas (se precisar)
+IMPORT matplotlib.pyplot AS plt # Opcional: para visualização dos dados
+
+# 2. Carregar os Dados
+FUNÇÃO carregar_dados(caminho_arquivo):
+    # Suponha que seus dados estejam em um arquivo CSV ou Excel
+    # Os dados devem conter informações sobre o número de pequenas empresas,
+    # e uma coluna para identificar a região/estado.
+    dados = pd.read_csv(caminho_arquivo) # Ou pd.read_excel()
+    RETORNAR dados
+
+# Exemplo de como seus dados podem ser:
+# Regiao/Estado | Numero_Pequenas_Empresas
+# ---------------------------------------
+# Nordeste      | 15000
+# Sudeste       | 45000
+# Nordeste      | 12000
+# Sudeste       | 40000
+# ...
+
+# 3. Preparar os Dados para o Teste
+FUNÇÃO preparar_dados_teste(dados, nome_coluna_regiao, nome_coluna_empresas, regiao1, regiao2):
+    # Filtrar os dados para as duas regiões/estados que você quer comparar
+    dados_regiao1 = dados[dados[nome_coluna_regiao] == regiao1][nome_coluna_empresas]
+    dados_regiao2 = dados[dados[nome_coluna_regiao] == regiao2][nome_coluna_empresas]
+
+    RETORNAR dados_regiao1, dados_regiao2
+
+# 4. Definir as Hipóteses
+# H0 (Hipótese Nula): Não há diferença significativa no número médio de pequenas empresas entre as Regiões X e Y.
+# H1 (Hipótese Alternativa): Há uma diferença significativa no número médio de pequenas empresas entre as Regiões X e Y.
+
+# Você pode escolher um teste t de Student para amostras independentes se os dados forem aproximadamente normais
+# e as variâncias forem iguais, ou o teste de Mann-Whitney U se a distribuição não for normal.
+
+# 5. Realizar o Teste de Hipóteses
+FUNÇÃO realizar_teste_t(dados_regiao1, dados_regiao2, alpha=0.05):
+    # Teste t de Student para amostras independentes
+    # 'equal_var=True' assume variâncias iguais (você pode testar isso antes com um teste de Levene)
+    # ou 'equal_var=False' para o teste de Welch (quando variâncias são desiguais)
+    estatistica_t, valor_p = stats.ttest_ind(dados_regiao1, dados_regiao2, equal_var=False) # Exemplo com Welch
+
+    PRINT "Estatística T:", estatistica_t
+    PRINT "Valor P:", valor_p
+
+    # Avaliar o resultado
+    SE valor_p < alpha:
+        PRINT "Rejeitar a Hipótese Nula (H0)."
+        PRINT "Há evidências estatisticamente significativas de uma diferença no número médio de pequenas empresas entre as duas regiões."
+    SENÃO:
+        PRINT "Não há evidências suficientes para rejeitar a Hipótese Nula (H0)."
+        PRINT "Não há diferença estatisticamente significativa no número médio de pequenas empresas entre as duas regiões."
+
+# 6. (Opcional) Visualização dos Dados
+FUNÇÃO plotar_boxplots(dados_regiao1, dados_regiao2, regiao1, regiao2):
+    plt.boxplot([dados_regiao1, dados_regiao2], labels=[regiao1, regiao2])
+    plt.title('Comparação do Número de Pequenas Empresas por Região/Estado')
+    plt.ylabel('Número de Pequenas Empresas')
+    plt.show()
+
+# 7. Execução Principal
+DEFINIR caminho_do_arquivo_dados = "seu_arquivo_de_dados.csv" # Substitua pelo seu caminho real
+DEFINIR coluna_das_regioes = "Regiao/Estado" # Substitua pelo nome real da coluna
+DEFINIR coluna_das_empresas = "Numero_Pequenas_Empresas" # Substitua pelo nome real da coluna
+DEFINIR regiao_a_comparar_1 = "Sudeste" # Exemplo
+DEFINIR regiao_a_comparar_2 = "Nordeste" # Exemplo
+DEFINIR nivel_significancia_alpha = 0.05 # 5%
+
+# Carregar os dados
+dados_brutos = carregar_dados(caminho_do_arquivo_dados)
+
+# Preparar os dados para o teste
+amostra_regiao1, amostra_regiao2 = preparar_dados_teste(
+    dados_brutos, coluna_das_regioes, coluna_das_empresas,
+    regiao_a_comparar_1, regiao_a_comparar_2
+)
+
+# Realizar o Teste de Hipóteses
+realizar_teste_t(amostra_regiao1, amostra_regiao2, nivel_significancia_alpha)
+
+# (Opcional) Visualizar os dados
+plotar_boxplots(amostra_regiao1, amostra_regiao2, regiao_a_comparar_1, regiao_a_comparar_2)
