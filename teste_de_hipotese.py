@@ -104,6 +104,8 @@ def boxplot(zone1_data: np.ndarray, zone2_data: np.ndarray, zone1: str, zone2: s
         print("Não há dados numéricos válidos para plotar o boxplot após remover valores ausentes.")
         return
 
+    plt.close("all")
+    plt.figure(figsize=(8, 5))
     plt.boxplot([data1, data2], tick_labels=[zone1, zone2])
     plt.title("Comparação do Número de Desempregados por Região/Estado (2015-2025)")
     plt.ylabel("Número de Desempregados")
@@ -138,12 +140,8 @@ def main():
 
     dados1, dados2 = prepareData(dados_df, "Estado", time_series_cols, "SÃ£o Paulo", "Minas Gerais")
 
-
     dados1_bp = dados1.values.flatten()
     dados2_bp = dados2.values.flatten()
-    print(dados1_bp, "\n")
-    print(dados2_bp)
-
     boxplot(dados1_bp, dados2_bp, "São Paulo", "Minas Gerais")
 
     # EXEMPLO DE TESTE T COM OS DADOS ACHATADOS (bagulho q o Gemini criou)
