@@ -1,5 +1,5 @@
 import scipy.stats as st
-from boxplot import bp
+from create_graphics import bp
 import read_data as rd
 
 nome_arq_series = "ipeadata[02-07-2025-09-51] (1).xlsx - Séries.csv"

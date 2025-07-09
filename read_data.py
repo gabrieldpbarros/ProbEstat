@@ -122,5 +122,3 @@ def readData(series_archive_name = "ipeadata[02-07-2025-09-51] (1).xlsx - Série
     dados2_ndarray = dados2.values.flatten()
 
     return dados1_ndarray, dados2_ndarray
-
-readData()
