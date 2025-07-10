@@ -1,16 +1,17 @@
 import numpy as np
 import pandas as pd
-from typing import Tuple, List # Auxilar na padronizacao dos tipos dos retornos das funcoes
+from typing import Tuple, List, Dict # Auxilar na padronizção dos tipos dos retornos das funções
+from create_graphics import bp
 
-""" FUNCAO QUE CARREGA OS DADOS E FORMATA EM PANDAS DATAFRAME """
+""" FUNÇÃO QUE CARREGA OS DADOS E FORMATA EM PANDAS DATAFRAME """
 def loadData(archive_name: str) -> pd.DataFrame:
-    # Monta o endereco completo do arquivo
-    complete_address = "dados/" + archive_name
+    # Monta o endereço completo do arquivo
+    complete_address = "data/" + archive_name
 
-    # Extrai a extensao do arquivo
+    # Extrai a extensão do arquivo
     ext = archive_name.split(".")[-1]
 
-    # Verifica a extensao do arquivo
+    # Verifica a extensão do arquivo
     if len(ext) < 2:
         print("Nome de arquivo inválido ou sem extensão.")
         return pd.DataFrame() # Retorna DataFrame vazio para indicar falha
@@ -25,7 +26,7 @@ def loadData(archive_name: str) -> pd.DataFrame:
             # - sep: O delimitador pode ser ';', ',' ou '\t' (tab).
             # - encoding: Para lidar com caracteres especiais.
             # Vamos tentar um cenário comum do IPEADATA, mas você precisará verificar.
-            full_data = pd.read_csv(complete_address, sep=',', encoding='latin1', thousands='.')
+            full_data = pd.read_csv(complete_address, sep=',', encoding='latin1')
             # Para o arquivo "ipeadata[02-07-2025-09-51] (1).xls - Séries.csv" do IPEADATA, as 
             # primeiras linhas são metadados. E o delimitador comum é ';'. A codificação 'latin1'
             # ajuda com caracteres especiais. skiprows=1 irá pular a primeira linha que geralmente 
@@ -51,24 +52,21 @@ def loadData(archive_name: str) -> pd.DataFrame:
         print(f"Ocorreu um erro ao carregar o arquivo '{archive_name}': {e}")
         return full_data
 
-""" FUNCAO QUE PREPARA OS DADOS PARA SEREM TESTADOS """
-def prepareData(data: pd.DataFrame, zone_col: str, value_cols: List[str], zone1: str, zone2: str) -> Tuple[pd.Series, pd.Series]:
+""" FUNÇÃO QUE PREPARA OS DADOS PARA SEREM TESTADOS """
+def prepareData(data: pd.DataFrame, zone_col: str, value_cols: str) -> Dict[str, pd.Series]:
     """
     SOBRE A SINTAXE:
     
     ARGUMENTOS: 
         data (pd.DataFrame): O DataFrame completo contendo os dados.
-        zone_col (str): O título/nome da coluna que identifica as regiões/estados.
+        zone_col (str): O título/nome da coluna que identifica os Estados.
         value_cols: (List[str]): O título/nome da coluna com o número de pequenas empresas.
-        zone1 (str): O nome da primeira região/estado a ser comparada.
-        zone2 (str): O nome da segunda região/estado a ser comparada.
 
     RETORNO:
-        Tuple[pd.Series, pd.Series]: Uma tupla contendo duas Series do pandas,
-                                     uma para cada região com os dados de empresas.
+        Dict[str, pd.Series]: Um dicionário contendo todas as séries do pandas, associadas
+                              à respectiva sigla do Estado que se referem.
 
     """
-
     # Verifica se as colunas existem no DataFrame
     if zone_col not in data.columns:
         print(f"Erro: Coluna de zona '{zone_col}' não encontrada no DataFrame. Colunas disponíveis: {data.columns.tolist()}")
@@ -78,13 +76,23 @@ def prepareData(data: pd.DataFrame, zone_col: str, value_cols: List[str], zone1:
     if missing_cols:
         print(f"Erro: As seguintes colunas de valor não foram encontradas no DataFrame: {missing_cols}. Colunas disponíveis: {data.columns.tolist()}")
         return pd.DataFrame(), pd.DataFrame()
+    
+    # Inicializa um dicionário de séries temporais contendo apenas os dados desejados
+    zone_data = {}
 
-    zone1_data = data[data[zone_col] == zone1][value_cols]
-    zone2_data = data[data[zone_col] == zone2][value_cols]
+    # Agrupa o DataFrame pela coluna "UF"
+    grouped = data.groupby("UF")
 
-    return zone1_data, zone2_data
+    # Itera sobre cada Estado
+    for zone, group_df in grouped:
+        # Cria a série: o índice é o 'Ano', os valores são de 'Empreendimentos'
+        state_series = pd.Series(group_df['Empreendimentos'].values, index=group_df['Ano'])
+        state_series = state_series.sort_index() # Garante a ordem cronológica
+        zone_data[zone] = state_series
 
-def readData(series_archive_name = "ipeadata[02-07-2025-09-51] (1).xlsx - Séries.csv", zone1 = "SÃ£o Paulo", zone2 = "Minas Gerais") -> Tuple[np.ndarray, np.ndarray]:
+    return zone_data
+
+def readData(series_archive_name = "tests/test-data2.csv") -> Dict[str, np.ndarray]:
     dados_df = loadData(series_archive_name)
     if dados_df.empty:
         print("Não foi possível carregar os dados. Encerrando.")
@@ -94,31 +102,24 @@ def readData(series_archive_name = "ipeadata[02-07-2025-09-51] (1).xlsx - Série
     all_columns = dados_df.columns.tolist()
 
     # Cria uma lista com os títulos correspondentes aos valores numéricos da série temporal.
-    # Condição verificada: o título possui ' T' e a seção do título anterior a isso é dígito
-    time_series_cols = [col for col in all_columns if ' T' in col and col.split(' T')[0].isdigit()]   
+    time_series_cols = [col for col in all_columns if 'Empreendimentos' in col]   
     # Filtragem para garantir que apenas valores numéricos vão ser analisados.
-    # Condição verificada: analisa se todos os valores de cada coluna são numéricos (np.issubdtype(dtype1, dtype2)
-    # verifica se dtype1 é subtipo de dtype2), pois np.number é uma classe abstrata que representa qualquer tipo de 
-    # dado numérico
     time_series_cols = [col for col in time_series_cols if np.issubdtype(dados_df[col].dtype, np.number)]
-
-    try:
-        # Garante que a os títulos da série temporal estão devidamente ordenados, seguindo a chave (YYYY, Q)
-        time_series_cols.sort(key=lambda x: (int(x.split(' T')[0]), int(x.split(' T')[1].replace('T', ''))))
-    except (ValueError, IndexError) as e:
-        print(f"Aviso: Não foi possível ordenar todas as colunas de série temporal. Pode haver um formato inesperado nos nomes das colunas. Erro: {e}")
-        # Modo alternativo, em que ele foca apenas em remover os títulos ['Codigo', 'Sigla', 'Estado'] e qualquer
-        # que não contenha valores numéricos.
-        time_series_cols = [col for col in all_columns if np.issubdtype(dados_df[col].dtype, np.number) and col not in ['Codigo', 'Sigla', 'Estado']]
-        time_series_cols.sort()
 
     if not time_series_cols:
         print("\nErro: Nenhuma coluna de série temporal foi identificada. Verifique o formato dos nomes das colunas de dados temporais.")
-        print("Esperado formato como 'YYYY TQ', por exemplo '2015 T1'.")
         return
 
-    dados1, dados2 = prepareData(dados_df, "Estado", time_series_cols, zone1, zone2)
-    dados1_ndarray = dados1.values.flatten()
-    dados2_ndarray = dados2.values.flatten()
+    # Dicionário que armazena todas as séries temporais filtradas pela chave sigla do estado
+    dados_dict = prepareData(dados_df, "UF", time_series_cols)
+    # Preparação para plotagem posterior.
+    # Transforma todas as séries em ndarray e armazena em outro dicionário de ndarrays
+    dados_ndarray_dict = {}
+    for zone in dados_dict.keys():
+        dados_ndarray_dict[zone] = dados_dict[zone].values.flatten()
 
-    return dados1_ndarray, dados2_ndarray
+    bp(dados_ndarray_dict)
+
+    return dados_ndarray_dict
+
+readData()
