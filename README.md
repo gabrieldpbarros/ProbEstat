@@ -13,7 +13,7 @@ Discentes: Daniel Ribeiro, Gabriel Delgado, João Vitor Gomes, Sarah Mynssen, Vi
 ## Resumo
 O trabalho tem como foco analisar como o surgimento de pequenas empresas, ou microempreendimentos, afeta no desempenho econômico do estado em que esses empreendimentos se originam.
 
-Os dados observados foram extraídos de fontes públicas e confiáveis ( **inserir fontes aqui** ) e processados através de [scripts de autoria própria](read_data.py). Foram utilizadas técnicas de [análise estatística](stats.py), como [gráficos](create_graphics.py) (boxplot), [testes de hipóteses](teste_de_hipotese.py) e associação entre variáveis.
+Os dados observados foram extraídos de fontes públicas e confiáveis ( **inserir fontes aqui** ) e processados através de [scripts de autoria própria](read_data.py). Foram utilizadas técnicas de [análise estatística](stats.py), como [gráficos](create_graphics.py) (boxplot), [testes de hipóteses](teste_de_hipotese.py) e [associação entre variáveis](stats.py).
 
 Através deste trabalho, espera-se contemplar os Objetivos de Desenvolvimento Sustentável (ODS) 1, 8 e 11 da Organização das Nações Unidas (ONU), contribuindo para a efetivação desses objetivos propostos pela ONU.
 
@@ -32,7 +32,7 @@ Através deste trabalho, espera-se contemplar os Objetivos de Desenvolvimento Su
 
 ### Séries
 
-As séries utilizadas estão contidas na pasta [dados](dados), com algumas alterações de formatação em relação à fonte original. Essa escolha foi feita para facilitar a manipulação das séries pelas funções dos códigos.
+As séries utilizadas estão contidas na pasta [data](data), com algumas alterações de formatação em relação à fonte original. Essa escolha foi feita para facilitar a manipulação das séries pelas funções dos códigos.
 
 ### Informações relevantes
 
