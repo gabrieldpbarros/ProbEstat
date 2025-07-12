@@ -1,12 +1,13 @@
 import numpy as np
 import pandas as pd
 from typing import Tuple, List, Dict # Auxilar na padronizção dos tipos dos retornos das funções
-from create_graphics import bp
+import create_graphics as cg
 
 """ FUNÇÃO QUE CARREGA OS DADOS E FORMATA EM PANDAS DATAFRAME """
 def loadData(archive_name: str) -> pd.DataFrame:
+    """ Carrega a tabela e retorna o DataFrame """
     # Monta o endereço completo do arquivo
-    complete_address = "data/" + archive_name
+    complete_address = "data/tests/" + archive_name
 
     # Extrai a extensão do arquivo
     ext = archive_name.split(".")[-1]
@@ -53,14 +54,14 @@ def loadData(archive_name: str) -> pd.DataFrame:
         return full_data
 
 """ FUNÇÃO QUE PREPARA OS DADOS PARA SEREM TESTADOS """
-def prepareData(data: pd.DataFrame, zone_col: str, value_cols: str) -> Dict[str, pd.Series]:
+def prepareData(data: pd.DataFrame, zone_col: str, value_col: str) -> Dict[str, pd.Series]:
     """
     SOBRE A SINTAXE:
     
     ARGUMENTOS: 
         data (pd.DataFrame): O DataFrame completo contendo os dados.
         zone_col (str): O título/nome da coluna que identifica os Estados.
-        value_cols: (List[str]): O título/nome da coluna com o número de pequenas empresas.
+        value_col: (List[str]): O título/nome da coluna com o número de pequenas empresas.
 
     RETORNO:
         Dict[str, pd.Series]: Um dicionário contendo todas as séries do pandas, associadas
@@ -70,56 +71,33 @@ def prepareData(data: pd.DataFrame, zone_col: str, value_cols: str) -> Dict[str,
     # Verifica se as colunas existem no DataFrame
     if zone_col not in data.columns:
         print(f"Erro: Coluna de zona '{zone_col}' não encontrada no DataFrame. Colunas disponíveis: {data.columns.tolist()}")
-        return pd.DataFrame(), pd.DataFrame()
+        return pd.DataFrame()
 
-    missing_cols = [col for col in value_cols if col not in data.columns]
-    if missing_cols:
-        print(f"Erro: As seguintes colunas de valor não foram encontradas no DataFrame: {missing_cols}. Colunas disponíveis: {data.columns.tolist()}")
-        return pd.DataFrame(), pd.DataFrame()
+    if (value_col not in data.columns):
+        print(f"Erro: A seguinte coluna de valor não foi encontrada no DataFrame: {value_col}. Colunas disponíveis: {data.columns.tolist()}")
+        return pd.DataFrame()
     
     # Inicializa um dicionário de séries temporais contendo apenas os dados desejados
     zone_data = {}
 
     # Agrupa o DataFrame pela coluna "UF"
-    grouped = data.groupby("UF")
+    grouped = data.groupby(zone_col)
 
     # Itera sobre cada Estado
     for zone, group_df in grouped:
         # Cria a série: o índice é o 'Ano', os valores são de 'Empreendimentos'
-        state_series = pd.Series(group_df['Empreendimentos'].values, index=group_df['Ano'])
+        state_series = pd.Series(group_df[value_col].values, index=group_df['Ano'])
         state_series = state_series.sort_index() # Garante a ordem cronológica
         zone_data[zone] = state_series
 
     return zone_data
 
-def readData(series_archive_name = "tests/test-data2.csv") -> Dict[str, np.ndarray]:
+def readData(series_archive_name: str) -> pd.DataFrame:
+    """ Acessa uma tabela (.csv, .xls ou .xlsx) e converte os dados para um DataFrame """
     dados_df = loadData(series_archive_name)
     if dados_df.empty:
         print("Não foi possível carregar os dados. Encerrando.")
         return
     
-    # Cria uma lista com os títulos de cada coluna do DataFrame
-    all_columns = dados_df.columns.tolist()
-
-    # Cria uma lista com os títulos correspondentes aos valores numéricos da série temporal.
-    time_series_cols = [col for col in all_columns if 'Empreendimentos' in col]   
-    # Filtragem para garantir que apenas valores numéricos vão ser analisados.
-    time_series_cols = [col for col in time_series_cols if np.issubdtype(dados_df[col].dtype, np.number)]
-
-    if not time_series_cols:
-        print("\nErro: Nenhuma coluna de série temporal foi identificada. Verifique o formato dos nomes das colunas de dados temporais.")
-        return
-
-    # Dicionário que armazena todas as séries temporais filtradas pela chave sigla do estado
-    dados_dict = prepareData(dados_df, "UF", time_series_cols)
-    # Preparação para plotagem posterior.
-    # Transforma todas as séries em ndarray e armazena em outro dicionário de ndarrays
-    dados_ndarray_dict = {}
-    for zone in dados_dict.keys():
-        dados_ndarray_dict[zone] = dados_dict[zone].values.flatten()
-
-    bp(dados_ndarray_dict)
-
-    return dados_ndarray_dict
-
-readData()
+    return dados_df
+    cg.createGraphic(dados_dict1, "boxplot", "Comparacao...", "Estados", "N. desempregados")

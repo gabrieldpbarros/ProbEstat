@@ -1,0 +1,2020 @@
+Establishment Size ID,Establishment Size,State ID,State,Year,Type Establishment ID,Type Establishment,Establishments
+0,Não Informado,11,Rondônia,2022,1,CNPJ,2
+0,Não Informado,11,Rondônia,2022,6,Não identificado - Código 6,12
+0,Não Informado,12,Acre,2022,6,Não identificado - Código 6,6
+0,Não Informado,13,Amazonas,2022,1,CNPJ,3
+0,Não Informado,13,Amazonas,2022,6,Não identificado - Código 6,13
+0,Não Informado,14,Roraima,2022,6,Não identificado - Código 6,6
+0,Não Informado,15,Pará,2022,1,CNPJ,5
+0,Não Informado,15,Pará,2022,6,Não identificado - Código 6,26
+0,Não Informado,16,Amapá,2022,1,CNPJ,1
+0,Não Informado,16,Amapá,2022,6,Não identificado - Código 6,3
+0,Não Informado,17,Tocantins,2022,1,CNPJ,2
+0,Não Informado,17,Tocantins,2022,6,Não identificado - Código 6,12
+0,Não Informado,21,Maranhão,2022,1,CNPJ,4
+0,Não Informado,21,Maranhão,2022,6,Não identificado - Código 6,13
+0,Não Informado,22,Piauí,2021,1,CNPJ,1
+0,Não Informado,22,Piauí,2022,6,Não identificado - Código 6,25
+0,Não Informado,23,Ceará,2019,1,CNPJ,1
+0,Não Informado,23,Ceará,2020,1,CNPJ,1
+0,Não Informado,23,Ceará,2021,1,CNPJ,1
+0,Não Informado,23,Ceará,2022,1,CNPJ,2
+0,Não Informado,23,Ceará,2022,6,Não identificado - Código 6,83
+0,Não Informado,24,Rio Grande Do Norte,2022,1,CNPJ,2
+0,Não Informado,24,Rio Grande Do Norte,2022,6,Não identificado - Código 6,37
+0,Não Informado,25,Paraíba,2022,1,CNPJ,3
+0,Não Informado,25,Paraíba,2022,6,Não identificado - Código 6,55
+0,Não Informado,26,Pernambuco,2021,1,CNPJ,1
+0,Não Informado,26,Pernambuco,2022,1,CNPJ,3
+0,Não Informado,26,Pernambuco,2022,6,Não identificado - Código 6,56
+0,Não Informado,27,Alagoas,2022,6,Não identificado - Código 6,14
+0,Não Informado,28,Sergipe,2022,6,Não identificado - Código 6,46
+0,Não Informado,29,Bahia,2019,1,CNPJ,1
+0,Não Informado,29,Bahia,2020,1,CNPJ,1
+0,Não Informado,29,Bahia,2021,1,CNPJ,1
+0,Não Informado,29,Bahia,2022,1,CNPJ,13
+0,Não Informado,29,Bahia,2022,6,Não identificado - Código 6,108
+0,Não Informado,31,Minas Gerais,2021,1,CNPJ,2
+0,Não Informado,31,Minas Gerais,2022,1,CNPJ,35
+0,Não Informado,31,Minas Gerais,2022,6,Não identificado - Código 6,318
+0,Não Informado,32,Espírito Santo,2022,1,CNPJ,6
+0,Não Informado,32,Espírito Santo,2022,6,Não identificado - Código 6,42
+0,Não Informado,33,Rio De Janeiro,2020,1,CNPJ,2
+0,Não Informado,33,Rio De Janeiro,2021,1,CNPJ,1
+0,Não Informado,33,Rio De Janeiro,2022,1,CNPJ,21
+0,Não Informado,33,Rio De Janeiro,2022,6,Não identificado - Código 6,60
+0,Não Informado,35,São Paulo,2019,1,CNPJ,3
+0,Não Informado,35,São Paulo,2020,1,CNPJ,4
+0,Não Informado,35,São Paulo,2021,1,CNPJ,11
+0,Não Informado,35,São Paulo,2022,1,CNPJ,42
+0,Não Informado,35,São Paulo,2022,6,Não identificado - Código 6,295
+0,Não Informado,41,Paraná,2019,1,CNPJ,2
+0,Não Informado,41,Paraná,2020,1,CNPJ,3
+0,Não Informado,41,Paraná,2021,1,CNPJ,4
+0,Não Informado,41,Paraná,2022,1,CNPJ,11
+0,Não Informado,41,Paraná,2022,6,Não identificado - Código 6,148
+0,Não Informado,42,Santa Catarina,2022,1,CNPJ,4
+0,Não Informado,42,Santa Catarina,2022,6,Não identificado - Código 6,188
+0,Não Informado,43,Rio Grande Do Sul,2019,1,CNPJ,2
+0,Não Informado,43,Rio Grande Do Sul,2020,1,CNPJ,1
+0,Não Informado,43,Rio Grande Do Sul,2021,1,CNPJ,1
+0,Não Informado,43,Rio Grande Do Sul,2022,1,CNPJ,9
+0,Não Informado,43,Rio Grande Do Sul,2022,6,Não identificado - Código 6,220
+0,Não Informado,50,Mato Grosso Do Sul,2022,1,CNPJ,1
+0,Não Informado,50,Mato Grosso Do Sul,2022,6,Não identificado - Código 6,38
+0,Não Informado,51,Mato Grosso,2021,1,CNPJ,1
+0,Não Informado,51,Mato Grosso,2022,1,CNPJ,7
+0,Não Informado,51,Mato Grosso,2022,6,Não identificado - Código 6,48
+0,Não Informado,52,Goiás,2020,1,CNPJ,1
+0,Não Informado,52,Goiás,2021,1,CNPJ,1
+0,Não Informado,52,Goiás,2022,1,CNPJ,6
+0,Não Informado,52,Goiás,2022,6,Não identificado - Código 6,51
+0,Não Informado,53,Distrito Federal,2022,1,CNPJ,2
+0,Não Informado,53,Distrito Federal,2022,6,Não identificado - Código 6,16
+0,Não Informado,99,Não informado,2022,6,Não identificado - Código 6,2
+1,Microempresa (ME),11,Rondônia,2016,1,CNPJ,43618
+1,Microempresa (ME),11,Rondônia,2016,3,CEI,5804
+1,Microempresa (ME),11,Rondônia,2017,1,CNPJ,43331
+1,Microempresa (ME),11,Rondônia,2017,3,CEI,5806
+1,Microempresa (ME),11,Rondônia,2018,1,CNPJ,43530
+1,Microempresa (ME),11,Rondônia,2018,3,CEI,5047
+1,Microempresa (ME),11,Rondônia,2018,5,CAEPF,618
+1,Microempresa (ME),11,Rondônia,2019,1,CNPJ,43169
+1,Microempresa (ME),11,Rondônia,2019,3,CEI,4491
+1,Microempresa (ME),11,Rondônia,2019,5,CAEPF,1159
+1,Microempresa (ME),11,Rondônia,2020,1,CNPJ,44623
+1,Microempresa (ME),11,Rondônia,2020,3,CEI,4256
+1,Microempresa (ME),11,Rondônia,2020,5,CAEPF,1232
+1,Microempresa (ME),11,Rondônia,2021,1,CNPJ,46035
+1,Microempresa (ME),11,Rondônia,2021,3,CEI,4379
+1,Microempresa (ME),11,Rondônia,2021,5,CAEPF,1139
+1,Microempresa (ME),11,Rondônia,2022,1,CNPJ,43368
+1,Microempresa (ME),11,Rondônia,2022,5,CAEPF,12805
+1,Microempresa (ME),11,Rondônia,2022,6,Não identificado - Código 6,1354
+1,Microempresa (ME),12,Acre,2016,1,CNPJ,13988
+1,Microempresa (ME),12,Acre,2016,3,CEI,1130
+1,Microempresa (ME),12,Acre,2017,1,CNPJ,13741
+1,Microempresa (ME),12,Acre,2017,3,CEI,1112
+1,Microempresa (ME),12,Acre,2018,1,CNPJ,13260
+1,Microempresa (ME),12,Acre,2018,3,CEI,1039
+1,Microempresa (ME),12,Acre,2018,5,CAEPF,59
+1,Microempresa (ME),12,Acre,2019,1,CNPJ,12537
+1,Microempresa (ME),12,Acre,2019,3,CEI,921
+1,Microempresa (ME),12,Acre,2019,5,CAEPF,94
+1,Microempresa (ME),12,Acre,2020,1,CNPJ,13232
+1,Microempresa (ME),12,Acre,2020,3,CEI,813
+1,Microempresa (ME),12,Acre,2020,5,CAEPF,112
+1,Microempresa (ME),12,Acre,2021,1,CNPJ,13644
+1,Microempresa (ME),12,Acre,2021,3,CEI,739
+1,Microempresa (ME),12,Acre,2021,5,CAEPF,134
+1,Microempresa (ME),12,Acre,2022,1,CNPJ,12115
+1,Microempresa (ME),12,Acre,2022,5,CAEPF,9011
+1,Microempresa (ME),12,Acre,2022,6,Não identificado - Código 6,573
+1,Microempresa (ME),13,Amazonas,2016,1,CNPJ,48062
+1,Microempresa (ME),13,Amazonas,2016,3,CEI,713
+1,Microempresa (ME),13,Amazonas,2017,1,CNPJ,48265
+1,Microempresa (ME),13,Amazonas,2017,3,CEI,694
+1,Microempresa (ME),13,Amazonas,2018,1,CNPJ,48415
+1,Microempresa (ME),13,Amazonas,2018,3,CEI,582
+1,Microempresa (ME),13,Amazonas,2018,5,CAEPF,60
+1,Microempresa (ME),13,Amazonas,2019,1,CNPJ,45606
+1,Microempresa (ME),13,Amazonas,2019,3,CEI,393
+1,Microempresa (ME),13,Amazonas,2019,5,CAEPF,148
+1,Microempresa (ME),13,Amazonas,2020,1,CNPJ,49355
+1,Microempresa (ME),13,Amazonas,2020,3,CEI,385
+1,Microempresa (ME),13,Amazonas,2020,5,CAEPF,183
+1,Microempresa (ME),13,Amazonas,2021,1,CNPJ,49504
+1,Microempresa (ME),13,Amazonas,2021,3,CEI,332
+1,Microempresa (ME),13,Amazonas,2021,5,CAEPF,179
+1,Microempresa (ME),13,Amazonas,2022,1,CNPJ,48650
+1,Microempresa (ME),13,Amazonas,2022,5,CAEPF,87751
+1,Microempresa (ME),13,Amazonas,2022,6,Não identificado - Código 6,689
+1,Microempresa (ME),14,Roraima,2016,1,CNPJ,9196
+1,Microempresa (ME),14,Roraima,2016,3,CEI,362
+1,Microempresa (ME),14,Roraima,2017,1,CNPJ,9368
+1,Microempresa (ME),14,Roraima,2017,3,CEI,360
+1,Microempresa (ME),14,Roraima,2018,1,CNPJ,9010
+1,Microempresa (ME),14,Roraima,2018,3,CEI,326
+1,Microempresa (ME),14,Roraima,2018,5,CAEPF,40
+1,Microempresa (ME),14,Roraima,2019,1,CNPJ,8552
+1,Microempresa (ME),14,Roraima,2019,3,CEI,275
+1,Microempresa (ME),14,Roraima,2019,5,CAEPF,92
+1,Microempresa (ME),14,Roraima,2020,1,CNPJ,9286
+1,Microempresa (ME),14,Roraima,2020,3,CEI,256
+1,Microempresa (ME),14,Roraima,2020,5,CAEPF,89
+1,Microempresa (ME),14,Roraima,2021,1,CNPJ,9532
+1,Microempresa (ME),14,Roraima,2021,3,CEI,257
+1,Microempresa (ME),14,Roraima,2021,5,CAEPF,104
+1,Microempresa (ME),14,Roraima,2022,1,CNPJ,9731
+1,Microempresa (ME),14,Roraima,2022,5,CAEPF,2426
+1,Microempresa (ME),14,Roraima,2022,6,Não identificado - Código 6,233
+1,Microempresa (ME),15,Pará,2016,1,CNPJ,104721
+1,Microempresa (ME),15,Pará,2016,3,CEI,7598
+1,Microempresa (ME),15,Pará,2017,1,CNPJ,104840
+1,Microempresa (ME),15,Pará,2017,3,CEI,7634
+1,Microempresa (ME),15,Pará,2018,1,CNPJ,102554
+1,Microempresa (ME),15,Pará,2018,3,CEI,6061
+1,Microempresa (ME),15,Pará,2018,5,CAEPF,1327
+1,Microempresa (ME),15,Pará,2019,1,CNPJ,98580
+1,Microempresa (ME),15,Pará,2019,3,CEI,4966
+1,Microempresa (ME),15,Pará,2019,5,CAEPF,2121
+1,Microempresa (ME),15,Pará,2020,1,CNPJ,106094
+1,Microempresa (ME),15,Pará,2020,3,CEI,4680
+1,Microempresa (ME),15,Pará,2020,5,CAEPF,2254
+1,Microempresa (ME),15,Pará,2021,1,CNPJ,109669
+1,Microempresa (ME),15,Pará,2021,3,CEI,4583
+1,Microempresa (ME),15,Pará,2021,5,CAEPF,2388
+1,Microempresa (ME),15,Pará,2022,1,CNPJ,105518
+1,Microempresa (ME),15,Pará,2022,5,CAEPF,365637
+1,Microempresa (ME),15,Pará,2022,6,Não identificado - Código 6,1517
+1,Microempresa (ME),16,Amapá,2016,1,CNPJ,11812
+1,Microempresa (ME),16,Amapá,2016,3,CEI,237
+1,Microempresa (ME),16,Amapá,2017,1,CNPJ,11357
+1,Microempresa (ME),16,Amapá,2017,3,CEI,220
+1,Microempresa (ME),16,Amapá,2018,1,CNPJ,10867
+1,Microempresa (ME),16,Amapá,2018,3,CEI,185
+1,Microempresa (ME),16,Amapá,2018,5,CAEPF,17
+1,Microempresa (ME),16,Amapá,2019,1,CNPJ,9748
+1,Microempresa (ME),16,Amapá,2019,3,CEI,120
+1,Microempresa (ME),16,Amapá,2019,5,CAEPF,52
+1,Microempresa (ME),16,Amapá,2020,1,CNPJ,10449
+1,Microempresa (ME),16,Amapá,2020,3,CEI,111
+1,Microempresa (ME),16,Amapá,2020,5,CAEPF,60
+1,Microempresa (ME),16,Amapá,2021,1,CNPJ,10061
+1,Microempresa (ME),16,Amapá,2021,3,CEI,66
+1,Microempresa (ME),16,Amapá,2021,5,CAEPF,76
+1,Microempresa (ME),16,Amapá,2022,1,CNPJ,10575
+1,Microempresa (ME),16,Amapá,2022,5,CAEPF,16885
+1,Microempresa (ME),16,Amapá,2022,6,Não identificado - Código 6,213
+1,Microempresa (ME),17,Tocantins,2016,1,CNPJ,36456
+1,Microempresa (ME),17,Tocantins,2016,3,CEI,7095
+1,Microempresa (ME),17,Tocantins,2017,1,CNPJ,37172
+1,Microempresa (ME),17,Tocantins,2017,3,CEI,7093
+1,Microempresa (ME),17,Tocantins,2018,1,CNPJ,37318
+1,Microempresa (ME),17,Tocantins,2018,3,CEI,6058
+1,Microempresa (ME),17,Tocantins,2018,5,CAEPF,999
+1,Microempresa (ME),17,Tocantins,2019,1,CNPJ,37189
+1,Microempresa (ME),17,Tocantins,2019,3,CEI,5940
+1,Microempresa (ME),17,Tocantins,2019,5,CAEPF,1175
+1,Microempresa (ME),17,Tocantins,2020,1,CNPJ,38856
+1,Microempresa (ME),17,Tocantins,2020,3,CEI,5796
+1,Microempresa (ME),17,Tocantins,2020,5,CAEPF,1080
+1,Microempresa (ME),17,Tocantins,2021,1,CNPJ,40221
+1,Microempresa (ME),17,Tocantins,2021,3,CEI,5938
+1,Microempresa (ME),17,Tocantins,2021,5,CAEPF,1190
+1,Microempresa (ME),17,Tocantins,2022,1,CNPJ,36834
+1,Microempresa (ME),17,Tocantins,2022,5,CAEPF,14731
+1,Microempresa (ME),17,Tocantins,2022,6,Não identificado - Código 6,822
+1,Microempresa (ME),21,Maranhão,2016,1,CNPJ,99085
+1,Microempresa (ME),21,Maranhão,2016,3,CEI,2726
+1,Microempresa (ME),21,Maranhão,2017,1,CNPJ,99686
+1,Microempresa (ME),21,Maranhão,2017,3,CEI,2621
+1,Microempresa (ME),21,Maranhão,2018,1,CNPJ,98459
+1,Microempresa (ME),21,Maranhão,2018,3,CEI,2185
+1,Microempresa (ME),21,Maranhão,2018,5,CAEPF,405
+1,Microempresa (ME),21,Maranhão,2019,1,CNPJ,92389
+1,Microempresa (ME),21,Maranhão,2019,3,CEI,1526
+1,Microempresa (ME),21,Maranhão,2019,5,CAEPF,1032
+1,Microempresa (ME),21,Maranhão,2020,1,CNPJ,99025
+1,Microempresa (ME),21,Maranhão,2020,3,CEI,1455
+1,Microempresa (ME),21,Maranhão,2020,5,CAEPF,1052
+1,Microempresa (ME),21,Maranhão,2021,1,CNPJ,100086
+1,Microempresa (ME),21,Maranhão,2021,3,CEI,1265
+1,Microempresa (ME),21,Maranhão,2021,5,CAEPF,1200
+1,Microempresa (ME),21,Maranhão,2022,1,CNPJ,84209
+1,Microempresa (ME),21,Maranhão,2022,5,CAEPF,327523
+1,Microempresa (ME),21,Maranhão,2022,6,Não identificado - Código 6,1050
+1,Microempresa (ME),22,Piauí,2016,1,CNPJ,69006
+1,Microempresa (ME),22,Piauí,2016,3,CEI,1375
+1,Microempresa (ME),22,Piauí,2017,1,CNPJ,70641
+1,Microempresa (ME),22,Piauí,2017,3,CEI,1256
+1,Microempresa (ME),22,Piauí,2018,1,CNPJ,70558
+1,Microempresa (ME),22,Piauí,2018,3,CEI,1163
+1,Microempresa (ME),22,Piauí,2018,5,CAEPF,80
+1,Microempresa (ME),22,Piauí,2019,1,CNPJ,67100
+1,Microempresa (ME),22,Piauí,2019,3,CEI,1017
+1,Microempresa (ME),22,Piauí,2019,5,CAEPF,197
+1,Microempresa (ME),22,Piauí,2020,1,CNPJ,70206
+1,Microempresa (ME),22,Piauí,2020,3,CEI,859
+1,Microempresa (ME),22,Piauí,2020,5,CAEPF,204
+1,Microempresa (ME),22,Piauí,2021,1,CNPJ,71362
+1,Microempresa (ME),22,Piauí,2021,3,CEI,846
+1,Microempresa (ME),22,Piauí,2021,5,CAEPF,254
+1,Microempresa (ME),22,Piauí,2022,1,CNPJ,58628
+1,Microempresa (ME),22,Piauí,2022,5,CAEPF,56007
+1,Microempresa (ME),22,Piauí,2022,6,Não identificado - Código 6,1900
+1,Microempresa (ME),23,Ceará,2016,1,CNPJ,205682
+1,Microempresa (ME),23,Ceará,2016,3,CEI,2710
+1,Microempresa (ME),23,Ceará,2017,1,CNPJ,201574
+1,Microempresa (ME),23,Ceará,2017,3,CEI,2659
+1,Microempresa (ME),23,Ceará,2018,1,CNPJ,193502
+1,Microempresa (ME),23,Ceará,2018,3,CEI,2437
+1,Microempresa (ME),23,Ceará,2018,5,CAEPF,70
+1,Microempresa (ME),23,Ceará,2019,1,CNPJ,182777
+1,Microempresa (ME),23,Ceará,2019,3,CEI,2058
+1,Microempresa (ME),23,Ceará,2019,5,CAEPF,195
+1,Microempresa (ME),23,Ceará,2020,1,CNPJ,189719
+1,Microempresa (ME),23,Ceará,2020,3,CEI,1955
+1,Microempresa (ME),23,Ceará,2020,5,CAEPF,177
+1,Microempresa (ME),23,Ceará,2021,1,CNPJ,194719
+1,Microempresa (ME),23,Ceará,2021,3,CEI,1879
+1,Microempresa (ME),23,Ceará,2021,5,CAEPF,188
+1,Microempresa (ME),23,Ceará,2022,1,CNPJ,160185
+1,Microempresa (ME),23,Ceará,2022,5,CAEPF,15794
+1,Microempresa (ME),23,Ceará,2022,6,Não identificado - Código 6,5754
+1,Microempresa (ME),24,Rio Grande Do Norte,2016,1,CNPJ,82826
+1,Microempresa (ME),24,Rio Grande Do Norte,2016,3,CEI,2005
+1,Microempresa (ME),24,Rio Grande Do Norte,2017,1,CNPJ,83091
+1,Microempresa (ME),24,Rio Grande Do Norte,2017,3,CEI,1874
+1,Microempresa (ME),24,Rio Grande Do Norte,2018,1,CNPJ,80967
+1,Microempresa (ME),24,Rio Grande Do Norte,2018,3,CEI,1722
+1,Microempresa (ME),24,Rio Grande Do Norte,2018,5,CAEPF,47
+1,Microempresa (ME),24,Rio Grande Do Norte,2019,1,CNPJ,78341
+1,Microempresa (ME),24,Rio Grande Do Norte,2019,3,CEI,1532
+1,Microempresa (ME),24,Rio Grande Do Norte,2019,5,CAEPF,149
+1,Microempresa (ME),24,Rio Grande Do Norte,2020,1,CNPJ,79592
+1,Microempresa (ME),24,Rio Grande Do Norte,2020,3,CEI,1317
+1,Microempresa (ME),24,Rio Grande Do Norte,2020,5,CAEPF,162
+1,Microempresa (ME),24,Rio Grande Do Norte,2021,1,CNPJ,82165
+1,Microempresa (ME),24,Rio Grande Do Norte,2021,3,CEI,1291
+1,Microempresa (ME),24,Rio Grande Do Norte,2021,5,CAEPF,174
+1,Microempresa (ME),24,Rio Grande Do Norte,2022,1,CNPJ,74909
+1,Microempresa (ME),24,Rio Grande Do Norte,2022,5,CAEPF,17392
+1,Microempresa (ME),24,Rio Grande Do Norte,2022,6,Não identificado - Código 6,4108
+1,Microempresa (ME),25,Paraíba,2016,1,CNPJ,83856
+1,Microempresa (ME),25,Paraíba,2016,3,CEI,2522
+1,Microempresa (ME),25,Paraíba,2017,1,CNPJ,85610
+1,Microempresa (ME),25,Paraíba,2017,3,CEI,2397
+1,Microempresa (ME),25,Paraíba,2018,1,CNPJ,83972
+1,Microempresa (ME),25,Paraíba,2018,3,CEI,2159
+1,Microempresa (ME),25,Paraíba,2018,5,CAEPF,121
+1,Microempresa (ME),25,Paraíba,2019,1,CNPJ,82312
+1,Microempresa (ME),25,Paraíba,2019,3,CEI,1761
+1,Microempresa (ME),25,Paraíba,2019,5,CAEPF,299
+1,Microempresa (ME),25,Paraíba,2020,1,CNPJ,85375
+1,Microempresa (ME),25,Paraíba,2020,3,CEI,1636
+1,Microempresa (ME),25,Paraíba,2020,5,CAEPF,283
+1,Microempresa (ME),25,Paraíba,2021,1,CNPJ,88004
+1,Microempresa (ME),25,Paraíba,2021,3,CEI,1635
+1,Microempresa (ME),25,Paraíba,2021,5,CAEPF,352
+1,Microempresa (ME),25,Paraíba,2022,1,CNPJ,71303
+1,Microempresa (ME),25,Paraíba,2022,5,CAEPF,43752
+1,Microempresa (ME),25,Paraíba,2022,6,Não identificado - Código 6,4151
+1,Microempresa (ME),26,Pernambuco,2016,1,CNPJ,180964
+1,Microempresa (ME),26,Pernambuco,2016,3,CEI,4721
+1,Microempresa (ME),26,Pernambuco,2017,1,CNPJ,179597
+1,Microempresa (ME),26,Pernambuco,2017,3,CEI,4468
+1,Microempresa (ME),26,Pernambuco,2018,1,CNPJ,177411
+1,Microempresa (ME),26,Pernambuco,2018,3,CEI,3893
+1,Microempresa (ME),26,Pernambuco,2018,5,CAEPF,454
+1,Microempresa (ME),26,Pernambuco,2019,1,CNPJ,170386
+1,Microempresa (ME),26,Pernambuco,2019,3,CEI,2857
+1,Microempresa (ME),26,Pernambuco,2019,5,CAEPF,1173
+1,Microempresa (ME),26,Pernambuco,2020,1,CNPJ,177015
+1,Microempresa (ME),26,Pernambuco,2020,3,CEI,2427
+1,Microempresa (ME),26,Pernambuco,2020,5,CAEPF,1351
+1,Microempresa (ME),26,Pernambuco,2021,1,CNPJ,181233
+1,Microempresa (ME),26,Pernambuco,2021,3,CEI,2038
+1,Microempresa (ME),26,Pernambuco,2021,5,CAEPF,1647
+1,Microempresa (ME),26,Pernambuco,2022,1,CNPJ,163499
+1,Microempresa (ME),26,Pernambuco,2022,5,CAEPF,14066
+1,Microempresa (ME),26,Pernambuco,2022,6,Não identificado - Código 6,3280
+1,Microempresa (ME),27,Alagoas,2016,1,CNPJ,52571
+1,Microempresa (ME),27,Alagoas,2016,3,CEI,1783
+1,Microempresa (ME),27,Alagoas,2017,1,CNPJ,52504
+1,Microempresa (ME),27,Alagoas,2017,3,CEI,1738
+1,Microempresa (ME),27,Alagoas,2018,1,CNPJ,51875
+1,Microempresa (ME),27,Alagoas,2018,3,CEI,1629
+1,Microempresa (ME),27,Alagoas,2018,5,CAEPF,70
+1,Microempresa (ME),27,Alagoas,2019,1,CNPJ,49963
+1,Microempresa (ME),27,Alagoas,2019,3,CEI,1234
+1,Microempresa (ME),27,Alagoas,2019,5,CAEPF,300
+1,Microempresa (ME),27,Alagoas,2020,1,CNPJ,52228
+1,Microempresa (ME),27,Alagoas,2020,3,CEI,1124
+1,Microempresa (ME),27,Alagoas,2020,5,CAEPF,356
+1,Microempresa (ME),27,Alagoas,2021,1,CNPJ,53574
+1,Microempresa (ME),27,Alagoas,2021,3,CEI,1076
+1,Microempresa (ME),27,Alagoas,2021,5,CAEPF,424
+1,Microempresa (ME),27,Alagoas,2022,1,CNPJ,50243
+1,Microempresa (ME),27,Alagoas,2022,5,CAEPF,23841
+1,Microempresa (ME),27,Alagoas,2022,6,Não identificado - Código 6,1415
+1,Microempresa (ME),28,Sergipe,2016,1,CNPJ,41105
+1,Microempresa (ME),28,Sergipe,2016,3,CEI,3186
+1,Microempresa (ME),28,Sergipe,2017,1,CNPJ,41528
+1,Microempresa (ME),28,Sergipe,2017,3,CEI,3169
+1,Microempresa (ME),28,Sergipe,2018,1,CNPJ,41485
+1,Microempresa (ME),28,Sergipe,2018,3,CEI,2779
+1,Microempresa (ME),28,Sergipe,2018,5,CAEPF,370
+1,Microempresa (ME),28,Sergipe,2019,1,CNPJ,40837
+1,Microempresa (ME),28,Sergipe,2019,3,CEI,1949
+1,Microempresa (ME),28,Sergipe,2019,5,CAEPF,960
+1,Microempresa (ME),28,Sergipe,2020,1,CNPJ,42377
+1,Microempresa (ME),28,Sergipe,2020,3,CEI,1810
+1,Microempresa (ME),28,Sergipe,2020,5,CAEPF,1007
+1,Microempresa (ME),28,Sergipe,2021,1,CNPJ,44001
+1,Microempresa (ME),28,Sergipe,2021,3,CEI,1515
+1,Microempresa (ME),28,Sergipe,2021,5,CAEPF,1128
+1,Microempresa (ME),28,Sergipe,2022,1,CNPJ,39268
+1,Microempresa (ME),28,Sergipe,2022,5,CAEPF,33350
+1,Microempresa (ME),28,Sergipe,2022,6,Não identificado - Código 6,1751
+1,Microempresa (ME),29,Bahia,2016,1,CNPJ,339535
+1,Microempresa (ME),29,Bahia,2016,3,CEI,17744
+1,Microempresa (ME),29,Bahia,2017,1,CNPJ,336761
+1,Microempresa (ME),29,Bahia,2017,3,CEI,18053
+1,Microempresa (ME),29,Bahia,2018,1,CNPJ,328408
+1,Microempresa (ME),29,Bahia,2018,3,CEI,15266
+1,Microempresa (ME),29,Bahia,2018,5,CAEPF,2217
+1,Microempresa (ME),29,Bahia,2019,1,CNPJ,315391
+1,Microempresa (ME),29,Bahia,2019,3,CEI,11770
+1,Microempresa (ME),29,Bahia,2019,5,CAEPF,4880
+1,Microempresa (ME),29,Bahia,2020,1,CNPJ,320974
+1,Microempresa (ME),29,Bahia,2020,3,CEI,10812
+1,Microempresa (ME),29,Bahia,2020,5,CAEPF,5085
+1,Microempresa (ME),29,Bahia,2021,1,CNPJ,327840
+1,Microempresa (ME),29,Bahia,2021,3,CEI,9702
+1,Microempresa (ME),29,Bahia,2021,5,CAEPF,5914
+1,Microempresa (ME),29,Bahia,2022,1,CNPJ,273479
+1,Microempresa (ME),29,Bahia,2022,5,CAEPF,141648
+1,Microempresa (ME),29,Bahia,2022,6,Não identificado - Código 6,5058
+1,Microempresa (ME),31,Minas Gerais,2016,1,CNPJ,783703
+1,Microempresa (ME),31,Minas Gerais,2016,3,CEI,89438
+1,Microempresa (ME),31,Minas Gerais,2017,1,CNPJ,779258
+1,Microempresa (ME),31,Minas Gerais,2017,3,CEI,87960
+1,Microempresa (ME),31,Minas Gerais,2018,1,CNPJ,768402
+1,Microempresa (ME),31,Minas Gerais,2018,3,CEI,71705
+1,Microempresa (ME),31,Minas Gerais,2018,5,CAEPF,13201
+1,Microempresa (ME),31,Minas Gerais,2019,1,CNPJ,760972
+1,Microempresa (ME),31,Minas Gerais,2019,3,CEI,52796
+1,Microempresa (ME),31,Minas Gerais,2019,5,CAEPF,28021
+1,Microempresa (ME),31,Minas Gerais,2020,1,CNPJ,783063
+1,Microempresa (ME),31,Minas Gerais,2020,3,CEI,45260
+1,Microempresa (ME),31,Minas Gerais,2020,5,CAEPF,31012
+1,Microempresa (ME),31,Minas Gerais,2021,1,CNPJ,813226
+1,Microempresa (ME),31,Minas Gerais,2021,3,CEI,39434
+1,Microempresa (ME),31,Minas Gerais,2021,5,CAEPF,36077
+1,Microempresa (ME),31,Minas Gerais,2022,1,CNPJ,644479
+1,Microempresa (ME),31,Minas Gerais,2022,3,CEI,3
+1,Microempresa (ME),31,Minas Gerais,2022,5,CAEPF,105880
+1,Microempresa (ME),31,Minas Gerais,2022,6,Não identificado - Código 6,24068
+1,Microempresa (ME),32,Espírito Santo,2016,1,CNPJ,139901
+1,Microempresa (ME),32,Espírito Santo,2016,3,CEI,10336
+1,Microempresa (ME),32,Espírito Santo,2017,1,CNPJ,139631
+1,Microempresa (ME),32,Espírito Santo,2017,3,CEI,9968
+1,Microempresa (ME),32,Espírito Santo,2018,1,CNPJ,136528
+1,Microempresa (ME),32,Espírito Santo,2018,3,CEI,7648
+1,Microempresa (ME),32,Espírito Santo,2018,5,CAEPF,1969
+1,Microempresa (ME),32,Espírito Santo,2019,1,CNPJ,136900
+1,Microempresa (ME),32,Espírito Santo,2019,3,CEI,4294
+1,Microempresa (ME),32,Espírito Santo,2019,5,CAEPF,4915
+1,Microempresa (ME),32,Espírito Santo,2020,1,CNPJ,141520
+1,Microempresa (ME),32,Espírito Santo,2020,3,CEI,3873
+1,Microempresa (ME),32,Espírito Santo,2020,5,CAEPF,4742
+1,Microempresa (ME),32,Espírito Santo,2021,1,CNPJ,146304
+1,Microempresa (ME),32,Espírito Santo,2021,3,CEI,3256
+1,Microempresa (ME),32,Espírito Santo,2021,5,CAEPF,5137
+1,Microempresa (ME),32,Espírito Santo,2022,1,CNPJ,118902
+1,Microempresa (ME),32,Espírito Santo,2022,5,CAEPF,22971
+1,Microempresa (ME),32,Espírito Santo,2022,6,Não identificado - Código 6,2725
+1,Microempresa (ME),33,Rio De Janeiro,2016,1,CNPJ,489133
+1,Microempresa (ME),33,Rio De Janeiro,2016,3,CEI,17707
+1,Microempresa (ME),33,Rio De Janeiro,2017,1,CNPJ,486292
+1,Microempresa (ME),33,Rio De Janeiro,2017,3,CEI,17015
+1,Microempresa (ME),33,Rio De Janeiro,2018,1,CNPJ,477452
+1,Microempresa (ME),33,Rio De Janeiro,2018,3,CEI,13117
+1,Microempresa (ME),33,Rio De Janeiro,2018,5,CAEPF,2884
+1,Microempresa (ME),33,Rio De Janeiro,2019,1,CNPJ,467869
+1,Microempresa (ME),33,Rio De Janeiro,2019,3,CEI,7856
+1,Microempresa (ME),33,Rio De Janeiro,2019,5,CAEPF,6659
+1,Microempresa (ME),33,Rio De Janeiro,2020,1,CNPJ,484148
+1,Microempresa (ME),33,Rio De Janeiro,2020,3,CEI,6885
+1,Microempresa (ME),33,Rio De Janeiro,2020,5,CAEPF,6421
+1,Microempresa (ME),33,Rio De Janeiro,2021,1,CNPJ,498426
+1,Microempresa (ME),33,Rio De Janeiro,2021,3,CEI,4484
+1,Microempresa (ME),33,Rio De Janeiro,2021,5,CAEPF,7821
+1,Microempresa (ME),33,Rio De Janeiro,2022,1,CNPJ,407434
+1,Microempresa (ME),33,Rio De Janeiro,2022,5,CAEPF,25381
+1,Microempresa (ME),33,Rio De Janeiro,2022,6,Não identificado - Código 6,4563
+1,Microempresa (ME),35,São Paulo,2016,1,CNPJ,2229411
+1,Microempresa (ME),35,São Paulo,2016,3,CEI,80158
+1,Microempresa (ME),35,São Paulo,2017,1,CNPJ,2230746
+1,Microempresa (ME),35,São Paulo,2017,3,CEI,77394
+1,Microempresa (ME),35,São Paulo,2018,1,CNPJ,2210012
+1,Microempresa (ME),35,São Paulo,2018,3,CEI,62328
+1,Microempresa (ME),35,São Paulo,2018,5,CAEPF,11279
+1,Microempresa (ME),35,São Paulo,2019,1,CNPJ,2201031
+1,Microempresa (ME),35,São Paulo,2019,3,CEI,44131
+1,Microempresa (ME),35,São Paulo,2019,5,CAEPF,26416
+1,Microempresa (ME),35,São Paulo,2020,1,CNPJ,2288271
+1,Microempresa (ME),35,São Paulo,2020,3,CEI,40171
+1,Microempresa (ME),35,São Paulo,2020,5,CAEPF,26645
+1,Microempresa (ME),35,São Paulo,2021,1,CNPJ,2363365
+1,Microempresa (ME),35,São Paulo,2021,3,CEI,33826
+1,Microempresa (ME),35,São Paulo,2021,5,CAEPF,30955
+1,Microempresa (ME),35,São Paulo,2022,1,CNPJ,1727931
+1,Microempresa (ME),35,São Paulo,2022,3,CEI,1
+1,Microempresa (ME),35,São Paulo,2022,5,CAEPF,99953
+1,Microempresa (ME),35,São Paulo,2022,6,Não identificado - Código 6,16339
+1,Microempresa (ME),41,Paraná,2016,1,CNPJ,576073
+1,Microempresa (ME),41,Paraná,2016,3,CEI,36410
+1,Microempresa (ME),41,Paraná,2017,1,CNPJ,578842
+1,Microempresa (ME),41,Paraná,2017,3,CEI,35870
+1,Microempresa (ME),41,Paraná,2018,1,CNPJ,574011
+1,Microempresa (ME),41,Paraná,2018,3,CEI,31471
+1,Microempresa (ME),41,Paraná,2018,5,CAEPF,2466
+1,Microempresa (ME),41,Paraná,2019,1,CNPJ,574989
+1,Microempresa (ME),41,Paraná,2019,3,CEI,19940
+1,Microempresa (ME),41,Paraná,2019,5,CAEPF,12281
+1,Microempresa (ME),41,Paraná,2020,1,CNPJ,596911
+1,Microempresa (ME),41,Paraná,2020,3,CEI,16062
+1,Microempresa (ME),41,Paraná,2020,5,CAEPF,14341
+1,Microempresa (ME),41,Paraná,2021,1,CNPJ,618734
+1,Microempresa (ME),41,Paraná,2021,3,CEI,13891
+1,Microempresa (ME),41,Paraná,2021,5,CAEPF,16317
+1,Microempresa (ME),41,Paraná,2022,1,CNPJ,478834
+1,Microempresa (ME),41,Paraná,2022,3,CEI,2
+1,Microempresa (ME),41,Paraná,2022,5,CAEPF,42868
+1,Microempresa (ME),41,Paraná,2022,6,Não identificado - Código 6,11345
+1,Microempresa (ME),42,Santa Catarina,2016,1,CNPJ,395950
+1,Microempresa (ME),42,Santa Catarina,2016,3,CEI,12459
+1,Microempresa (ME),42,Santa Catarina,2017,1,CNPJ,399946
+1,Microempresa (ME),42,Santa Catarina,2017,3,CEI,12182
+1,Microempresa (ME),42,Santa Catarina,2018,1,CNPJ,400102
+1,Microempresa (ME),42,Santa Catarina,2018,3,CEI,9510
+1,Microempresa (ME),42,Santa Catarina,2018,5,CAEPF,2007
+1,Microempresa (ME),42,Santa Catarina,2019,1,CNPJ,404860
+1,Microempresa (ME),42,Santa Catarina,2019,3,CEI,6113
+1,Microempresa (ME),42,Santa Catarina,2019,5,CAEPF,4600
+1,Microempresa (ME),42,Santa Catarina,2020,1,CNPJ,425631
+1,Microempresa (ME),42,Santa Catarina,2020,3,CEI,5621
+1,Microempresa (ME),42,Santa Catarina,2020,5,CAEPF,4443
+1,Microempresa (ME),42,Santa Catarina,2021,1,CNPJ,455068
+1,Microempresa (ME),42,Santa Catarina,2021,3,CEI,5400
+1,Microempresa (ME),42,Santa Catarina,2021,5,CAEPF,4554
+1,Microempresa (ME),42,Santa Catarina,2022,1,CNPJ,365206
+1,Microempresa (ME),42,Santa Catarina,2022,3,CEI,1
+1,Microempresa (ME),42,Santa Catarina,2022,5,CAEPF,55046
+1,Microempresa (ME),42,Santa Catarina,2022,6,Não identificado - Código 6,9873
+1,Microempresa (ME),43,Rio Grande Do Sul,2016,1,CNPJ,627395
+1,Microempresa (ME),43,Rio Grande Do Sul,2016,3,CEI,32206
+1,Microempresa (ME),43,Rio Grande Do Sul,2017,1,CNPJ,612656
+1,Microempresa (ME),43,Rio Grande Do Sul,2017,3,CEI,31171
+1,Microempresa (ME),43,Rio Grande Do Sul,2018,1,CNPJ,595868
+1,Microempresa (ME),43,Rio Grande Do Sul,2018,3,CEI,27882
+1,Microempresa (ME),43,Rio Grande Do Sul,2018,5,CAEPF,1703
+1,Microempresa (ME),43,Rio Grande Do Sul,2019,1,CNPJ,576547
+1,Microempresa (ME),43,Rio Grande Do Sul,2019,3,CEI,19399
+1,Microempresa (ME),43,Rio Grande Do Sul,2019,5,CAEPF,8650
+1,Microempresa (ME),43,Rio Grande Do Sul,2020,1,CNPJ,582851
+1,Microempresa (ME),43,Rio Grande Do Sul,2020,3,CEI,18228
+1,Microempresa (ME),43,Rio Grande Do Sul,2020,5,CAEPF,8543
+1,Microempresa (ME),43,Rio Grande Do Sul,2021,1,CNPJ,592089
+1,Microempresa (ME),43,Rio Grande Do Sul,2021,3,CEI,17005
+1,Microempresa (ME),43,Rio Grande Do Sul,2021,5,CAEPF,9020
+1,Microempresa (ME),43,Rio Grande Do Sul,2022,1,CNPJ,426068
+1,Microempresa (ME),43,Rio Grande Do Sul,2022,3,CEI,1
+1,Microempresa (ME),43,Rio Grande Do Sul,2022,5,CAEPF,57082
+1,Microempresa (ME),43,Rio Grande Do Sul,2022,6,Não identificado - Código 6,10503
+1,Microempresa (ME),50,Mato Grosso Do Sul,2016,1,CNPJ,92033
+1,Microempresa (ME),50,Mato Grosso Do Sul,2016,3,CEI,20796
+1,Microempresa (ME),50,Mato Grosso Do Sul,2017,1,CNPJ,93641
+1,Microempresa (ME),50,Mato Grosso Do Sul,2017,3,CEI,20936
+1,Microempresa (ME),50,Mato Grosso Do Sul,2018,1,CNPJ,92547
+1,Microempresa (ME),50,Mato Grosso Do Sul,2018,3,CEI,18207
+1,Microempresa (ME),50,Mato Grosso Do Sul,2018,5,CAEPF,2117
+1,Microempresa (ME),50,Mato Grosso Do Sul,2019,1,CNPJ,90344
+1,Microempresa (ME),50,Mato Grosso Do Sul,2019,3,CEI,15668
+1,Microempresa (ME),50,Mato Grosso Do Sul,2019,5,CAEPF,4875
+1,Microempresa (ME),50,Mato Grosso Do Sul,2020,1,CNPJ,95449
+1,Microempresa (ME),50,Mato Grosso Do Sul,2020,3,CEI,14989
+1,Microempresa (ME),50,Mato Grosso Do Sul,2020,5,CAEPF,5314
+1,Microempresa (ME),50,Mato Grosso Do Sul,2021,1,CNPJ,98542
+1,Microempresa (ME),50,Mato Grosso Do Sul,2021,3,CEI,14398
+1,Microempresa (ME),50,Mato Grosso Do Sul,2021,5,CAEPF,6111
+1,Microempresa (ME),50,Mato Grosso Do Sul,2022,1,CNPJ,86579
+1,Microempresa (ME),50,Mato Grosso Do Sul,2022,3,CEI,2
+1,Microempresa (ME),50,Mato Grosso Do Sul,2022,5,CAEPF,30793
+1,Microempresa (ME),50,Mato Grosso Do Sul,2022,6,Não identificado - Código 6,1770
+1,Microempresa (ME),51,Mato Grosso,2016,1,CNPJ,126217
+1,Microempresa (ME),51,Mato Grosso,2016,3,CEI,19721
+1,Microempresa (ME),51,Mato Grosso,2017,1,CNPJ,127353
+1,Microempresa (ME),51,Mato Grosso,2017,3,CEI,19619
+1,Microempresa (ME),51,Mato Grosso,2018,1,CNPJ,126785
+1,Microempresa (ME),51,Mato Grosso,2018,3,CEI,16699
+1,Microempresa (ME),51,Mato Grosso,2018,5,CAEPF,2611
+1,Microempresa (ME),51,Mato Grosso,2019,1,CNPJ,126707
+1,Microempresa (ME),51,Mato Grosso,2019,3,CEI,15193
+1,Microempresa (ME),51,Mato Grosso,2019,5,CAEPF,4979
+1,Microempresa (ME),51,Mato Grosso,2020,1,CNPJ,132502
+1,Microempresa (ME),51,Mato Grosso,2020,3,CEI,15237
+1,Microempresa (ME),51,Mato Grosso,2020,5,CAEPF,4792
+1,Microempresa (ME),51,Mato Grosso,2021,1,CNPJ,140082
+1,Microempresa (ME),51,Mato Grosso,2021,3,CEI,15537
+1,Microempresa (ME),51,Mato Grosso,2021,5,CAEPF,4947
+1,Microempresa (ME),51,Mato Grosso,2022,1,CNPJ,133867
+1,Microempresa (ME),51,Mato Grosso,2022,3,CEI,2
+1,Microempresa (ME),51,Mato Grosso,2022,5,CAEPF,36113
+1,Microempresa (ME),51,Mato Grosso,2022,6,Não identificado - Código 6,2661
+1,Microempresa (ME),52,Goiás,2016,1,CNPJ,227781
+1,Microempresa (ME),52,Goiás,2016,3,CEI,31999
+1,Microempresa (ME),52,Goiás,2017,1,CNPJ,229696
+1,Microempresa (ME),52,Goiás,2017,3,CEI,31991
+1,Microempresa (ME),52,Goiás,2018,1,CNPJ,229610
+1,Microempresa (ME),52,Goiás,2018,3,CEI,25535
+1,Microempresa (ME),52,Goiás,2018,5,CAEPF,5697
+1,Microempresa (ME),52,Goiás,2019,1,CNPJ,229820
+1,Microempresa (ME),52,Goiás,2019,3,CEI,26079
+1,Microempresa (ME),52,Goiás,2019,5,CAEPF,4654
+1,Microempresa (ME),52,Goiás,2020,1,CNPJ,239978
+1,Microempresa (ME),52,Goiás,2020,3,CEI,24791
+1,Microempresa (ME),52,Goiás,2020,5,CAEPF,4823
+1,Microempresa (ME),52,Goiás,2021,1,CNPJ,251456
+1,Microempresa (ME),52,Goiás,2021,3,CEI,24322
+1,Microempresa (ME),52,Goiás,2021,5,CAEPF,5475
+1,Microempresa (ME),52,Goiás,2022,1,CNPJ,222602
+1,Microempresa (ME),52,Goiás,2022,3,CEI,1
+1,Microempresa (ME),52,Goiás,2022,5,CAEPF,37376
+1,Microempresa (ME),52,Goiás,2022,6,Não identificado - Código 6,4076
+1,Microempresa (ME),53,Distrito Federal,2016,1,CNPJ,113914
+1,Microempresa (ME),53,Distrito Federal,2016,3,CEI,2169
+1,Microempresa (ME),53,Distrito Federal,2017,1,CNPJ,114835
+1,Microempresa (ME),53,Distrito Federal,2017,3,CEI,2061
+1,Microempresa (ME),53,Distrito Federal,2018,1,CNPJ,114084
+1,Microempresa (ME),53,Distrito Federal,2018,3,CEI,1763
+1,Microempresa (ME),53,Distrito Federal,2018,5,CAEPF,146
+1,Microempresa (ME),53,Distrito Federal,2019,1,CNPJ,115643
+1,Microempresa (ME),53,Distrito Federal,2019,3,CEI,1554
+1,Microempresa (ME),53,Distrito Federal,2019,5,CAEPF,253
+1,Microempresa (ME),53,Distrito Federal,2020,1,CNPJ,122408
+1,Microempresa (ME),53,Distrito Federal,2020,3,CEI,1358
+1,Microempresa (ME),53,Distrito Federal,2020,5,CAEPF,236
+1,Microempresa (ME),53,Distrito Federal,2021,1,CNPJ,128953
+1,Microempresa (ME),53,Distrito Federal,2021,3,CEI,1196
+1,Microempresa (ME),53,Distrito Federal,2021,5,CAEPF,278
+1,Microempresa (ME),53,Distrito Federal,2022,1,CNPJ,122304
+1,Microempresa (ME),53,Distrito Federal,2022,5,CAEPF,1855
+1,Microempresa (ME),53,Distrito Federal,2022,6,Não identificado - Código 6,1268
+1,Microempresa (ME),99,Não informado,2020,1,CNPJ,13
+1,Microempresa (ME),99,Não informado,2021,1,CNPJ,54
+1,Microempresa (ME),99,Não informado,2022,1,CNPJ,1157
+1,Microempresa (ME),99,Não informado,2022,5,CAEPF,1
+1,Microempresa (ME),99,Não informado,2022,6,Não identificado - Código 6,68
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2016,1,CNPJ,3632
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2016,3,CEI,187
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2017,1,CNPJ,3587
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2017,3,CEI,212
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2018,1,CNPJ,3591
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2018,3,CEI,185
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2018,5,CAEPF,40
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2019,1,CNPJ,3611
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2019,3,CEI,150
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2019,5,CAEPF,86
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2020,1,CNPJ,3601
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2020,3,CEI,148
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2020,5,CAEPF,76
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2021,1,CNPJ,3844
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2021,3,CEI,184
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2021,5,CAEPF,58
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2022,1,CNPJ,4394
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2022,5,CAEPF,310
+2,Empresa de Pequeno Porte (EPP),11,Rondônia,2022,6,Não identificado - Código 6,25
+2,Empresa de Pequeno Porte (EPP),12,Acre,2016,1,CNPJ,1053
+2,Empresa de Pequeno Porte (EPP),12,Acre,2016,3,CEI,79
+2,Empresa de Pequeno Porte (EPP),12,Acre,2017,1,CNPJ,1037
+2,Empresa de Pequeno Porte (EPP),12,Acre,2017,3,CEI,76
+2,Empresa de Pequeno Porte (EPP),12,Acre,2018,1,CNPJ,1066
+2,Empresa de Pequeno Porte (EPP),12,Acre,2018,3,CEI,66
+2,Empresa de Pequeno Porte (EPP),12,Acre,2018,5,CAEPF,4
+2,Empresa de Pequeno Porte (EPP),12,Acre,2019,1,CNPJ,1063
+2,Empresa de Pequeno Porte (EPP),12,Acre,2019,3,CEI,63
+2,Empresa de Pequeno Porte (EPP),12,Acre,2019,5,CAEPF,2
+2,Empresa de Pequeno Porte (EPP),12,Acre,2020,1,CNPJ,1054
+2,Empresa de Pequeno Porte (EPP),12,Acre,2020,3,CEI,70
+2,Empresa de Pequeno Porte (EPP),12,Acre,2020,5,CAEPF,5
+2,Empresa de Pequeno Porte (EPP),12,Acre,2021,1,CNPJ,1187
+2,Empresa de Pequeno Porte (EPP),12,Acre,2021,3,CEI,65
+2,Empresa de Pequeno Porte (EPP),12,Acre,2021,5,CAEPF,8
+2,Empresa de Pequeno Porte (EPP),12,Acre,2022,1,CNPJ,1259
+2,Empresa de Pequeno Porte (EPP),12,Acre,2022,5,CAEPF,83
+2,Empresa de Pequeno Porte (EPP),12,Acre,2022,6,Não identificado - Código 6,21
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2016,1,CNPJ,4444
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2016,3,CEI,52
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2017,1,CNPJ,4469
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2017,3,CEI,43
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2018,1,CNPJ,4496
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2018,3,CEI,44
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2018,5,CAEPF,6
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2019,1,CNPJ,4429
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2019,3,CEI,33
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2019,5,CAEPF,15
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2020,1,CNPJ,4322
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2020,3,CEI,30
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2020,5,CAEPF,17
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2021,1,CNPJ,4637
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2021,3,CEI,40
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2021,5,CAEPF,16
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2022,1,CNPJ,5363
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2022,5,CAEPF,73
+2,Empresa de Pequeno Porte (EPP),13,Amazonas,2022,6,Não identificado - Código 6,46
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2016,1,CNPJ,726
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2016,3,CEI,22
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2017,1,CNPJ,743
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2017,3,CEI,19
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2018,1,CNPJ,718
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2018,3,CEI,21
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2018,5,CAEPF,2
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2019,1,CNPJ,764
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2019,3,CEI,18
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2019,5,CAEPF,4
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2020,1,CNPJ,760
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2020,3,CEI,19
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2020,5,CAEPF,9
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2021,1,CNPJ,860
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2021,3,CEI,25
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2021,5,CAEPF,5
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2022,1,CNPJ,1108
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2022,5,CAEPF,42
+2,Empresa de Pequeno Porte (EPP),14,Roraima,2022,6,Não identificado - Código 6,11
+2,Empresa de Pequeno Porte (EPP),15,Pará,2016,1,CNPJ,8888
+2,Empresa de Pequeno Porte (EPP),15,Pará,2016,3,CEI,571
+2,Empresa de Pequeno Porte (EPP),15,Pará,2017,1,CNPJ,8751
+2,Empresa de Pequeno Porte (EPP),15,Pará,2017,3,CEI,583
+2,Empresa de Pequeno Porte (EPP),15,Pará,2018,1,CNPJ,8927
+2,Empresa de Pequeno Porte (EPP),15,Pará,2018,3,CEI,456
+2,Empresa de Pequeno Porte (EPP),15,Pará,2018,5,CAEPF,135
+2,Empresa de Pequeno Porte (EPP),15,Pará,2019,1,CNPJ,8755
+2,Empresa de Pequeno Porte (EPP),15,Pará,2019,3,CEI,358
+2,Empresa de Pequeno Porte (EPP),15,Pará,2019,5,CAEPF,254
+2,Empresa de Pequeno Porte (EPP),15,Pará,2020,1,CNPJ,8883
+2,Empresa de Pequeno Porte (EPP),15,Pará,2020,3,CEI,321
+2,Empresa de Pequeno Porte (EPP),15,Pará,2020,5,CAEPF,235
+2,Empresa de Pequeno Porte (EPP),15,Pará,2021,1,CNPJ,9670
+2,Empresa de Pequeno Porte (EPP),15,Pará,2021,3,CEI,343
+2,Empresa de Pequeno Porte (EPP),15,Pará,2021,5,CAEPF,245
+2,Empresa de Pequeno Porte (EPP),15,Pará,2022,1,CNPJ,11041
+2,Empresa de Pequeno Porte (EPP),15,Pará,2022,5,CAEPF,803
+2,Empresa de Pequeno Porte (EPP),15,Pará,2022,6,Não identificado - Código 6,160
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2016,1,CNPJ,973
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2016,3,CEI,7
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2017,1,CNPJ,982
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2017,3,CEI,8
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2018,1,CNPJ,979
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2018,3,CEI,4
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2018,5,CAEPF,2
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2019,1,CNPJ,952
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2019,3,CEI,4
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2019,5,CAEPF,2
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2020,1,CNPJ,941
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2020,3,CEI,3
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2020,5,CAEPF,4
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2021,1,CNPJ,967
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2021,3,CEI,4
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2021,5,CAEPF,9
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2022,1,CNPJ,1095
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2022,5,CAEPF,16
+2,Empresa de Pequeno Porte (EPP),16,Amapá,2022,6,Não identificado - Código 6,14
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2016,1,CNPJ,2219
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2016,3,CEI,227
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2017,1,CNPJ,2323
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2017,3,CEI,223
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2018,1,CNPJ,2360
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2018,3,CEI,208
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2018,5,CAEPF,35
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2019,1,CNPJ,2430
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2019,3,CEI,176
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2019,5,CAEPF,59
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2020,1,CNPJ,2430
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2020,3,CEI,182
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2020,5,CAEPF,65
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2021,1,CNPJ,2677
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2021,3,CEI,223
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2021,5,CAEPF,60
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2022,1,CNPJ,3082
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2022,5,CAEPF,373
+2,Empresa de Pequeno Porte (EPP),17,Tocantins,2022,6,Não identificado - Código 6,41
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2016,1,CNPJ,5677
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2016,3,CEI,240
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2017,1,CNPJ,5782
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2017,3,CEI,243
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2018,1,CNPJ,5839
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2018,3,CEI,201
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2018,5,CAEPF,62
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2019,1,CNPJ,5831
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2019,3,CEI,121
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2019,5,CAEPF,138
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2020,1,CNPJ,5770
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2020,3,CEI,134
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2020,5,CAEPF,143
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2021,1,CNPJ,6324
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2021,3,CEI,132
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2021,5,CAEPF,152
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2022,1,CNPJ,7184
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2022,5,CAEPF,405
+2,Empresa de Pequeno Porte (EPP),21,Maranhão,2022,6,Não identificado - Código 6,117
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2016,1,CNPJ,3592
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2016,3,CEI,72
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2017,1,CNPJ,3705
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2017,3,CEI,84
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2018,1,CNPJ,3822
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2018,3,CEI,72
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2018,5,CAEPF,18
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2019,1,CNPJ,3892
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2019,3,CEI,69
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2019,5,CAEPF,42
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2020,1,CNPJ,3720
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2020,3,CEI,71
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2020,5,CAEPF,37
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2021,1,CNPJ,4017
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2021,3,CEI,74
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2021,5,CAEPF,38
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2022,1,CNPJ,4441
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2022,5,CAEPF,135
+2,Empresa de Pequeno Porte (EPP),22,Piauí,2022,6,Não identificado - Código 6,97
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2016,1,CNPJ,12431
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2016,3,CEI,80
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2017,1,CNPJ,12376
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2017,3,CEI,93
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2018,1,CNPJ,12439
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2018,3,CEI,93
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2018,5,CAEPF,5
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2019,1,CNPJ,12746
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2019,3,CEI,87
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2019,5,CAEPF,13
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2020,1,CNPJ,12277
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2020,3,CEI,91
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2020,5,CAEPF,10
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2021,1,CNPJ,13062
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2021,3,CEI,90
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2021,5,CAEPF,19
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2022,1,CNPJ,14076
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2022,5,CAEPF,146
+2,Empresa de Pequeno Porte (EPP),23,Ceará,2022,6,Não identificado - Código 6,280
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2016,1,CNPJ,5450
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2016,3,CEI,48
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2017,1,CNPJ,5463
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2017,3,CEI,50
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2018,1,CNPJ,5462
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2018,3,CEI,53
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2018,5,CAEPF,2
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2019,1,CNPJ,5467
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2019,3,CEI,48
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2019,5,CAEPF,8
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2020,1,CNPJ,5297
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2020,3,CEI,36
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2020,5,CAEPF,7
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2021,1,CNPJ,5722
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2021,3,CEI,40
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2021,5,CAEPF,10
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2022,1,CNPJ,6221
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2022,5,CAEPF,56
+2,Empresa de Pequeno Porte (EPP),24,Rio Grande Do Norte,2022,6,Não identificado - Código 6,112
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2016,1,CNPJ,5015
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2016,3,CEI,104
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2017,1,CNPJ,4996
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2017,3,CEI,92
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2018,1,CNPJ,5138
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2018,3,CEI,81
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2018,5,CAEPF,14
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2019,1,CNPJ,5098
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2019,3,CEI,83
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2019,5,CAEPF,31
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2020,1,CNPJ,4963
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2020,3,CEI,71
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2020,5,CAEPF,40
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2021,1,CNPJ,5338
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2021,3,CEI,66
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2021,5,CAEPF,35
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2022,1,CNPJ,5721
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2022,5,CAEPF,133
+2,Empresa de Pequeno Porte (EPP),25,Paraíba,2022,6,Não identificado - Código 6,267
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2016,1,CNPJ,14755
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2016,3,CEI,485
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2017,1,CNPJ,14641
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2017,3,CEI,510
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2018,1,CNPJ,14788
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2018,3,CEI,417
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2018,5,CAEPF,75
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2019,1,CNPJ,14693
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2019,3,CEI,342
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2019,5,CAEPF,183
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2020,1,CNPJ,14086
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2020,3,CEI,321
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2020,5,CAEPF,191
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2021,1,CNPJ,15198
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2021,3,CEI,320
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2021,5,CAEPF,206
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2022,1,CNPJ,16457
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2022,5,CAEPF,622
+2,Empresa de Pequeno Porte (EPP),26,Pernambuco,2022,6,Não identificado - Código 6,269
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2016,1,CNPJ,4009
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2016,3,CEI,130
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2017,1,CNPJ,4125
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2017,3,CEI,165
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2018,1,CNPJ,4183
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2018,3,CEI,142
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2018,5,CAEPF,9
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2019,1,CNPJ,4199
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2019,3,CEI,97
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2019,5,CAEPF,28
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2020,1,CNPJ,4088
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2020,3,CEI,95
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2020,5,CAEPF,28
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2021,1,CNPJ,4503
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2021,3,CEI,100
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2021,5,CAEPF,39
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2022,1,CNPJ,4941
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2022,5,CAEPF,189
+2,Empresa de Pequeno Porte (EPP),27,Alagoas,2022,6,Não identificado - Código 6,142
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2016,1,CNPJ,3540
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2016,3,CEI,89
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2017,1,CNPJ,3584
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2017,3,CEI,93
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2018,1,CNPJ,3574
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2018,3,CEI,63
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2018,5,CAEPF,25
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2019,1,CNPJ,3634
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2019,3,CEI,32
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2019,5,CAEPF,46
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2020,1,CNPJ,3496
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2020,3,CEI,33
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2020,5,CAEPF,41
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2021,1,CNPJ,3835
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2021,3,CEI,24
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2021,5,CAEPF,59
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2022,1,CNPJ,4156
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2022,5,CAEPF,98
+2,Empresa de Pequeno Porte (EPP),28,Sergipe,2022,6,Não identificado - Código 6,63
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2016,1,CNPJ,20863
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2016,3,CEI,843
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2017,1,CNPJ,20788
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2017,3,CEI,844
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2018,1,CNPJ,21052
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2018,3,CEI,662
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2018,5,CAEPF,188
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2019,1,CNPJ,21046
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2019,3,CEI,502
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2019,5,CAEPF,350
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2020,1,CNPJ,20091
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2020,3,CEI,482
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2020,5,CAEPF,357
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2021,1,CNPJ,21552
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2021,3,CEI,516
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2021,5,CAEPF,395
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2022,1,CNPJ,23850
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2022,5,CAEPF,1179
+2,Empresa de Pequeno Porte (EPP),29,Bahia,2022,6,Não identificado - Código 6,500
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2016,1,CNPJ,47389
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2016,3,CEI,3011
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2017,1,CNPJ,47799
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2017,3,CEI,3094
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2018,1,CNPJ,48321
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2018,3,CEI,2410
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2018,5,CAEPF,745
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2019,1,CNPJ,48925
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2019,3,CEI,1725
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2019,5,CAEPF,1344
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2020,1,CNPJ,46798
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2020,3,CEI,1592
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2020,5,CAEPF,1515
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2021,1,CNPJ,49883
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2021,3,CEI,1521
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2021,5,CAEPF,1609
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2022,1,CNPJ,54017
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2022,5,CAEPF,3709
+2,Empresa de Pequeno Porte (EPP),31,Minas Gerais,2022,6,Não identificado - Código 6,685
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2016,1,CNPJ,9278
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2016,3,CEI,500
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2017,1,CNPJ,9167
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2017,3,CEI,514
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2018,1,CNPJ,9240
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2018,3,CEI,371
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2018,5,CAEPF,150
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2019,1,CNPJ,9544
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2019,3,CEI,179
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2019,5,CAEPF,342
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2020,1,CNPJ,9246
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2020,3,CEI,215
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2020,5,CAEPF,251
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2021,1,CNPJ,9981
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2021,3,CEI,224
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2021,5,CAEPF,290
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2022,1,CNPJ,10652
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2022,5,CAEPF,563
+2,Empresa de Pequeno Porte (EPP),32,Espírito Santo,2022,6,Não identificado - Código 6,165
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2016,1,CNPJ,44975
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2016,3,CEI,376
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2017,1,CNPJ,43814
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2017,3,CEI,384
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2018,1,CNPJ,43307
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2018,3,CEI,258
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2018,5,CAEPF,120
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2019,1,CNPJ,42563
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2019,3,CEI,136
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2019,5,CAEPF,221
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2020,1,CNPJ,39431
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2020,3,CEI,117
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2020,5,CAEPF,227
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2021,1,CNPJ,41222
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2021,3,CEI,95
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2021,5,CAEPF,255
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2022,1,CNPJ,44803
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2022,5,CAEPF,397
+2,Empresa de Pequeno Porte (EPP),33,Rio De Janeiro,2022,6,Não identificado - Código 6,305
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2016,1,CNPJ,135355
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2016,3,CEI,3380
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2017,1,CNPJ,134682
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2017,3,CEI,3389
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2018,1,CNPJ,135810
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2018,3,CEI,2793
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2018,5,CAEPF,538
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2019,1,CNPJ,136097
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2019,3,CEI,2014
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2019,5,CAEPF,1392
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2020,1,CNPJ,129489
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2020,3,CEI,2054
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2020,5,CAEPF,1317
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2021,1,CNPJ,135176
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2021,3,CEI,1938
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2021,5,CAEPF,1517
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2022,1,CNPJ,147455
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2022,5,CAEPF,3958
+2,Empresa de Pequeno Porte (EPP),35,São Paulo,2022,6,Não identificado - Código 6,404
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2016,1,CNPJ,32047
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2016,3,CEI,1103
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2017,1,CNPJ,32173
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2017,3,CEI,1136
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2018,1,CNPJ,32450
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2018,3,CEI,985
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2018,5,CAEPF,143
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2019,1,CNPJ,32969
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2019,3,CEI,593
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2019,5,CAEPF,514
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2020,1,CNPJ,31969
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2020,3,CEI,506
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2020,5,CAEPF,618
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2021,1,CNPJ,33993
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2021,3,CEI,491
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2021,5,CAEPF,676
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2022,1,CNPJ,36675
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2022,5,CAEPF,1345
+2,Empresa de Pequeno Porte (EPP),41,Paraná,2022,6,Não identificado - Código 6,205
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2016,1,CNPJ,23896
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2016,3,CEI,521
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2017,1,CNPJ,24250
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2017,3,CEI,522
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2018,1,CNPJ,24596
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2018,3,CEI,405
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2018,5,CAEPF,110
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2019,1,CNPJ,25221
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2019,3,CEI,270
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2019,5,CAEPF,231
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2020,1,CNPJ,24694
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2020,3,CEI,270
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2020,5,CAEPF,244
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2021,1,CNPJ,26649
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2021,3,CEI,305
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2021,5,CAEPF,259
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2022,1,CNPJ,28514
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2022,5,CAEPF,617
+2,Empresa de Pequeno Porte (EPP),42,Santa Catarina,2022,6,Não identificado - Código 6,242
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2016,1,CNPJ,31942
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2016,3,CEI,1185
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2017,1,CNPJ,31963
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2017,3,CEI,1142
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2018,1,CNPJ,31887
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2018,3,CEI,1034
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2018,5,CAEPF,99
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2019,1,CNPJ,32085
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2019,3,CEI,712
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2019,5,CAEPF,402
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2020,1,CNPJ,30202
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2020,3,CEI,727
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2020,5,CAEPF,401
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2021,1,CNPJ,32090
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2021,3,CEI,767
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2021,5,CAEPF,400
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2022,1,CNPJ,34000
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2022,5,CAEPF,1367
+2,Empresa de Pequeno Porte (EPP),43,Rio Grande Do Sul,2022,6,Não identificado - Código 6,207
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2016,1,CNPJ,6214
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2016,3,CEI,719
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2017,1,CNPJ,6267
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2017,3,CEI,721
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2018,1,CNPJ,6393
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2018,3,CEI,644
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2018,5,CAEPF,89
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2019,1,CNPJ,6570
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2019,3,CEI,461
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2019,5,CAEPF,235
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2020,1,CNPJ,6500
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2020,3,CEI,440
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2020,5,CAEPF,277
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2021,1,CNPJ,6995
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2021,3,CEI,444
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2021,5,CAEPF,304
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2022,1,CNPJ,7862
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2022,5,CAEPF,966
+2,Empresa de Pequeno Porte (EPP),50,Mato Grosso Do Sul,2022,6,Não identificado - Código 6,68
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2016,1,CNPJ,8834
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2016,3,CEI,1424
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2017,1,CNPJ,9017
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2017,3,CEI,1511
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2018,1,CNPJ,9435
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2018,3,CEI,1204
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2018,5,CAEPF,380
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2019,1,CNPJ,9773
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2019,3,CEI,971
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2019,5,CAEPF,589
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2020,1,CNPJ,9755
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2020,3,CEI,992
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2020,5,CAEPF,620
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2021,1,CNPJ,10638
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2021,3,CEI,1084
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2021,5,CAEPF,634
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2022,1,CNPJ,11863
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2022,5,CAEPF,2067
+2,Empresa de Pequeno Porte (EPP),51,Mato Grosso,2022,6,Não identificado - Código 6,118
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2016,1,CNPJ,14098
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2016,3,CEI,912
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2017,1,CNPJ,14296
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2017,3,CEI,981
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2018,1,CNPJ,14671
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2018,3,CEI,747
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2018,5,CAEPF,253
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2019,1,CNPJ,14978
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2019,3,CEI,737
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2019,5,CAEPF,260
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2020,1,CNPJ,14654
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2020,3,CEI,749
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2020,5,CAEPF,263
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2021,1,CNPJ,15842
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2021,3,CEI,832
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2021,5,CAEPF,317
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2022,1,CNPJ,17869
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2022,5,CAEPF,1434
+2,Empresa de Pequeno Porte (EPP),52,Goiás,2022,6,Não identificado - Código 6,246
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2016,1,CNPJ,8841
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2016,3,CEI,91
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2017,1,CNPJ,8794
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2017,3,CEI,95
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2018,1,CNPJ,8848
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2018,3,CEI,76
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2018,5,CAEPF,9
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2019,1,CNPJ,8862
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2019,3,CEI,61
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2019,5,CAEPF,21
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2020,1,CNPJ,8244
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2020,3,CEI,57
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2020,5,CAEPF,21
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2021,1,CNPJ,8619
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2021,3,CEI,60
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2021,5,CAEPF,17
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2022,1,CNPJ,9796
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2022,5,CAEPF,92
+2,Empresa de Pequeno Porte (EPP),53,Distrito Federal,2022,6,Não identificado - Código 6,137
+2,Empresa de Pequeno Porte (EPP),99,Não informado,2022,1,CNPJ,9
+2,Empresa de Pequeno Porte (EPP),99,Não informado,2022,6,Não identificado - Código 6,1
+3,Média Empresa,11,Rondônia,2016,1,CNPJ,285
+3,Média Empresa,11,Rondônia,2016,3,CEI,6
+3,Média Empresa,11,Rondônia,2017,1,CNPJ,305
+3,Média Empresa,11,Rondônia,2017,3,CEI,5
+3,Média Empresa,11,Rondônia,2018,1,CNPJ,314
+3,Média Empresa,11,Rondônia,2018,3,CEI,1
+3,Média Empresa,11,Rondônia,2018,5,CAEPF,7
+3,Média Empresa,11,Rondônia,2019,1,CNPJ,317
+3,Média Empresa,11,Rondônia,2019,3,CEI,2
+3,Média Empresa,11,Rondônia,2019,5,CAEPF,3
+3,Média Empresa,11,Rondônia,2020,1,CNPJ,319
+3,Média Empresa,11,Rondônia,2020,3,CEI,3
+3,Média Empresa,11,Rondônia,2020,5,CAEPF,3
+3,Média Empresa,11,Rondônia,2021,1,CNPJ,338
+3,Média Empresa,11,Rondônia,2021,3,CEI,3
+3,Média Empresa,11,Rondônia,2022,1,CNPJ,343
+3,Média Empresa,11,Rondônia,2022,5,CAEPF,9
+3,Média Empresa,11,Rondônia,2022,6,Não identificado - Código 6,3
+3,Média Empresa,12,Acre,2016,1,CNPJ,112
+3,Média Empresa,12,Acre,2016,3,CEI,1
+3,Média Empresa,12,Acre,2017,1,CNPJ,123
+3,Média Empresa,12,Acre,2017,3,CEI,1
+3,Média Empresa,12,Acre,2018,1,CNPJ,132
+3,Média Empresa,12,Acre,2018,3,CEI,1
+3,Média Empresa,12,Acre,2019,1,CNPJ,124
+3,Média Empresa,12,Acre,2019,3,CEI,1
+3,Média Empresa,12,Acre,2020,1,CNPJ,119
+3,Média Empresa,12,Acre,2021,1,CNPJ,124
+3,Média Empresa,12,Acre,2022,1,CNPJ,154
+3,Média Empresa,13,Amazonas,2016,1,CNPJ,627
+3,Média Empresa,13,Amazonas,2016,3,CEI,6
+3,Média Empresa,13,Amazonas,2017,1,CNPJ,624
+3,Média Empresa,13,Amazonas,2017,3,CEI,7
+3,Média Empresa,13,Amazonas,2018,1,CNPJ,677
+3,Média Empresa,13,Amazonas,2018,3,CEI,4
+3,Média Empresa,13,Amazonas,2018,5,CAEPF,1
+3,Média Empresa,13,Amazonas,2019,1,CNPJ,663
+3,Média Empresa,13,Amazonas,2019,3,CEI,1
+3,Média Empresa,13,Amazonas,2020,1,CNPJ,687
+3,Média Empresa,13,Amazonas,2021,1,CNPJ,717
+3,Média Empresa,13,Amazonas,2021,5,CAEPF,1
+3,Média Empresa,13,Amazonas,2022,1,CNPJ,805
+3,Média Empresa,13,Amazonas,2022,5,CAEPF,2
+3,Média Empresa,13,Amazonas,2022,6,Não identificado - Código 6,2
+3,Média Empresa,14,Roraima,2016,1,CNPJ,89
+3,Média Empresa,14,Roraima,2016,3,CEI,1
+3,Média Empresa,14,Roraima,2017,1,CNPJ,95
+3,Média Empresa,14,Roraima,2017,3,CEI,2
+3,Média Empresa,14,Roraima,2018,1,CNPJ,93
+3,Média Empresa,14,Roraima,2018,5,CAEPF,1
+3,Média Empresa,14,Roraima,2019,1,CNPJ,91
+3,Média Empresa,14,Roraima,2019,3,CEI,2
+3,Média Empresa,14,Roraima,2020,1,CNPJ,97
+3,Média Empresa,14,Roraima,2020,3,CEI,2
+3,Média Empresa,14,Roraima,2020,5,CAEPF,1
+3,Média Empresa,14,Roraima,2021,1,CNPJ,97
+3,Média Empresa,14,Roraima,2021,3,CEI,2
+3,Média Empresa,14,Roraima,2022,1,CNPJ,102
+3,Média Empresa,14,Roraima,2022,5,CAEPF,3
+3,Média Empresa,15,Pará,2016,1,CNPJ,907
+3,Média Empresa,15,Pará,2016,3,CEI,25
+3,Média Empresa,15,Pará,2017,1,CNPJ,918
+3,Média Empresa,15,Pará,2017,3,CEI,21
+3,Média Empresa,15,Pará,2018,1,CNPJ,950
+3,Média Empresa,15,Pará,2018,3,CEI,18
+3,Média Empresa,15,Pará,2018,5,CAEPF,4
+3,Média Empresa,15,Pará,2019,1,CNPJ,991
+3,Média Empresa,15,Pará,2019,3,CEI,10
+3,Média Empresa,15,Pará,2019,5,CAEPF,9
+3,Média Empresa,15,Pará,2020,1,CNPJ,1001
+3,Média Empresa,15,Pará,2020,3,CEI,13
+3,Média Empresa,15,Pará,2020,5,CAEPF,10
+3,Média Empresa,15,Pará,2021,1,CNPJ,1100
+3,Média Empresa,15,Pará,2021,3,CEI,10
+3,Média Empresa,15,Pará,2021,5,CAEPF,8
+3,Média Empresa,15,Pará,2022,1,CNPJ,1229
+3,Média Empresa,15,Pará,2022,5,CAEPF,36
+3,Média Empresa,15,Pará,2022,6,Não identificado - Código 6,30
+3,Média Empresa,16,Amapá,2016,1,CNPJ,121
+3,Média Empresa,16,Amapá,2016,3,CEI,1
+3,Média Empresa,16,Amapá,2017,1,CNPJ,127
+3,Média Empresa,16,Amapá,2017,3,CEI,1
+3,Média Empresa,16,Amapá,2018,1,CNPJ,137
+3,Média Empresa,16,Amapá,2018,3,CEI,1
+3,Média Empresa,16,Amapá,2019,1,CNPJ,121
+3,Média Empresa,16,Amapá,2020,1,CNPJ,117
+3,Média Empresa,16,Amapá,2021,1,CNPJ,126
+3,Média Empresa,16,Amapá,2022,1,CNPJ,141
+3,Média Empresa,16,Amapá,2022,5,CAEPF,1
+3,Média Empresa,16,Amapá,2022,6,Não identificado - Código 6,4
+3,Média Empresa,17,Tocantins,2016,1,CNPJ,270
+3,Média Empresa,17,Tocantins,2016,3,CEI,7
+3,Média Empresa,17,Tocantins,2017,1,CNPJ,276
+3,Média Empresa,17,Tocantins,2017,3,CEI,6
+3,Média Empresa,17,Tocantins,2018,1,CNPJ,307
+3,Média Empresa,17,Tocantins,2018,3,CEI,6
+3,Média Empresa,17,Tocantins,2018,5,CAEPF,2
+3,Média Empresa,17,Tocantins,2019,1,CNPJ,348
+3,Média Empresa,17,Tocantins,2019,3,CEI,3
+3,Média Empresa,17,Tocantins,2019,5,CAEPF,1
+3,Média Empresa,17,Tocantins,2020,1,CNPJ,313
+3,Média Empresa,17,Tocantins,2020,3,CEI,5
+3,Média Empresa,17,Tocantins,2020,5,CAEPF,1
+3,Média Empresa,17,Tocantins,2021,1,CNPJ,400
+3,Média Empresa,17,Tocantins,2021,3,CEI,4
+3,Média Empresa,17,Tocantins,2021,5,CAEPF,1
+3,Média Empresa,17,Tocantins,2022,1,CNPJ,434
+3,Média Empresa,17,Tocantins,2022,5,CAEPF,9
+3,Média Empresa,17,Tocantins,2022,6,Não identificado - Código 6,5
+3,Média Empresa,21,Maranhão,2016,1,CNPJ,607
+3,Média Empresa,21,Maranhão,2016,3,CEI,7
+3,Média Empresa,21,Maranhão,2017,1,CNPJ,592
+3,Média Empresa,21,Maranhão,2017,3,CEI,9
+3,Média Empresa,21,Maranhão,2018,1,CNPJ,618
+3,Média Empresa,21,Maranhão,2018,3,CEI,8
+3,Média Empresa,21,Maranhão,2018,5,CAEPF,2
+3,Média Empresa,21,Maranhão,2019,1,CNPJ,610
+3,Média Empresa,21,Maranhão,2019,3,CEI,3
+3,Média Empresa,21,Maranhão,2019,5,CAEPF,7
+3,Média Empresa,21,Maranhão,2020,1,CNPJ,632
+3,Média Empresa,21,Maranhão,2020,3,CEI,5
+3,Média Empresa,21,Maranhão,2020,5,CAEPF,3
+3,Média Empresa,21,Maranhão,2021,1,CNPJ,651
+3,Média Empresa,21,Maranhão,2021,3,CEI,3
+3,Média Empresa,21,Maranhão,2021,5,CAEPF,5
+3,Média Empresa,21,Maranhão,2022,1,CNPJ,699
+3,Média Empresa,21,Maranhão,2022,5,CAEPF,15
+3,Média Empresa,21,Maranhão,2022,6,Não identificado - Código 6,46
+3,Média Empresa,22,Piauí,2016,1,CNPJ,437
+3,Média Empresa,22,Piauí,2016,3,CEI,7
+3,Média Empresa,22,Piauí,2017,1,CNPJ,435
+3,Média Empresa,22,Piauí,2017,3,CEI,10
+3,Média Empresa,22,Piauí,2018,1,CNPJ,436
+3,Média Empresa,22,Piauí,2018,3,CEI,12
+3,Média Empresa,22,Piauí,2019,1,CNPJ,443
+3,Média Empresa,22,Piauí,2019,3,CEI,6
+3,Média Empresa,22,Piauí,2019,5,CAEPF,3
+3,Média Empresa,22,Piauí,2020,1,CNPJ,434
+3,Média Empresa,22,Piauí,2020,3,CEI,7
+3,Média Empresa,22,Piauí,2020,5,CAEPF,6
+3,Média Empresa,22,Piauí,2021,1,CNPJ,462
+3,Média Empresa,22,Piauí,2021,3,CEI,8
+3,Média Empresa,22,Piauí,2021,5,CAEPF,4
+3,Média Empresa,22,Piauí,2022,1,CNPJ,491
+3,Média Empresa,22,Piauí,2022,5,CAEPF,17
+3,Média Empresa,22,Piauí,2022,6,Não identificado - Código 6,9
+3,Média Empresa,23,Ceará,2016,1,CNPJ,1505
+3,Média Empresa,23,Ceará,2016,3,CEI,18
+3,Média Empresa,23,Ceará,2017,1,CNPJ,1486
+3,Média Empresa,23,Ceará,2017,3,CEI,17
+3,Média Empresa,23,Ceará,2018,1,CNPJ,1554
+3,Média Empresa,23,Ceará,2018,3,CEI,19
+3,Média Empresa,23,Ceará,2019,1,CNPJ,1594
+3,Média Empresa,23,Ceará,2019,3,CEI,16
+3,Média Empresa,23,Ceará,2020,1,CNPJ,1565
+3,Média Empresa,23,Ceará,2020,3,CEI,17
+3,Média Empresa,23,Ceará,2021,1,CNPJ,1650
+3,Média Empresa,23,Ceará,2021,3,CEI,17
+3,Média Empresa,23,Ceará,2022,1,CNPJ,1752
+3,Média Empresa,23,Ceará,2022,5,CAEPF,22
+3,Média Empresa,23,Ceará,2022,6,Não identificado - Código 6,24
+3,Média Empresa,24,Rio Grande Do Norte,2016,1,CNPJ,534
+3,Média Empresa,24,Rio Grande Do Norte,2016,3,CEI,3
+3,Média Empresa,24,Rio Grande Do Norte,2017,1,CNPJ,513
+3,Média Empresa,24,Rio Grande Do Norte,2017,3,CEI,3
+3,Média Empresa,24,Rio Grande Do Norte,2018,1,CNPJ,520
+3,Média Empresa,24,Rio Grande Do Norte,2018,3,CEI,3
+3,Média Empresa,24,Rio Grande Do Norte,2019,1,CNPJ,564
+3,Média Empresa,24,Rio Grande Do Norte,2019,3,CEI,2
+3,Média Empresa,24,Rio Grande Do Norte,2019,5,CAEPF,1
+3,Média Empresa,24,Rio Grande Do Norte,2020,1,CNPJ,539
+3,Média Empresa,24,Rio Grande Do Norte,2020,3,CEI,5
+3,Média Empresa,24,Rio Grande Do Norte,2021,1,CNPJ,564
+3,Média Empresa,24,Rio Grande Do Norte,2021,3,CEI,5
+3,Média Empresa,24,Rio Grande Do Norte,2022,1,CNPJ,671
+3,Média Empresa,24,Rio Grande Do Norte,2022,5,CAEPF,6
+3,Média Empresa,24,Rio Grande Do Norte,2022,6,Não identificado - Código 6,6
+3,Média Empresa,25,Paraíba,2016,1,CNPJ,521
+3,Média Empresa,25,Paraíba,2016,3,CEI,19
+3,Média Empresa,25,Paraíba,2017,1,CNPJ,499
+3,Média Empresa,25,Paraíba,2017,3,CEI,27
+3,Média Empresa,25,Paraíba,2018,1,CNPJ,519
+3,Média Empresa,25,Paraíba,2018,3,CEI,22
+3,Média Empresa,25,Paraíba,2018,5,CAEPF,2
+3,Média Empresa,25,Paraíba,2019,1,CNPJ,546
+3,Média Empresa,25,Paraíba,2019,3,CEI,19
+3,Média Empresa,25,Paraíba,2019,5,CAEPF,5
+3,Média Empresa,25,Paraíba,2020,1,CNPJ,532
+3,Média Empresa,25,Paraíba,2020,3,CEI,20
+3,Média Empresa,25,Paraíba,2020,5,CAEPF,3
+3,Média Empresa,25,Paraíba,2021,1,CNPJ,565
+3,Média Empresa,25,Paraíba,2021,3,CEI,5
+3,Média Empresa,25,Paraíba,2021,5,CAEPF,4
+3,Média Empresa,25,Paraíba,2022,1,CNPJ,617
+3,Média Empresa,25,Paraíba,2022,5,CAEPF,20
+3,Média Empresa,25,Paraíba,2022,6,Não identificado - Código 6,15
+3,Média Empresa,26,Pernambuco,2016,1,CNPJ,1605
+3,Média Empresa,26,Pernambuco,2016,3,CEI,61
+3,Média Empresa,26,Pernambuco,2017,1,CNPJ,1588
+3,Média Empresa,26,Pernambuco,2017,3,CEI,65
+3,Média Empresa,26,Pernambuco,2018,1,CNPJ,1643
+3,Média Empresa,26,Pernambuco,2018,3,CEI,55
+3,Média Empresa,26,Pernambuco,2018,5,CAEPF,12
+3,Média Empresa,26,Pernambuco,2019,1,CNPJ,1675
+3,Média Empresa,26,Pernambuco,2019,3,CEI,44
+3,Média Empresa,26,Pernambuco,2019,5,CAEPF,17
+3,Média Empresa,26,Pernambuco,2020,1,CNPJ,1626
+3,Média Empresa,26,Pernambuco,2020,3,CEI,44
+3,Média Empresa,26,Pernambuco,2020,5,CAEPF,21
+3,Média Empresa,26,Pernambuco,2021,1,CNPJ,1710
+3,Média Empresa,26,Pernambuco,2021,3,CEI,40
+3,Média Empresa,26,Pernambuco,2021,5,CAEPF,25
+3,Média Empresa,26,Pernambuco,2022,1,CNPJ,1918
+3,Média Empresa,26,Pernambuco,2022,5,CAEPF,77
+3,Média Empresa,26,Pernambuco,2022,6,Não identificado - Código 6,16
+3,Média Empresa,27,Alagoas,2016,1,CNPJ,432
+3,Média Empresa,27,Alagoas,2016,3,CEI,9
+3,Média Empresa,27,Alagoas,2017,1,CNPJ,437
+3,Média Empresa,27,Alagoas,2017,3,CEI,8
+3,Média Empresa,27,Alagoas,2018,1,CNPJ,478
+3,Média Empresa,27,Alagoas,2018,3,CEI,9
+3,Média Empresa,27,Alagoas,2019,1,CNPJ,464
+3,Média Empresa,27,Alagoas,2019,3,CEI,4
+3,Média Empresa,27,Alagoas,2019,5,CAEPF,3
+3,Média Empresa,27,Alagoas,2020,1,CNPJ,475
+3,Média Empresa,27,Alagoas,2020,3,CEI,5
+3,Média Empresa,27,Alagoas,2020,5,CAEPF,3
+3,Média Empresa,27,Alagoas,2021,1,CNPJ,513
+3,Média Empresa,27,Alagoas,2021,3,CEI,4
+3,Média Empresa,27,Alagoas,2021,5,CAEPF,1
+3,Média Empresa,27,Alagoas,2022,1,CNPJ,556
+3,Média Empresa,27,Alagoas,2022,5,CAEPF,11
+3,Média Empresa,27,Alagoas,2022,6,Não identificado - Código 6,20
+3,Média Empresa,28,Sergipe,2016,1,CNPJ,406
+3,Média Empresa,28,Sergipe,2016,3,CEI,6
+3,Média Empresa,28,Sergipe,2017,1,CNPJ,396
+3,Média Empresa,28,Sergipe,2017,3,CEI,6
+3,Média Empresa,28,Sergipe,2018,1,CNPJ,411
+3,Média Empresa,28,Sergipe,2018,3,CEI,7
+3,Média Empresa,28,Sergipe,2018,5,CAEPF,2
+3,Média Empresa,28,Sergipe,2019,1,CNPJ,386
+3,Média Empresa,28,Sergipe,2019,3,CEI,2
+3,Média Empresa,28,Sergipe,2019,5,CAEPF,8
+3,Média Empresa,28,Sergipe,2020,1,CNPJ,399
+3,Média Empresa,28,Sergipe,2020,3,CEI,2
+3,Média Empresa,28,Sergipe,2020,5,CAEPF,9
+3,Média Empresa,28,Sergipe,2021,1,CNPJ,438
+3,Média Empresa,28,Sergipe,2021,5,CAEPF,6
+3,Média Empresa,28,Sergipe,2022,1,CNPJ,438
+3,Média Empresa,28,Sergipe,2022,5,CAEPF,7
+3,Média Empresa,28,Sergipe,2022,6,Não identificado - Código 6,17
+3,Média Empresa,29,Bahia,2016,1,CNPJ,2124
+3,Média Empresa,29,Bahia,2016,3,CEI,61
+3,Média Empresa,29,Bahia,2017,1,CNPJ,2109
+3,Média Empresa,29,Bahia,2017,3,CEI,65
+3,Média Empresa,29,Bahia,2018,1,CNPJ,2140
+3,Média Empresa,29,Bahia,2018,3,CEI,54
+3,Média Empresa,29,Bahia,2018,5,CAEPF,22
+3,Média Empresa,29,Bahia,2019,1,CNPJ,2099
+3,Média Empresa,29,Bahia,2019,3,CEI,27
+3,Média Empresa,29,Bahia,2019,5,CAEPF,38
+3,Média Empresa,29,Bahia,2020,1,CNPJ,2066
+3,Média Empresa,29,Bahia,2020,3,CEI,38
+3,Média Empresa,29,Bahia,2020,5,CAEPF,41
+3,Média Empresa,29,Bahia,2021,1,CNPJ,2217
+3,Média Empresa,29,Bahia,2021,3,CEI,35
+3,Média Empresa,29,Bahia,2021,5,CAEPF,39
+3,Média Empresa,29,Bahia,2022,1,CNPJ,2428
+3,Média Empresa,29,Bahia,2022,5,CAEPF,102
+3,Média Empresa,29,Bahia,2022,6,Não identificado - Código 6,69
+3,Média Empresa,31,Minas Gerais,2016,1,CNPJ,4919
+3,Média Empresa,31,Minas Gerais,2016,3,CEI,206
+3,Média Empresa,31,Minas Gerais,2017,1,CNPJ,4909
+3,Média Empresa,31,Minas Gerais,2017,3,CEI,203
+3,Média Empresa,31,Minas Gerais,2018,1,CNPJ,5049
+3,Média Empresa,31,Minas Gerais,2018,3,CEI,141
+3,Média Empresa,31,Minas Gerais,2018,5,CAEPF,68
+3,Média Empresa,31,Minas Gerais,2019,1,CNPJ,5209
+3,Média Empresa,31,Minas Gerais,2019,3,CEI,99
+3,Média Empresa,31,Minas Gerais,2019,5,CAEPF,93
+3,Média Empresa,31,Minas Gerais,2020,1,CNPJ,5092
+3,Média Empresa,31,Minas Gerais,2020,3,CEI,80
+3,Média Empresa,31,Minas Gerais,2020,5,CAEPF,112
+3,Média Empresa,31,Minas Gerais,2021,1,CNPJ,5552
+3,Média Empresa,31,Minas Gerais,2021,3,CEI,93
+3,Média Empresa,31,Minas Gerais,2021,5,CAEPF,133
+3,Média Empresa,31,Minas Gerais,2022,1,CNPJ,5911
+3,Média Empresa,31,Minas Gerais,2022,5,CAEPF,261
+3,Média Empresa,31,Minas Gerais,2022,6,Não identificado - Código 6,70
+3,Média Empresa,32,Espírito Santo,2016,1,CNPJ,920
+3,Média Empresa,32,Espírito Santo,2016,3,CEI,20
+3,Média Empresa,32,Espírito Santo,2017,1,CNPJ,929
+3,Média Empresa,32,Espírito Santo,2017,3,CEI,19
+3,Média Empresa,32,Espírito Santo,2018,1,CNPJ,967
+3,Média Empresa,32,Espírito Santo,2018,3,CEI,8
+3,Média Empresa,32,Espírito Santo,2018,5,CAEPF,7
+3,Média Empresa,32,Espírito Santo,2019,1,CNPJ,1000
+3,Média Empresa,32,Espírito Santo,2019,3,CEI,5
+3,Média Empresa,32,Espírito Santo,2019,5,CAEPF,19
+3,Média Empresa,32,Espírito Santo,2020,1,CNPJ,1029
+3,Média Empresa,32,Espírito Santo,2020,3,CEI,4
+3,Média Empresa,32,Espírito Santo,2020,5,CAEPF,17
+3,Média Empresa,32,Espírito Santo,2021,1,CNPJ,1069
+3,Média Empresa,32,Espírito Santo,2021,3,CEI,5
+3,Média Empresa,32,Espírito Santo,2021,5,CAEPF,10
+3,Média Empresa,32,Espírito Santo,2022,1,CNPJ,1158
+3,Média Empresa,32,Espírito Santo,2022,5,CAEPF,19
+3,Média Empresa,32,Espírito Santo,2022,6,Não identificado - Código 6,18
+3,Média Empresa,33,Rio De Janeiro,2016,1,CNPJ,4939
+3,Média Empresa,33,Rio De Janeiro,2016,3,CEI,14
+3,Média Empresa,33,Rio De Janeiro,2017,1,CNPJ,4694
+3,Média Empresa,33,Rio De Janeiro,2017,3,CEI,16
+3,Média Empresa,33,Rio De Janeiro,2018,1,CNPJ,4736
+3,Média Empresa,33,Rio De Janeiro,2018,3,CEI,16
+3,Média Empresa,33,Rio De Janeiro,2018,5,CAEPF,1
+3,Média Empresa,33,Rio De Janeiro,2019,1,CNPJ,4811
+3,Média Empresa,33,Rio De Janeiro,2019,3,CEI,4
+3,Média Empresa,33,Rio De Janeiro,2019,5,CAEPF,17
+3,Média Empresa,33,Rio De Janeiro,2020,1,CNPJ,4589
+3,Média Empresa,33,Rio De Janeiro,2020,3,CEI,3
+3,Média Empresa,33,Rio De Janeiro,2020,5,CAEPF,17
+3,Média Empresa,33,Rio De Janeiro,2021,1,CNPJ,4838
+3,Média Empresa,33,Rio De Janeiro,2021,3,CEI,2
+3,Média Empresa,33,Rio De Janeiro,2021,5,CAEPF,17
+3,Média Empresa,33,Rio De Janeiro,2022,1,CNPJ,5303
+3,Média Empresa,33,Rio De Janeiro,2022,5,CAEPF,18
+3,Média Empresa,33,Rio De Janeiro,2022,6,Não identificado - Código 6,25
+3,Média Empresa,35,São Paulo,2016,1,CNPJ,16075
+3,Média Empresa,35,São Paulo,2016,3,CEI,251
+3,Média Empresa,35,São Paulo,2017,1,CNPJ,16037
+3,Média Empresa,35,São Paulo,2017,3,CEI,271
+3,Média Empresa,35,São Paulo,2018,1,CNPJ,16221
+3,Média Empresa,35,São Paulo,2018,3,CEI,252
+3,Média Empresa,35,São Paulo,2018,5,CAEPF,33
+3,Média Empresa,35,São Paulo,2019,1,CNPJ,16564
+3,Média Empresa,35,São Paulo,2019,3,CEI,188
+3,Média Empresa,35,São Paulo,2019,5,CAEPF,110
+3,Média Empresa,35,São Paulo,2020,1,CNPJ,16003
+3,Média Empresa,35,São Paulo,2020,3,CEI,183
+3,Média Empresa,35,São Paulo,2020,5,CAEPF,117
+3,Média Empresa,35,São Paulo,2021,1,CNPJ,16718
+3,Média Empresa,35,São Paulo,2021,3,CEI,179
+3,Média Empresa,35,São Paulo,2021,5,CAEPF,119
+3,Média Empresa,35,São Paulo,2022,1,CNPJ,18330
+3,Média Empresa,35,São Paulo,2022,5,CAEPF,373
+3,Média Empresa,35,São Paulo,2022,6,Não identificado - Código 6,37
+3,Média Empresa,41,Paraná,2016,1,CNPJ,3179
+3,Média Empresa,41,Paraná,2016,3,CEI,44
+3,Média Empresa,41,Paraná,2017,1,CNPJ,3248
+3,Média Empresa,41,Paraná,2017,3,CEI,46
+3,Média Empresa,41,Paraná,2018,1,CNPJ,3288
+3,Média Empresa,41,Paraná,2018,3,CEI,43
+3,Média Empresa,41,Paraná,2018,5,CAEPF,3
+3,Média Empresa,41,Paraná,2019,1,CNPJ,3434
+3,Média Empresa,41,Paraná,2019,3,CEI,24
+3,Média Empresa,41,Paraná,2019,5,CAEPF,16
+3,Média Empresa,41,Paraná,2020,1,CNPJ,3374
+3,Média Empresa,41,Paraná,2020,3,CEI,19
+3,Média Empresa,41,Paraná,2020,5,CAEPF,22
+3,Média Empresa,41,Paraná,2021,1,CNPJ,3635
+3,Média Empresa,41,Paraná,2021,3,CEI,16
+3,Média Empresa,41,Paraná,2021,5,CAEPF,32
+3,Média Empresa,41,Paraná,2022,1,CNPJ,3979
+3,Média Empresa,41,Paraná,2022,5,CAEPF,48
+3,Média Empresa,41,Paraná,2022,6,Não identificado - Código 6,21
+3,Média Empresa,42,Santa Catarina,2016,1,CNPJ,2417
+3,Média Empresa,42,Santa Catarina,2016,3,CEI,21
+3,Média Empresa,42,Santa Catarina,2017,1,CNPJ,2441
+3,Média Empresa,42,Santa Catarina,2017,3,CEI,16
+3,Média Empresa,42,Santa Catarina,2018,1,CNPJ,2547
+3,Média Empresa,42,Santa Catarina,2018,3,CEI,16
+3,Média Empresa,42,Santa Catarina,2018,5,CAEPF,4
+3,Média Empresa,42,Santa Catarina,2019,1,CNPJ,2656
+3,Média Empresa,42,Santa Catarina,2019,3,CEI,13
+3,Média Empresa,42,Santa Catarina,2019,5,CAEPF,8
+3,Média Empresa,42,Santa Catarina,2020,1,CNPJ,2714
+3,Média Empresa,42,Santa Catarina,2020,3,CEI,12
+3,Média Empresa,42,Santa Catarina,2020,5,CAEPF,8
+3,Média Empresa,42,Santa Catarina,2021,1,CNPJ,2899
+3,Média Empresa,42,Santa Catarina,2021,3,CEI,13
+3,Média Empresa,42,Santa Catarina,2021,5,CAEPF,7
+3,Média Empresa,42,Santa Catarina,2022,1,CNPJ,3138
+3,Média Empresa,42,Santa Catarina,2022,5,CAEPF,35
+3,Média Empresa,42,Santa Catarina,2022,6,Não identificado - Código 6,10
+3,Média Empresa,43,Rio Grande Do Sul,2016,1,CNPJ,3283
+3,Média Empresa,43,Rio Grande Do Sul,2016,3,CEI,47
+3,Média Empresa,43,Rio Grande Do Sul,2017,1,CNPJ,3396
+3,Média Empresa,43,Rio Grande Do Sul,2017,3,CEI,48
+3,Média Empresa,43,Rio Grande Do Sul,2018,1,CNPJ,3394
+3,Média Empresa,43,Rio Grande Do Sul,2018,3,CEI,44
+3,Média Empresa,43,Rio Grande Do Sul,2018,5,CAEPF,4
+3,Média Empresa,43,Rio Grande Do Sul,2019,1,CNPJ,3418
+3,Média Empresa,43,Rio Grande Do Sul,2019,3,CEI,39
+3,Média Empresa,43,Rio Grande Do Sul,2019,5,CAEPF,12
+3,Média Empresa,43,Rio Grande Do Sul,2020,1,CNPJ,3281
+3,Média Empresa,43,Rio Grande Do Sul,2020,3,CEI,29
+3,Média Empresa,43,Rio Grande Do Sul,2020,5,CAEPF,13
+3,Média Empresa,43,Rio Grande Do Sul,2021,1,CNPJ,3512
+3,Média Empresa,43,Rio Grande Do Sul,2021,3,CEI,36
+3,Média Empresa,43,Rio Grande Do Sul,2021,5,CAEPF,13
+3,Média Empresa,43,Rio Grande Do Sul,2022,1,CNPJ,3691
+3,Média Empresa,43,Rio Grande Do Sul,2022,5,CAEPF,62
+3,Média Empresa,43,Rio Grande Do Sul,2022,6,Não identificado - Código 6,4
+3,Média Empresa,50,Mato Grosso Do Sul,2016,1,CNPJ,599
+3,Média Empresa,50,Mato Grosso Do Sul,2016,3,CEI,16
+3,Média Empresa,50,Mato Grosso Do Sul,2017,1,CNPJ,591
+3,Média Empresa,50,Mato Grosso Do Sul,2017,3,CEI,17
+3,Média Empresa,50,Mato Grosso Do Sul,2018,1,CNPJ,629
+3,Média Empresa,50,Mato Grosso Do Sul,2018,3,CEI,15
+3,Média Empresa,50,Mato Grosso Do Sul,2018,5,CAEPF,7
+3,Média Empresa,50,Mato Grosso Do Sul,2019,1,CNPJ,616
+3,Média Empresa,50,Mato Grosso Do Sul,2019,3,CEI,13
+3,Média Empresa,50,Mato Grosso Do Sul,2019,5,CAEPF,4
+3,Média Empresa,50,Mato Grosso Do Sul,2020,1,CNPJ,629
+3,Média Empresa,50,Mato Grosso Do Sul,2020,3,CEI,8
+3,Média Empresa,50,Mato Grosso Do Sul,2020,5,CAEPF,5
+3,Média Empresa,50,Mato Grosso Do Sul,2021,1,CNPJ,693
+3,Média Empresa,50,Mato Grosso Do Sul,2021,3,CEI,19
+3,Média Empresa,50,Mato Grosso Do Sul,2021,5,CAEPF,8
+3,Média Empresa,50,Mato Grosso Do Sul,2022,1,CNPJ,824
+3,Média Empresa,50,Mato Grosso Do Sul,2022,5,CAEPF,30
+3,Média Empresa,50,Mato Grosso Do Sul,2022,6,Não identificado - Código 6,2
+3,Média Empresa,51,Mato Grosso,2016,1,CNPJ,757
+3,Média Empresa,51,Mato Grosso,2016,3,CEI,102
+3,Média Empresa,51,Mato Grosso,2017,1,CNPJ,801
+3,Média Empresa,51,Mato Grosso,2017,3,CEI,119
+3,Média Empresa,51,Mato Grosso,2018,1,CNPJ,879
+3,Média Empresa,51,Mato Grosso,2018,3,CEI,76
+3,Média Empresa,51,Mato Grosso,2018,5,CAEPF,44
+3,Média Empresa,51,Mato Grosso,2019,1,CNPJ,938
+3,Média Empresa,51,Mato Grosso,2019,3,CEI,68
+3,Média Empresa,51,Mato Grosso,2019,5,CAEPF,62
+3,Média Empresa,51,Mato Grosso,2020,1,CNPJ,960
+3,Média Empresa,51,Mato Grosso,2020,3,CEI,64
+3,Média Empresa,51,Mato Grosso,2020,5,CAEPF,63
+3,Média Empresa,51,Mato Grosso,2021,1,CNPJ,1021
+3,Média Empresa,51,Mato Grosso,2021,3,CEI,64
+3,Média Empresa,51,Mato Grosso,2021,5,CAEPF,64
+3,Média Empresa,51,Mato Grosso,2022,1,CNPJ,1119
+3,Média Empresa,51,Mato Grosso,2022,5,CAEPF,163
+3,Média Empresa,51,Mato Grosso,2022,6,Não identificado - Código 6,12
+3,Média Empresa,52,Goiás,2016,1,CNPJ,1522
+3,Média Empresa,52,Goiás,2016,3,CEI,45
+3,Média Empresa,52,Goiás,2017,1,CNPJ,1544
+3,Média Empresa,52,Goiás,2017,3,CEI,43
+3,Média Empresa,52,Goiás,2018,1,CNPJ,1635
+3,Média Empresa,52,Goiás,2018,3,CEI,34
+3,Média Empresa,52,Goiás,2018,5,CAEPF,13
+3,Média Empresa,52,Goiás,2019,1,CNPJ,1707
+3,Média Empresa,52,Goiás,2019,3,CEI,30
+3,Média Empresa,52,Goiás,2019,5,CAEPF,15
+3,Média Empresa,52,Goiás,2020,1,CNPJ,1713
+3,Média Empresa,52,Goiás,2020,3,CEI,34
+3,Média Empresa,52,Goiás,2020,5,CAEPF,15
+3,Média Empresa,52,Goiás,2021,1,CNPJ,1852
+3,Média Empresa,52,Goiás,2021,3,CEI,44
+3,Média Empresa,52,Goiás,2021,5,CAEPF,15
+3,Média Empresa,52,Goiás,2022,1,CNPJ,2045
+3,Média Empresa,52,Goiás,2022,5,CAEPF,74
+3,Média Empresa,52,Goiás,2022,6,Não identificado - Código 6,31
+3,Média Empresa,53,Distrito Federal,2016,1,CNPJ,1007
+3,Média Empresa,53,Distrito Federal,2016,3,CEI,17
+3,Média Empresa,53,Distrito Federal,2017,1,CNPJ,1000
+3,Média Empresa,53,Distrito Federal,2017,3,CEI,17
+3,Média Empresa,53,Distrito Federal,2018,1,CNPJ,1025
+3,Média Empresa,53,Distrito Federal,2018,3,CEI,16
+3,Média Empresa,53,Distrito Federal,2018,5,CAEPF,1
+3,Média Empresa,53,Distrito Federal,2019,1,CNPJ,1055
+3,Média Empresa,53,Distrito Federal,2019,3,CEI,15
+3,Média Empresa,53,Distrito Federal,2020,1,CNPJ,1016
+3,Média Empresa,53,Distrito Federal,2020,3,CEI,17
+3,Média Empresa,53,Distrito Federal,2021,1,CNPJ,1124
+3,Média Empresa,53,Distrito Federal,2021,3,CEI,17
+3,Média Empresa,53,Distrito Federal,2022,1,CNPJ,1244
+3,Média Empresa,53,Distrito Federal,2022,5,CAEPF,19
+3,Média Empresa,53,Distrito Federal,2022,6,Não identificado - Código 6,30
+3,Média Empresa,99,Não informado,2022,1,CNPJ,1
+4,Grande Empresa,11,Rondônia,2016,1,CNPJ,268
+4,Grande Empresa,11,Rondônia,2016,3,CEI,2
+4,Grande Empresa,11,Rondônia,2017,1,CNPJ,263
+4,Grande Empresa,11,Rondônia,2017,3,CEI,2
+4,Grande Empresa,11,Rondônia,2018,1,CNPJ,263
+4,Grande Empresa,11,Rondônia,2019,1,CNPJ,268
+4,Grande Empresa,11,Rondônia,2019,3,CEI,1
+4,Grande Empresa,11,Rondônia,2019,5,CAEPF,1
+4,Grande Empresa,11,Rondônia,2020,1,CNPJ,257
+4,Grande Empresa,11,Rondônia,2020,3,CEI,2
+4,Grande Empresa,11,Rondônia,2021,1,CNPJ,270
+4,Grande Empresa,11,Rondônia,2021,3,CEI,3
+4,Grande Empresa,11,Rondônia,2022,1,CNPJ,295
+4,Grande Empresa,11,Rondônia,2022,5,CAEPF,2
+4,Grande Empresa,12,Acre,2016,1,CNPJ,145
+4,Grande Empresa,12,Acre,2017,1,CNPJ,148
+4,Grande Empresa,12,Acre,2018,1,CNPJ,137
+4,Grande Empresa,12,Acre,2019,1,CNPJ,136
+4,Grande Empresa,12,Acre,2020,1,CNPJ,148
+4,Grande Empresa,12,Acre,2021,1,CNPJ,143
+4,Grande Empresa,12,Acre,2022,1,CNPJ,149
+4,Grande Empresa,12,Acre,2022,6,Não identificado - Código 6,2
+4,Grande Empresa,13,Amazonas,2016,1,CNPJ,555
+4,Grande Empresa,13,Amazonas,2016,3,CEI,1
+4,Grande Empresa,13,Amazonas,2017,1,CNPJ,571
+4,Grande Empresa,13,Amazonas,2017,3,CEI,1
+4,Grande Empresa,13,Amazonas,2018,1,CNPJ,569
+4,Grande Empresa,13,Amazonas,2018,3,CEI,1
+4,Grande Empresa,13,Amazonas,2019,1,CNPJ,579
+4,Grande Empresa,13,Amazonas,2019,3,CEI,1
+4,Grande Empresa,13,Amazonas,2020,1,CNPJ,567
+4,Grande Empresa,13,Amazonas,2020,3,CEI,1
+4,Grande Empresa,13,Amazonas,2021,1,CNPJ,612
+4,Grande Empresa,13,Amazonas,2021,3,CEI,1
+4,Grande Empresa,13,Amazonas,2022,1,CNPJ,678
+4,Grande Empresa,13,Amazonas,2022,5,CAEPF,1
+4,Grande Empresa,14,Roraima,2016,1,CNPJ,95
+4,Grande Empresa,14,Roraima,2017,1,CNPJ,96
+4,Grande Empresa,14,Roraima,2018,1,CNPJ,105
+4,Grande Empresa,14,Roraima,2019,1,CNPJ,103
+4,Grande Empresa,14,Roraima,2020,1,CNPJ,98
+4,Grande Empresa,14,Roraima,2021,1,CNPJ,108
+4,Grande Empresa,14,Roraima,2022,1,CNPJ,117
+4,Grande Empresa,15,Pará,2016,1,CNPJ,904
+4,Grande Empresa,15,Pará,2016,3,CEI,6
+4,Grande Empresa,15,Pará,2017,1,CNPJ,920
+4,Grande Empresa,15,Pará,2017,3,CEI,7
+4,Grande Empresa,15,Pará,2018,1,CNPJ,978
+4,Grande Empresa,15,Pará,2018,3,CEI,4
+4,Grande Empresa,15,Pará,2018,5,CAEPF,2
+4,Grande Empresa,15,Pará,2019,1,CNPJ,954
+4,Grande Empresa,15,Pará,2019,3,CEI,4
+4,Grande Empresa,15,Pará,2019,5,CAEPF,2
+4,Grande Empresa,15,Pará,2020,1,CNPJ,1015
+4,Grande Empresa,15,Pará,2020,3,CEI,5
+4,Grande Empresa,15,Pará,2020,5,CAEPF,2
+4,Grande Empresa,15,Pará,2021,1,CNPJ,1066
+4,Grande Empresa,15,Pará,2021,3,CEI,4
+4,Grande Empresa,15,Pará,2021,5,CAEPF,3
+4,Grande Empresa,15,Pará,2022,1,CNPJ,1119
+4,Grande Empresa,15,Pará,2022,5,CAEPF,15
+4,Grande Empresa,15,Pará,2022,6,Não identificado - Código 6,4
+4,Grande Empresa,16,Amapá,2016,1,CNPJ,114
+4,Grande Empresa,16,Amapá,2017,1,CNPJ,115
+4,Grande Empresa,16,Amapá,2018,1,CNPJ,121
+4,Grande Empresa,16,Amapá,2019,1,CNPJ,121
+4,Grande Empresa,16,Amapá,2020,1,CNPJ,125
+4,Grande Empresa,16,Amapá,2021,1,CNPJ,133
+4,Grande Empresa,16,Amapá,2022,1,CNPJ,149
+4,Grande Empresa,16,Amapá,2022,6,Não identificado - Código 6,1
+4,Grande Empresa,17,Tocantins,2016,1,CNPJ,270
+4,Grande Empresa,17,Tocantins,2017,1,CNPJ,295
+4,Grande Empresa,17,Tocantins,2017,3,CEI,2
+4,Grande Empresa,17,Tocantins,2018,1,CNPJ,303
+4,Grande Empresa,17,Tocantins,2018,3,CEI,3
+4,Grande Empresa,17,Tocantins,2019,1,CNPJ,288
+4,Grande Empresa,17,Tocantins,2019,3,CEI,3
+4,Grande Empresa,17,Tocantins,2020,1,CNPJ,270
+4,Grande Empresa,17,Tocantins,2020,3,CEI,3
+4,Grande Empresa,17,Tocantins,2021,1,CNPJ,295
+4,Grande Empresa,17,Tocantins,2021,3,CEI,4
+4,Grande Empresa,17,Tocantins,2022,1,CNPJ,325
+4,Grande Empresa,17,Tocantins,2022,5,CAEPF,7
+4,Grande Empresa,21,Maranhão,2016,1,CNPJ,657
+4,Grande Empresa,21,Maranhão,2016,3,CEI,5
+4,Grande Empresa,21,Maranhão,2017,1,CNPJ,682
+4,Grande Empresa,21,Maranhão,2017,3,CEI,4
+4,Grande Empresa,21,Maranhão,2018,1,CNPJ,708
+4,Grande Empresa,21,Maranhão,2018,3,CEI,5
+4,Grande Empresa,21,Maranhão,2019,1,CNPJ,711
+4,Grande Empresa,21,Maranhão,2019,3,CEI,3
+4,Grande Empresa,21,Maranhão,2019,5,CAEPF,3
+4,Grande Empresa,21,Maranhão,2020,1,CNPJ,723
+4,Grande Empresa,21,Maranhão,2020,3,CEI,2
+4,Grande Empresa,21,Maranhão,2020,5,CAEPF,3
+4,Grande Empresa,21,Maranhão,2021,1,CNPJ,772
+4,Grande Empresa,21,Maranhão,2021,3,CEI,4
+4,Grande Empresa,21,Maranhão,2021,5,CAEPF,4
+4,Grande Empresa,21,Maranhão,2022,1,CNPJ,807
+4,Grande Empresa,21,Maranhão,2022,5,CAEPF,10
+4,Grande Empresa,21,Maranhão,2022,6,Não identificado - Código 6,3
+4,Grande Empresa,22,Piauí,2016,1,CNPJ,521
+4,Grande Empresa,22,Piauí,2016,3,CEI,2
+4,Grande Empresa,22,Piauí,2017,1,CNPJ,537
+4,Grande Empresa,22,Piauí,2017,3,CEI,2
+4,Grande Empresa,22,Piauí,2018,1,CNPJ,547
+4,Grande Empresa,22,Piauí,2018,3,CEI,2
+4,Grande Empresa,22,Piauí,2019,1,CNPJ,561
+4,Grande Empresa,22,Piauí,2019,3,CEI,1
+4,Grande Empresa,22,Piauí,2019,5,CAEPF,1
+4,Grande Empresa,22,Piauí,2020,1,CNPJ,518
+4,Grande Empresa,22,Piauí,2020,5,CAEPF,1
+4,Grande Empresa,22,Piauí,2021,1,CNPJ,559
+4,Grande Empresa,22,Piauí,2021,3,CEI,1
+4,Grande Empresa,22,Piauí,2021,5,CAEPF,3
+4,Grande Empresa,22,Piauí,2022,1,CNPJ,572
+4,Grande Empresa,22,Piauí,2022,5,CAEPF,6
+4,Grande Empresa,23,Ceará,2016,1,CNPJ,1229
+4,Grande Empresa,23,Ceará,2016,3,CEI,8
+4,Grande Empresa,23,Ceará,2017,1,CNPJ,1232
+4,Grande Empresa,23,Ceará,2017,3,CEI,9
+4,Grande Empresa,23,Ceará,2018,1,CNPJ,1259
+4,Grande Empresa,23,Ceará,2018,3,CEI,8
+4,Grande Empresa,23,Ceará,2018,5,CAEPF,1
+4,Grande Empresa,23,Ceará,2019,1,CNPJ,1271
+4,Grande Empresa,23,Ceará,2019,3,CEI,10
+4,Grande Empresa,23,Ceará,2019,5,CAEPF,1
+4,Grande Empresa,23,Ceará,2020,1,CNPJ,1246
+4,Grande Empresa,23,Ceará,2020,3,CEI,8
+4,Grande Empresa,23,Ceará,2020,5,CAEPF,1
+4,Grande Empresa,23,Ceará,2021,1,CNPJ,1286
+4,Grande Empresa,23,Ceará,2021,3,CEI,8
+4,Grande Empresa,23,Ceará,2021,5,CAEPF,1
+4,Grande Empresa,23,Ceará,2022,1,CNPJ,1335
+4,Grande Empresa,23,Ceará,2022,5,CAEPF,9
+4,Grande Empresa,23,Ceará,2022,6,Não identificado - Código 6,1
+4,Grande Empresa,24,Rio Grande Do Norte,2016,1,CNPJ,551
+4,Grande Empresa,24,Rio Grande Do Norte,2017,1,CNPJ,578
+4,Grande Empresa,24,Rio Grande Do Norte,2018,1,CNPJ,596
+4,Grande Empresa,24,Rio Grande Do Norte,2019,1,CNPJ,577
+4,Grande Empresa,24,Rio Grande Do Norte,2020,1,CNPJ,567
+4,Grande Empresa,24,Rio Grande Do Norte,2021,1,CNPJ,576
+4,Grande Empresa,24,Rio Grande Do Norte,2021,3,CEI,1
+4,Grande Empresa,24,Rio Grande Do Norte,2022,1,CNPJ,594
+4,Grande Empresa,24,Rio Grande Do Norte,2022,5,CAEPF,1
+4,Grande Empresa,24,Rio Grande Do Norte,2022,6,Não identificado - Código 6,1
+4,Grande Empresa,25,Paraíba,2016,1,CNPJ,576
+4,Grande Empresa,25,Paraíba,2016,3,CEI,4
+4,Grande Empresa,25,Paraíba,2017,1,CNPJ,593
+4,Grande Empresa,25,Paraíba,2017,3,CEI,6
+4,Grande Empresa,25,Paraíba,2018,1,CNPJ,605
+4,Grande Empresa,25,Paraíba,2018,3,CEI,7
+4,Grande Empresa,25,Paraíba,2019,1,CNPJ,620
+4,Grande Empresa,25,Paraíba,2019,3,CEI,4
+4,Grande Empresa,25,Paraíba,2019,5,CAEPF,1
+4,Grande Empresa,25,Paraíba,2020,1,CNPJ,602
+4,Grande Empresa,25,Paraíba,2020,3,CEI,5
+4,Grande Empresa,25,Paraíba,2020,5,CAEPF,2
+4,Grande Empresa,25,Paraíba,2021,1,CNPJ,626
+4,Grande Empresa,25,Paraíba,2021,3,CEI,2
+4,Grande Empresa,25,Paraíba,2021,5,CAEPF,2
+4,Grande Empresa,25,Paraíba,2022,1,CNPJ,642
+4,Grande Empresa,25,Paraíba,2022,5,CAEPF,8
+4,Grande Empresa,25,Paraíba,2022,6,Não identificado - Código 6,1
+4,Grande Empresa,26,Pernambuco,2016,1,CNPJ,1385
+4,Grande Empresa,26,Pernambuco,2016,3,CEI,19
+4,Grande Empresa,26,Pernambuco,2017,1,CNPJ,1444
+4,Grande Empresa,26,Pernambuco,2017,3,CEI,18
+4,Grande Empresa,26,Pernambuco,2018,1,CNPJ,1455
+4,Grande Empresa,26,Pernambuco,2018,3,CEI,19
+4,Grande Empresa,26,Pernambuco,2018,5,CAEPF,5
+4,Grande Empresa,26,Pernambuco,2019,1,CNPJ,1467
+4,Grande Empresa,26,Pernambuco,2019,3,CEI,19
+4,Grande Empresa,26,Pernambuco,2019,5,CAEPF,9
+4,Grande Empresa,26,Pernambuco,2020,1,CNPJ,1466
+4,Grande Empresa,26,Pernambuco,2020,3,CEI,16
+4,Grande Empresa,26,Pernambuco,2020,5,CAEPF,10
+4,Grande Empresa,26,Pernambuco,2021,1,CNPJ,1577
+4,Grande Empresa,26,Pernambuco,2021,3,CEI,16
+4,Grande Empresa,26,Pernambuco,2021,5,CAEPF,10
+4,Grande Empresa,26,Pernambuco,2022,1,CNPJ,1679
+4,Grande Empresa,26,Pernambuco,2022,5,CAEPF,38
+4,Grande Empresa,26,Pernambuco,2022,6,Não identificado - Código 6,2
+4,Grande Empresa,27,Alagoas,2016,1,CNPJ,421
+4,Grande Empresa,27,Alagoas,2016,3,CEI,5
+4,Grande Empresa,27,Alagoas,2017,1,CNPJ,415
+4,Grande Empresa,27,Alagoas,2017,3,CEI,4
+4,Grande Empresa,27,Alagoas,2018,1,CNPJ,449
+4,Grande Empresa,27,Alagoas,2018,3,CEI,1
+4,Grande Empresa,27,Alagoas,2018,5,CAEPF,1
+4,Grande Empresa,27,Alagoas,2019,1,CNPJ,431
+4,Grande Empresa,27,Alagoas,2019,5,CAEPF,1
+4,Grande Empresa,27,Alagoas,2020,1,CNPJ,453
+4,Grande Empresa,27,Alagoas,2020,5,CAEPF,1
+4,Grande Empresa,27,Alagoas,2021,1,CNPJ,484
+4,Grande Empresa,27,Alagoas,2021,5,CAEPF,1
+4,Grande Empresa,27,Alagoas,2022,1,CNPJ,496
+4,Grande Empresa,27,Alagoas,2022,5,CAEPF,3
+4,Grande Empresa,27,Alagoas,2022,6,Não identificado - Código 6,2
+4,Grande Empresa,28,Sergipe,2016,1,CNPJ,377
+4,Grande Empresa,28,Sergipe,2016,3,CEI,7
+4,Grande Empresa,28,Sergipe,2017,1,CNPJ,385
+4,Grande Empresa,28,Sergipe,2017,3,CEI,8
+4,Grande Empresa,28,Sergipe,2018,1,CNPJ,386
+4,Grande Empresa,28,Sergipe,2018,5,CAEPF,6
+4,Grande Empresa,28,Sergipe,2019,1,CNPJ,382
+4,Grande Empresa,28,Sergipe,2019,5,CAEPF,8
+4,Grande Empresa,28,Sergipe,2020,1,CNPJ,366
+4,Grande Empresa,28,Sergipe,2020,5,CAEPF,7
+4,Grande Empresa,28,Sergipe,2021,1,CNPJ,392
+4,Grande Empresa,28,Sergipe,2021,5,CAEPF,6
+4,Grande Empresa,28,Sergipe,2022,1,CNPJ,399
+4,Grande Empresa,28,Sergipe,2022,5,CAEPF,10
+4,Grande Empresa,28,Sergipe,2022,6,Não identificado - Código 6,1
+4,Grande Empresa,29,Bahia,2016,1,CNPJ,1809
+4,Grande Empresa,29,Bahia,2016,3,CEI,34
+4,Grande Empresa,29,Bahia,2017,1,CNPJ,1838
+4,Grande Empresa,29,Bahia,2017,3,CEI,34
+4,Grande Empresa,29,Bahia,2018,1,CNPJ,1911
+4,Grande Empresa,29,Bahia,2018,3,CEI,19
+4,Grande Empresa,29,Bahia,2018,5,CAEPF,14
+4,Grande Empresa,29,Bahia,2019,1,CNPJ,1899
+4,Grande Empresa,29,Bahia,2019,3,CEI,13
+4,Grande Empresa,29,Bahia,2019,5,CAEPF,17
+4,Grande Empresa,29,Bahia,2020,1,CNPJ,1929
+4,Grande Empresa,29,Bahia,2020,3,CEI,13
+4,Grande Empresa,29,Bahia,2020,5,CAEPF,20
+4,Grande Empresa,29,Bahia,2021,1,CNPJ,2016
+4,Grande Empresa,29,Bahia,2021,3,CEI,17
+4,Grande Empresa,29,Bahia,2021,5,CAEPF,25
+4,Grande Empresa,29,Bahia,2022,1,CNPJ,2117
+4,Grande Empresa,29,Bahia,2022,5,CAEPF,52
+4,Grande Empresa,29,Bahia,2022,6,Não identificado - Código 6,2
+4,Grande Empresa,31,Minas Gerais,2016,1,CNPJ,3723
+4,Grande Empresa,31,Minas Gerais,2016,3,CEI,86
+4,Grande Empresa,31,Minas Gerais,2017,1,CNPJ,3783
+4,Grande Empresa,31,Minas Gerais,2017,3,CEI,89
+4,Grande Empresa,31,Minas Gerais,2018,1,CNPJ,3884
+4,Grande Empresa,31,Minas Gerais,2018,3,CEI,54
+4,Grande Empresa,31,Minas Gerais,2018,5,CAEPF,27
+4,Grande Empresa,31,Minas Gerais,2019,1,CNPJ,4012
+4,Grande Empresa,31,Minas Gerais,2019,3,CEI,34
+4,Grande Empresa,31,Minas Gerais,2019,5,CAEPF,40
+4,Grande Empresa,31,Minas Gerais,2020,1,CNPJ,4056
+4,Grande Empresa,31,Minas Gerais,2020,3,CEI,37
+4,Grande Empresa,31,Minas Gerais,2020,5,CAEPF,47
+4,Grande Empresa,31,Minas Gerais,2021,1,CNPJ,4375
+4,Grande Empresa,31,Minas Gerais,2021,3,CEI,39
+4,Grande Empresa,31,Minas Gerais,2021,5,CAEPF,51
+4,Grande Empresa,31,Minas Gerais,2022,1,CNPJ,4636
+4,Grande Empresa,31,Minas Gerais,2022,5,CAEPF,113
+4,Grande Empresa,31,Minas Gerais,2022,6,Não identificado - Código 6,6
+4,Grande Empresa,32,Espírito Santo,2016,1,CNPJ,733
+4,Grande Empresa,32,Espírito Santo,2016,3,CEI,4
+4,Grande Empresa,32,Espírito Santo,2017,1,CNPJ,765
+4,Grande Empresa,32,Espírito Santo,2017,3,CEI,7
+4,Grande Empresa,32,Espírito Santo,2018,1,CNPJ,808
+4,Grande Empresa,32,Espírito Santo,2018,3,CEI,6
+4,Grande Empresa,32,Espírito Santo,2018,5,CAEPF,1
+4,Grande Empresa,32,Espírito Santo,2019,1,CNPJ,809
+4,Grande Empresa,32,Espírito Santo,2019,3,CEI,4
+4,Grande Empresa,32,Espírito Santo,2020,1,CNPJ,799
+4,Grande Empresa,32,Espírito Santo,2020,3,CEI,5
+4,Grande Empresa,32,Espírito Santo,2021,1,CNPJ,876
+4,Grande Empresa,32,Espírito Santo,2021,3,CEI,4
+4,Grande Empresa,32,Espírito Santo,2021,5,CAEPF,1
+4,Grande Empresa,32,Espírito Santo,2022,1,CNPJ,929
+4,Grande Empresa,32,Espírito Santo,2022,5,CAEPF,5
+4,Grande Empresa,33,Rio De Janeiro,2016,1,CNPJ,3679
+4,Grande Empresa,33,Rio De Janeiro,2016,3,CEI,8
+4,Grande Empresa,33,Rio De Janeiro,2017,1,CNPJ,3608
+4,Grande Empresa,33,Rio De Janeiro,2017,3,CEI,8
+4,Grande Empresa,33,Rio De Janeiro,2018,1,CNPJ,3689
+4,Grande Empresa,33,Rio De Janeiro,2018,3,CEI,3
+4,Grande Empresa,33,Rio De Janeiro,2018,5,CAEPF,4
+4,Grande Empresa,33,Rio De Janeiro,2019,1,CNPJ,3667
+4,Grande Empresa,33,Rio De Janeiro,2019,3,CEI,1
+4,Grande Empresa,33,Rio De Janeiro,2019,5,CAEPF,4
+4,Grande Empresa,33,Rio De Janeiro,2020,1,CNPJ,3560
+4,Grande Empresa,33,Rio De Janeiro,2020,3,CEI,1
+4,Grande Empresa,33,Rio De Janeiro,2020,5,CAEPF,3
+4,Grande Empresa,33,Rio De Janeiro,2021,1,CNPJ,3702
+4,Grande Empresa,33,Rio De Janeiro,2021,5,CAEPF,8
+4,Grande Empresa,33,Rio De Janeiro,2022,1,CNPJ,3976
+4,Grande Empresa,33,Rio De Janeiro,2022,5,CAEPF,8
+4,Grande Empresa,33,Rio De Janeiro,2022,6,Não identificado - Código 6,3
+4,Grande Empresa,35,São Paulo,2016,1,CNPJ,11154
+4,Grande Empresa,35,São Paulo,2016,3,CEI,138
+4,Grande Empresa,35,São Paulo,2017,1,CNPJ,11322
+4,Grande Empresa,35,São Paulo,2017,3,CEI,151
+4,Grande Empresa,35,São Paulo,2018,1,CNPJ,11688
+4,Grande Empresa,35,São Paulo,2018,3,CEI,121
+4,Grande Empresa,35,São Paulo,2018,5,CAEPF,16
+4,Grande Empresa,35,São Paulo,2019,1,CNPJ,11961
+4,Grande Empresa,35,São Paulo,2019,3,CEI,78
+4,Grande Empresa,35,São Paulo,2019,5,CAEPF,51
+4,Grande Empresa,35,São Paulo,2020,1,CNPJ,11936
+4,Grande Empresa,35,São Paulo,2020,3,CEI,80
+4,Grande Empresa,35,São Paulo,2020,5,CAEPF,65
+4,Grande Empresa,35,São Paulo,2021,1,CNPJ,12508
+4,Grande Empresa,35,São Paulo,2021,3,CEI,90
+4,Grande Empresa,35,São Paulo,2021,5,CAEPF,65
+4,Grande Empresa,35,São Paulo,2022,1,CNPJ,13404
+4,Grande Empresa,35,São Paulo,2022,5,CAEPF,193
+4,Grande Empresa,35,São Paulo,2022,6,Não identificado - Código 6,5
+4,Grande Empresa,41,Paraná,2016,1,CNPJ,2339
+4,Grande Empresa,41,Paraná,2016,3,CEI,6
+4,Grande Empresa,41,Paraná,2017,1,CNPJ,2386
+4,Grande Empresa,41,Paraná,2017,3,CEI,8
+4,Grande Empresa,41,Paraná,2018,1,CNPJ,2507
+4,Grande Empresa,41,Paraná,2018,3,CEI,8
+4,Grande Empresa,41,Paraná,2019,1,CNPJ,2565
+4,Grande Empresa,41,Paraná,2019,3,CEI,5
+4,Grande Empresa,41,Paraná,2019,5,CAEPF,5
+4,Grande Empresa,41,Paraná,2020,1,CNPJ,2583
+4,Grande Empresa,41,Paraná,2020,3,CEI,3
+4,Grande Empresa,41,Paraná,2020,5,CAEPF,8
+4,Grande Empresa,41,Paraná,2021,1,CNPJ,2739
+4,Grande Empresa,41,Paraná,2021,3,CEI,2
+4,Grande Empresa,41,Paraná,2021,5,CAEPF,5
+4,Grande Empresa,41,Paraná,2022,1,CNPJ,2874
+4,Grande Empresa,41,Paraná,2022,5,CAEPF,10
+4,Grande Empresa,41,Paraná,2022,6,Não identificado - Código 6,1
+4,Grande Empresa,42,Santa Catarina,2016,1,CNPJ,1571
+4,Grande Empresa,42,Santa Catarina,2016,3,CEI,4
+4,Grande Empresa,42,Santa Catarina,2017,1,CNPJ,1637
+4,Grande Empresa,42,Santa Catarina,2017,3,CEI,5
+4,Grande Empresa,42,Santa Catarina,2018,1,CNPJ,1727
+4,Grande Empresa,42,Santa Catarina,2018,3,CEI,6
+4,Grande Empresa,42,Santa Catarina,2019,1,CNPJ,1775
+4,Grande Empresa,42,Santa Catarina,2019,3,CEI,3
+4,Grande Empresa,42,Santa Catarina,2019,5,CAEPF,1
+4,Grande Empresa,42,Santa Catarina,2020,1,CNPJ,1791
+4,Grande Empresa,42,Santa Catarina,2020,3,CEI,3
+4,Grande Empresa,42,Santa Catarina,2020,5,CAEPF,1
+4,Grande Empresa,42,Santa Catarina,2021,1,CNPJ,1936
+4,Grande Empresa,42,Santa Catarina,2021,3,CEI,4
+4,Grande Empresa,42,Santa Catarina,2021,5,CAEPF,1
+4,Grande Empresa,42,Santa Catarina,2022,1,CNPJ,2024
+4,Grande Empresa,42,Santa Catarina,2022,5,CAEPF,5
+4,Grande Empresa,42,Santa Catarina,2022,6,Não identificado - Código 6,1
+4,Grande Empresa,43,Rio Grande Do Sul,2016,1,CNPJ,2327
+4,Grande Empresa,43,Rio Grande Do Sul,2016,3,CEI,9
+4,Grande Empresa,43,Rio Grande Do Sul,2017,1,CNPJ,2308
+4,Grande Empresa,43,Rio Grande Do Sul,2017,3,CEI,9
+4,Grande Empresa,43,Rio Grande Do Sul,2018,1,CNPJ,2334
+4,Grande Empresa,43,Rio Grande Do Sul,2018,3,CEI,8
+4,Grande Empresa,43,Rio Grande Do Sul,2018,5,CAEPF,1
+4,Grande Empresa,43,Rio Grande Do Sul,2019,1,CNPJ,2324
+4,Grande Empresa,43,Rio Grande Do Sul,2019,3,CEI,6
+4,Grande Empresa,43,Rio Grande Do Sul,2019,5,CAEPF,2
+4,Grande Empresa,43,Rio Grande Do Sul,2020,1,CNPJ,2325
+4,Grande Empresa,43,Rio Grande Do Sul,2020,3,CEI,8
+4,Grande Empresa,43,Rio Grande Do Sul,2020,5,CAEPF,1
+4,Grande Empresa,43,Rio Grande Do Sul,2021,1,CNPJ,2420
+4,Grande Empresa,43,Rio Grande Do Sul,2021,3,CEI,6
+4,Grande Empresa,43,Rio Grande Do Sul,2021,5,CAEPF,3
+4,Grande Empresa,43,Rio Grande Do Sul,2022,1,CNPJ,2596
+4,Grande Empresa,43,Rio Grande Do Sul,2022,5,CAEPF,13
+4,Grande Empresa,50,Mato Grosso Do Sul,2016,1,CNPJ,489
+4,Grande Empresa,50,Mato Grosso Do Sul,2016,3,CEI,6
+4,Grande Empresa,50,Mato Grosso Do Sul,2017,1,CNPJ,487
+4,Grande Empresa,50,Mato Grosso Do Sul,2017,3,CEI,7
+4,Grande Empresa,50,Mato Grosso Do Sul,2018,1,CNPJ,504
+4,Grande Empresa,50,Mato Grosso Do Sul,2018,3,CEI,8
+4,Grande Empresa,50,Mato Grosso Do Sul,2019,1,CNPJ,530
+4,Grande Empresa,50,Mato Grosso Do Sul,2019,3,CEI,6
+4,Grande Empresa,50,Mato Grosso Do Sul,2020,1,CNPJ,528
+4,Grande Empresa,50,Mato Grosso Do Sul,2020,3,CEI,6
+4,Grande Empresa,50,Mato Grosso Do Sul,2021,1,CNPJ,556
+4,Grande Empresa,50,Mato Grosso Do Sul,2021,3,CEI,4
+4,Grande Empresa,50,Mato Grosso Do Sul,2021,5,CAEPF,1
+4,Grande Empresa,50,Mato Grosso Do Sul,2022,1,CNPJ,586
+4,Grande Empresa,50,Mato Grosso Do Sul,2022,5,CAEPF,10
+4,Grande Empresa,51,Mato Grosso,2016,1,CNPJ,641
+4,Grande Empresa,51,Mato Grosso,2016,3,CEI,42
+4,Grande Empresa,51,Mato Grosso,2017,1,CNPJ,666
+4,Grande Empresa,51,Mato Grosso,2017,3,CEI,36
+4,Grande Empresa,51,Mato Grosso,2018,1,CNPJ,709
+4,Grande Empresa,51,Mato Grosso,2018,3,CEI,31
+4,Grande Empresa,51,Mato Grosso,2018,5,CAEPF,16
+4,Grande Empresa,51,Mato Grosso,2019,1,CNPJ,714
+4,Grande Empresa,51,Mato Grosso,2019,3,CEI,25
+4,Grande Empresa,51,Mato Grosso,2019,5,CAEPF,22
+4,Grande Empresa,51,Mato Grosso,2020,1,CNPJ,717
+4,Grande Empresa,51,Mato Grosso,2020,3,CEI,24
+4,Grande Empresa,51,Mato Grosso,2020,5,CAEPF,22
+4,Grande Empresa,51,Mato Grosso,2021,1,CNPJ,771
+4,Grande Empresa,51,Mato Grosso,2021,3,CEI,26
+4,Grande Empresa,51,Mato Grosso,2021,5,CAEPF,23
+4,Grande Empresa,51,Mato Grosso,2022,1,CNPJ,855
+4,Grande Empresa,51,Mato Grosso,2022,5,CAEPF,57
+4,Grande Empresa,51,Mato Grosso,2022,6,Não identificado - Código 6,2
+4,Grande Empresa,52,Goiás,2016,1,CNPJ,1165
+4,Grande Empresa,52,Goiás,2016,3,CEI,27
+4,Grande Empresa,52,Goiás,2017,1,CNPJ,1256
+4,Grande Empresa,52,Goiás,2017,3,CEI,25
+4,Grande Empresa,52,Goiás,2018,1,CNPJ,1264
+4,Grande Empresa,52,Goiás,2018,3,CEI,23
+4,Grande Empresa,52,Goiás,2018,5,CAEPF,4
+4,Grande Empresa,52,Goiás,2019,1,CNPJ,1299
+4,Grande Empresa,52,Goiás,2019,3,CEI,16
+4,Grande Empresa,52,Goiás,2019,5,CAEPF,10
+4,Grande Empresa,52,Goiás,2020,1,CNPJ,1299
+4,Grande Empresa,52,Goiás,2020,3,CEI,15
+4,Grande Empresa,52,Goiás,2020,5,CAEPF,9
+4,Grande Empresa,52,Goiás,2021,1,CNPJ,1398
+4,Grande Empresa,52,Goiás,2021,3,CEI,17
+4,Grande Empresa,52,Goiás,2021,5,CAEPF,7
+4,Grande Empresa,52,Goiás,2022,1,CNPJ,1514
+4,Grande Empresa,52,Goiás,2022,5,CAEPF,32
+4,Grande Empresa,52,Goiás,2022,6,Não identificado - Código 6,1
+4,Grande Empresa,53,Distrito Federal,2016,1,CNPJ,934
+4,Grande Empresa,53,Distrito Federal,2016,3,CEI,2
+4,Grande Empresa,53,Distrito Federal,2017,1,CNPJ,949
+4,Grande Empresa,53,Distrito Federal,2017,3,CEI,2
+4,Grande Empresa,53,Distrito Federal,2018,1,CNPJ,958
+4,Grande Empresa,53,Distrito Federal,2018,3,CEI,2
+4,Grande Empresa,53,Distrito Federal,2019,1,CNPJ,999
+4,Grande Empresa,53,Distrito Federal,2019,3,CEI,1
+4,Grande Empresa,53,Distrito Federal,2019,5,CAEPF,1
+4,Grande Empresa,53,Distrito Federal,2020,1,CNPJ,978
+4,Grande Empresa,53,Distrito Federal,2020,3,CEI,2
+4,Grande Empresa,53,Distrito Federal,2021,1,CNPJ,990
+4,Grande Empresa,53,Distrito Federal,2021,3,CEI,2
+4,Grande Empresa,53,Distrito Federal,2022,1,CNPJ,1074
+4,Grande Empresa,53,Distrito Federal,2022,5,CAEPF,5
+4,Grande Empresa,99,Não informado,2022,1,CNPJ,1
