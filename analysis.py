@@ -26,7 +26,15 @@ def main():
         if not title1 or not title2:
             print("\nErro: Uma das colunas de séries temporais não foi encontrada. Verifique o formato dos nomes das colunas de dados temporais.")
             return
-        # CONTINUA    
+        
+        #title = input("Insira o título do gráfico: ")
+        title = "Comparação da taxa de crescimento de novos micro-empreendimentos x taxa de contribuição no PIB por UF"
+        
+        # Prepara os dados no formato desejado para a plotagem
+        series1 = prepareData(df, "UF", title1)
+        series2 = prepareData(df, "UF", title2)
+        #uf_1 = input("Insira a UF (sigla): ")
+        cg.createGraphic(series1, series2, "scatter_interactive", title, "Novos micro-empreendimentos", "Contribuição no PIB")
     
     else:
         # Estabelece qual a variável que será analisada
@@ -37,8 +45,8 @@ def main():
         if (not time_series_complete.values()):
             return
 
-        uf = input("Insira a UF (sigla): ")
-        series = np.array([value for key, value in time_series_complete.items() if key == uf])
+        uf_2 = input("Insira a UF (sigla): ")
+        series = np.array([value for key, value in time_series_complete.items() if key == uf_2])
         var_stats = sts.getStats(series)
     
 if __name__ == "__main__":

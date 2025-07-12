@@ -7,7 +7,7 @@ import create_graphics as cg
 def loadData(archive_name: str) -> pd.DataFrame:
     """ Carrega a tabela e retorna o DataFrame """
     # Monta o endereço completo do arquivo
-    complete_address = "data/tests/" + archive_name
+    complete_address = "data/formated_data/" + archive_name
 
     # Extrai a extensão do arquivo
     ext = archive_name.split(".")[-1]

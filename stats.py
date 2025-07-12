@@ -29,3 +29,4 @@ def getStats(series: np.ndarray) -> Dict[str, np.number]:
 def associate():
     series1 = np.random.randint(1, 1000, 200)
     series2 = np.random.randint(1, 1000, 200)
+    # INCOMPLETO

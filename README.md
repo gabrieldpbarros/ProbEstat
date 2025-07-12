@@ -15,7 +15,7 @@ Discentes: Daniel Ribeiro, Gabriel Delgado, João Vitor Gomes, Sarah Mynssen, Vi
 
 O trabalho tem como foco analisar como o surgimento de pequenas empresas, ou microempreendimentos, afeta no desempenho econômico do estado em que esses empreendimentos se originam.
 
-Os dados observados foram extraídos de fontes públicas e confiáveis ([Observatório DataMPE Brasil](https://datampe.sebrae.com.br), ...) e processados através de [scripts de autoria própria](read_data.py). Foram utilizadas técnicas de [análise estatística](stats.py), como [gráficos](create_graphics.py) (boxplot e gráfico de dispersão) e [associação entre variáveis](stats.py). Todas essas técnicas são executadas através de um [script principal](analysis.py).
+Os dados observados foram extraídos de fontes públicas e confiáveis ([Observatório DataMPE Brasil](https://datampe.sebrae.com.br), [IBGE](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html), ...) e processados através de [scripts de autoria própria](read_data.py). Foram utilizadas técnicas de [análise estatística](stats.py), como [gráficos](create_graphics.py) (boxplot e gráfico de dispersão) e [associação entre variáveis](stats.py). Todas essas técnicas são executadas através de um [script principal](analysis.py).
 
 Através deste trabalho, espera-se contemplar os [Objetivos de Desenvolvimento Sustentável (ODS)](https://brasil.un.org/pt-br/sdgs) 1, 8 e 11 da Organização das Nações Unidas (ONU), contribuindo para a efetivação desses objetivos propostos pela ONU.
 
@@ -26,8 +26,9 @@ Foram considerados para essa análise a Quantidade de Estabelecimentos por Porte
 ### Fontes
 
  - **[Relação Anual de Informações Sociais (RAIS)](https://datampe.sebrae.com.br/data-explorer?cube=RAIS_establishment&drilldowns%5B0%5D=Establishment+Size&drilldowns%5B1%5D=Geography.Municipality.State&drilldowns%5B2%5D=Year&drilldowns%5B3%5D=Type+Establishment&measures%5B0%5D=Establishments)**
- - **fonte 2**
+ - **[Instituto Brasileiro de Geografia e Estatística (IBGE)](https://www.ibge.gov.br)**
  - **fonte 3**
+ - **fonte 4**
 
 .
 
@@ -62,7 +63,7 @@ De acordo com o tipo de análise solicitada pelo usuário, o arquivo chama outra
 
 - **[read_data](read_data.py):** responsável por tudo que envolve leitura e processamento das tabelas analisadas, como acessar a tabela armazeanada, converter em um pandas DataFrame e retornar uma série temporal específica.
 
-- **[stats](stats.py):** possui duas funções, a primeira retorna as medidas de posição e de dispersão de uma série temporal, e a segunda faz a análise associativa de duas séries temporais, utilizando o índice de correlação.
+- **[stats](stats.py):** possui duas funções, a primeira retorna as medidas de posição e de dispersão de uma série temporal, e a segunda faz a análise associativa de duas séries temporais, utilizando o coeficiente de correlação.
 
 ## Análise
 
