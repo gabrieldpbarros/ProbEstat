@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import stats as sts
+import create_graphics as cg
 from read_data import readData, prepareData
 
 def main():
@@ -13,7 +14,7 @@ def main():
     # Verifica o tipo de análise que será feita
     analysis = input("Qual análise você deseja fazer? (correlacao, estatistica descritiva) ")
     while (analysis != "correlacao" and analysis != "estatistica descritiva"):
-        analysis = input("Texto inválido. Digite uma das opções: [correlacao, estatistica descritiva]")
+        analysis = input("Texto inválido. Digite uma das opções: [correlacao, estatistica descritiva] ")
 
     # Cria uma lista com os títulos de cada coluna do DataFrame
     all_columns = df.columns.tolist()
@@ -21,15 +22,8 @@ def main():
     if (analysis == "correlacao"):
         temp = input("Insira os títulos dos dados a serem analisados, separados por espaços: ")
         title1, title2 = temp.split()
-      
-        # Filtragem para garantir que apenas valores numéricos vão ser analisados.
-        time_series1_col = [title1]
-        time_series1_col = [col for col in time_series1_col if np.issubdtype(df[col].dtype, np.number)]
 
-        time_series2_col = [title2]
-        time_series2_col = [col for col in time_series1_col if np.issubdtype(df[col].dtype, np.number)]
-
-        if not time_series1_col or not time_series2_col:
+        if not title1 or not title2:
             print("\nErro: Uma das colunas de séries temporais não foi encontrada. Verifique o formato dos nomes das colunas de dados temporais.")
             return
         # CONTINUA    

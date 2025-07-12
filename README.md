@@ -6,6 +6,7 @@ Discentes: Daniel Ribeiro, Gabriel Delgado, João Vitor Gomes, Sarah Mynssen, Vi
 
 - [Resumo](#resumo)
 - [Dados](#sobre-os-dados)
+- [Algoritmos](#algoritmos)
 - [Análise](#análise)
 - [Discussão](#discussão)
 - [Conclusão](#conclusão)
@@ -23,6 +24,7 @@ Através deste trabalho, espera-se contemplar os [Objetivos de Desenvolvimento S
 Foram considerados para essa análise a Quantidade de Estabelecimentos por Porte da Empresa - Sebrae, UF e Ano, ...
 
 ### Fontes
+
  - **[Relação Anual de Informações Sociais (RAIS)](https://datampe.sebrae.com.br/data-explorer?cube=RAIS_establishment&drilldowns%5B0%5D=Establishment+Size&drilldowns%5B1%5D=Geography.Municipality.State&drilldowns%5B2%5D=Year&drilldowns%5B3%5D=Type+Establishment&measures%5B0%5D=Establishments)**
  - **fonte 2**
  - **fonte 3**
@@ -36,13 +38,31 @@ Foram considerados para essa análise a Quantidade de Estabelecimentos por Porte
 
 ### Séries
 
-As séries utilizadas estão contidas na pasta [source data](data/source_data/), com algumas alterações de formatação em relação à fonte original. Essa escolha foi feita para facilitar a manipulação das séries pelas funções dos códigos.
+As séries utilizadas estão contidas na pasta [source_data](data/source_data/), com algumas alterações de formatação em relação à fonte original. Essa escolha foi feita para facilitar a manipulação das séries pelas funções dos códigos.
 
 ### Informações relevantes
 
 Para a conveniência do script, os dados extraídos foram filtrados e formatados através de inteligência artificial, mas avaliados após essa etapa a fim de garantir a acurácia da análise. Todos esses dados estão localizados na pasta [formated_data](data/formated_data/).
 
 A Taxa de Pobreza foi valorizada para a associação com a ODS 1 e a Contribuição no PIB foi utilizada para a relação com a ODS 8. 
+
+## Algoritmos
+
+### Visão geral
+
+O arquivo principal ([analysis.py](analysis.py)) solicita o nome da tabela que será analisada, armazenada na pasta de dados formatados, faz a leitura da tabela ([read_data.py](read_data.py)), convertendo os dados em um DataFrame da biblioteca pandas, e oferece os tipos de análise que podem ser feitas. O usuário segue as instruções dadas durante a execução, fornecendo os títulos das séries analisadas, a UF estudada, por exemplo.
+
+De acordo com o tipo de análise solicitada pelo usuário, o arquivo chama outras funções auxiliares ([criação de gráficos](create_graphics.py), [processamento dos dados](read_data.py) e [dados estatísticos](stats.py)) e retorna a análise solicitada pelo usuário.
+
+### Resumo dos algoritmos
+
+- **[analysis](analysis.py):** função principal, responsável por executar todos os outros algoritmos.
+
+- **[create_graphics](create_graphics.py):** recebe séries temporais, formatadas como um dicionário, e gera um gráfico (dispersão ou boxplot), conforme as instruções dadas pelo usuário na função principal.
+
+- **[read_data](read_data.py):** responsável por tudo que envolve leitura e processamento das tabelas analisadas, como acessar a tabela armazeanada, converter em um pandas DataFrame e retornar uma série temporal específica.
+
+- **[stats](stats.py):** possui duas funções, a primeira retorna as medidas de posição e de dispersão de uma série temporal, e a segunda faz a análise associativa de duas séries temporais, utilizando o índice de correlação.
 
 ## Análise
 

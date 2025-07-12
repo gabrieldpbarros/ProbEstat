@@ -22,18 +22,7 @@ def loadData(archive_name: str) -> pd.DataFrame:
 
     try:
         if (ext == "csv"):
-            # Para arquivos do IPEADATA, pode ser necessário ajustar:
-            # - skiprows: Para pular linhas de metadados no início.
-            # - sep: O delimitador pode ser ';', ',' ou '\t' (tab).
-            # - encoding: Para lidar com caracteres especiais.
-            # Vamos tentar um cenário comum do IPEADATA, mas você precisará verificar.
             full_data = pd.read_csv(complete_address, sep=',', encoding='latin1')
-            # Para o arquivo "ipeadata[02-07-2025-09-51] (1).xls - Séries.csv" do IPEADATA, as 
-            # primeiras linhas são metadados. E o delimitador comum é ';'. A codificação 'latin1'
-            # ajuda com caracteres especiais. skiprows=1 irá pular a primeira linha que geralmente 
-            # tem o nome completo da série. Você pode precisar ajustar skiprows, por exemplo, para
-            # 4 ou mais, dependendo de quantas linhas de metadados existem antes dos cabeçalhos reais.
-            # Abra o CSV em um editor de texto simples para verificar.
         elif (ext == "xlsx" or ext == "xls"):
             full_data = pd.read_excel(complete_address)
         else:
