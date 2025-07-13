@@ -13,7 +13,7 @@ def loadData(archive_name: str) -> pd.DataFrame:
     ext = archive_name.split(".")[-1]
 
     # Verifica a extensão do arquivo
-    if len(ext) < 2:
+    if (len(ext) < 2):
         print("Nome de arquivo inválido ou sem extensão.")
         return pd.DataFrame() # Retorna DataFrame vazio para indicar falha
     
@@ -49,8 +49,8 @@ def prepareData(data: pd.DataFrame, zone_col: str, value_col: str) -> Dict[str, 
     
     ARGUMENTOS: 
         data (pd.DataFrame): O DataFrame completo contendo os dados.
-        zone_col (str): O título/nome da coluna que identifica os Estados.
-        value_col: (List[str]): O título/nome da coluna com o número de pequenas empresas.
+        zone_col (str): O título/nome da coluna que identifica os Estados/Municípios.
+        value_col: (List[str]): O título/nome da coluna com os valores que serão analisados.
 
     RETORNO:
         Dict[str, pd.Series]: Um dicionário contendo todas as séries do pandas, associadas
@@ -58,7 +58,7 @@ def prepareData(data: pd.DataFrame, zone_col: str, value_col: str) -> Dict[str, 
 
     """
     # Verifica se as colunas existem no DataFrame
-    if zone_col not in data.columns:
+    if (zone_col not in data.columns):
         print(f"Erro: Coluna de zona '{zone_col}' não encontrada no DataFrame. Colunas disponíveis: {data.columns.tolist()}")
         return pd.DataFrame()
 
@@ -70,21 +70,26 @@ def prepareData(data: pd.DataFrame, zone_col: str, value_col: str) -> Dict[str, 
     zone_data = {}
 
     # Agrupa o DataFrame pela coluna "UF"
-    grouped = data.groupby(zone_col)
+    grouped_by_zone = data.groupby(zone_col)
 
-    # Itera sobre cada Estado
-    for zone, group_df in grouped:
-        # Cria a série: o índice é o 'Ano', os valores são de 'Empreendimentos'
-        state_series = pd.Series(group_df[value_col].values, index=group_df['Ano'])
-        state_series = state_series.sort_index() # Garante a ordem cronológica
-        zone_data[zone] = state_series
+    # Itera sobre cada Estado/Município
+    for zone, group_df in grouped_by_zone:
+        # Agrupa novamente por 'Ano' e soma (.sum()) os valores de 'value_col'.
+        # Isso garante que cada ano tenha um único valor agregado.
+        yearly_series = group_df.groupby('Ano')[value_col].sum()
+        
+        # Garante que a série está ordenada pelo ano
+        yearly_series = yearly_series.sort_index()
+        
+        # Adiciona a série consolidada ao dicionário
+        zone_data[zone] = yearly_series
 
     return zone_data
 
 def readData(series_archive_name: str) -> pd.DataFrame:
     """ Acessa uma tabela (.csv, .xls ou .xlsx) e converte os dados para um DataFrame """
     dados_df = loadData(series_archive_name)
-    if dados_df.empty:
+    if (dados_df.empty):
         print("Não foi possível carregar os dados. Encerrando.")
         return
     

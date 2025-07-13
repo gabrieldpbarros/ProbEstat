@@ -41,13 +41,16 @@ def main():
         all_columns = df.columns.tolist()
 
         if (analysis == "grafico"):
-            # Prepara os dados no formato desejado para serem analisados
-            series1 = prepareData(df, "UF", title1)
-            series2 = prepareData(df, "UF", title2)       
+            # Verifica se os dados são divididos por UF ou Municípios
+            zone = all_columns[0]
 
-            title = f"Comparação da {formatTitle(title1)}x {formatTitle(title2)}por UF"
+            # Prepara os dados no formato desejado para serem analisados
+            series1 = prepareData(df, zone, title1)
+            series2 = prepareData(df, zone, title2)       
+
+            title = f"Comparação da {formatTitle(title1)}x {formatTitle(title2)}por Município (Maiores do Vale do Paraíba)"
             #uf_1 = input("Insira a UF (sigla): ")
-            cg.createGraphic(series1, series2, "scatter", title, "Taxa de pobreza", "Novos micro-empreendimentos")
+            cg.createGraphic(series1, series2, "scatter", title, "Novos empregos", "Novos empreendimentos")
         
         elif (analysis == "correlacao"):
             # Cria duas pd.Series contendo as séries temporais completas

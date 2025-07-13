@@ -15,27 +15,21 @@ Discentes: Daniel Ribeiro, Gabriel Delgado, João Vitor Gomes, Sarah Mynssen, Vi
 
 O trabalho tem como foco analisar como o surgimento de pequenas empresas, ou microempreendimentos, afeta no desempenho econômico do estado em que esses empreendimentos se originam.
 
-Os dados observados foram extraídos de fontes públicas e confiáveis ([Observatório DataMPE Brasil](https://datampe.sebrae.com.br), [IBGE](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html), ...) e processados através de [scripts de autoria própria](read_data.py). Foram utilizadas técnicas de [análise estatística](stats.py), como [gráficos](create_graphics.py) (boxplot e gráfico de dispersão) e [associação entre variáveis](stats.py). Todas essas técnicas são executadas através de um [script principal](analysis.py).
+Os dados observados foram extraídos de fontes públicas e confiáveis ([Observatório DataMPE Brasil](https://datampe.sebrae.com.br), [IBGE](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html), [Ipea](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=1825), etc.) e processados através de [scripts de autoria própria](read_data.py). Foram utilizadas técnicas de [análise estatística](stats.py), como [gráficos](create_graphics.py) (gráfico de linhas, boxplot e gráfico de dispersão) e [associação entre variáveis](stats.py). Todas essas técnicas são executadas através de um [script principal](analysis.py).
 
 Através deste trabalho, espera-se contemplar os [Objetivos de Desenvolvimento Sustentável (ODS)](https://brasil.un.org/pt-br/sdgs) 1, 8 e 11 da Organização das Nações Unidas (ONU), contribuindo para a efetivação desses objetivos propostos pela ONU.
 
 ## Sobre os dados
 
-Foram considerados para essa análise a Quantidade de Estabelecimentos por Porte da Empresa - Sebrae, UF e Ano, ...
+Foram considerados para essa análise a [Quantidade de Estabelecimentos por Porte da Empresa - Sebrae, UF e Ano](data/source_data/RAIS_establishment_2025-07-12T06_26_17.595Z.csv), o [Produto Interno Bruto a preços correntes por UF e Ano](data/source_data/IBGE_Year_State_GDP.csv), a [Taxa de desocupação - PNAD contínua por UF e Ano](data/source_data/IBGE_Year_State_GDP.csv), [Estabelecimentos por Porte da Empresa - Sebrae e Mesoregião (Especificamente Vale do Paraíba)](data/source_data/IBGE_Year_Municipality_GDP.csv)
 
 ### Fontes
 
- - **[Relação Anual de Informações Sociais (RAIS)](https://datampe.sebrae.com.br/data-explorer?cube=RAIS_establishment&drilldowns%5B0%5D=Establishment+Size&drilldowns%5B1%5D=Geography.Municipality.State&drilldowns%5B2%5D=Year&drilldowns%5B3%5D=Type+Establishment&measures%5B0%5D=Establishments)**
  - **[Instituto Brasileiro de Geografia e Estatística (IBGE)](https://www.ibge.gov.br)**
- - **fonte 3**
- - **fonte 4**
-
-.
-
-.
-
-.
-
+ - **[Instituto de Pesquisa Econômica Aplicada (Ipea)](https://www.ipeadata.gov.br/Default.aspx)**
+ - **[Observatório DataMPE Brasil](https://datampe.sebrae.com.br)**
+ - **[Receita Federal](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos)**
+ - **[Relação Anual de Informações Sociais (RAIS)](https://datampe.sebrae.com.br/data-explorer?cube=RAIS_establishment&drilldowns%5B0%5D=Establishment+Size&drilldowns%5B1%5D=Geography.Municipality.State&drilldowns%5B2%5D=Year&drilldowns%5B3%5D=Type+Establishment&measures%5B0%5D=Establishments)**
 
 ### Séries
 
