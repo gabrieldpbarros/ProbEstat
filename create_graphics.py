@@ -79,6 +79,11 @@ def scatStatic(data1: Dict[str, np.ndarray], data2: Dict[str, np.ndarray], title
     ax.set_xlabel(xlabel)
     ax.set_ylabel(ylabel)
     ax.grid(True, linestyle='--', alpha=0.5)
+
+    # Salva o gráfico em um arquivo HTML no caminho especificado
+    output_dir = "graphics"
+    output_filename = os.path.join(output_dir, f"{title}.png")
+    fig.savefig(output_filename)
     plt.show()
 
 """ FUNÇÃO QUE MONTA UM GRÁFICO DE DISPERSÃO INTERATIVO PARA DUAS SÉRIES OBSERVADAS """

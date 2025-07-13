@@ -22,7 +22,7 @@ def loadData(archive_name: str) -> pd.DataFrame:
 
     try:
         if (ext == "csv"):
-            full_data = pd.read_csv(complete_address, sep=',', encoding='latin1')
+            full_data = pd.read_csv(complete_address, sep=',', encoding='utf-8-sig')
         elif (ext == "xlsx" or ext == "xls"):
             full_data = pd.read_excel(complete_address)
         else:
@@ -89,4 +89,3 @@ def readData(series_archive_name: str) -> pd.DataFrame:
         return
     
     return dados_df
-    cg.createGraphic(dados_dict1, "boxplot", "Comparacao...", "Estados", "N. desempregados")
