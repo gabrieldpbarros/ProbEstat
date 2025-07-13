@@ -21,7 +21,7 @@ Através deste trabalho, espera-se contemplar os [Objetivos de Desenvolvimento S
 
 ## Sobre os dados
 
-Foram considerados para essa análise a [Quantidade de Estabelecimentos por Porte da Empresa - Sebrae, UF e Ano](data/source_data/RAIS_establishment_2025-07-12T06_26_17.595Z.csv), o [Produto Interno Bruto a preços correntes por UF e Ano](data/source_data/IBGE_Year_State_GDP.csv), a [Taxa de desocupação - PNAD contínua por UF e Ano](data/source_data/IBGE_Year_State_GDP.csv), [Estabelecimentos por Porte da Empresa - Sebrae e Mesoregião (Especificamente Vale do Paraíba)](data/source_data/IBGE_Year_Municipality_GDP.csv)
+Foram considerados para essa análise a [Quantidade de Estabelecimentos por Porte da Empresa - Sebrae, UF e Ano](data/source_data/RAIS_establishment_2025-07-12T06_26_17.595Z.csv), o [Produto Interno Bruto a preços correntes por UF e Ano](data/source_data/IBGE_Year_State_GDP.csv), a [Taxa de desocupação - PNAD contínua por UF e Ano](data/source_data/IBGE_Year_State_GDP.csv), a quantidade de [Estabelecimentos por Porte da Empresa - Sebrae e Mesoregião (especificamente do Vale do Paraíba)](data/source_data/IBGE_Year_Municipality_GDP.csv) e a quantidade de [Empregados por Mesoregião e Ano (especificamente do Vale do Paraíba)](data/source_data/RAIS_workers_2025-07-13T23_41_48.044Z.csv)
 
 ### Fontes
 
