@@ -32,7 +32,7 @@ def bp(data: Dict[str, pd.Series], title: str, xlabel: str, ylabel: str) -> None
     # Transforma todas as séries em ndarray e armazena em outro dicionário de ndarrays
     data_ndarray_dict = {}
     for key in data.keys():
-        data_ndarray_dict[key] = data[key].values.flatten()
+        data_ndarray_dict[key] = data[key].to_numpy()
 
     plt.close("all")
     plt.figure(figsize=(14, 7))

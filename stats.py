@@ -1,8 +1,8 @@
 import numpy as np
 import pandas as pd
-import scipy.stats as st
 from typing import Dict
 
+""" FUNÇÃO QUE CALCULA AS MEDIDAS DESCRITIVAS DE UMA SÉRIE TEMPORAL """
 def getStats(series: np.ndarray) -> Dict[str, np.number]:
     disp_size = series.size
 
@@ -21,12 +21,21 @@ def getStats(series: np.ndarray) -> Dict[str, np.number]:
     stats_dict["variance"] = np.var(series) # VAR = (sum(xi - media)^2) / qtd_amostras
     stats_dict["standard deviation"] = np.std(series)
     
-    # TESTES
-    print(series)
-    print()
-    print(stats_dict)
+    return stats_dict
 
-def associate():
-    series1 = np.random.randint(1, 1000, 200)
-    series2 = np.random.randint(1, 1000, 200)
-    # INCOMPLETO
+""" FUNÇÃO QUE CALCULA A CORRELAÇÃO ENTRE DUAS SÉRIES TEMPORAIS """
+def associate(series1: pd.Series, series2: pd.Series, title1: str, title2: str) -> float:
+    # Estatísticas descritivas
+    stats1 = series1.to_numpy()
+    stats2 = series2.to_numpy()
+    stats1 = getStats(series1)
+    stats2 = getStats(series2)
+
+    # Imprime as stats1 e stats2 para visualiazação
+    print(f"Estatísticas descritivas de '{title1}':\n{stats1}")
+    print(f"Estatísticas descritivas de '{title2}':\n{stats2}")
+
+    # Correlação
+    corr = series1.corr(series2)
+
+    return corr
