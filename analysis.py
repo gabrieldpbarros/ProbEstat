@@ -48,9 +48,9 @@ def main():
             series1 = prepareData(df, zone, title1)
             series2 = prepareData(df, zone, title2)       
 
-            title = f"Comparação da {formatTitle(title1)}x {formatTitle(title2)}por Município (Maiores do Vale do Paraíba)"
+            title = f"Comparação do {formatTitle(title1)}x {formatTitle(title2)}por Município (Maiores do Vale do Paraíba)"
             #uf_1 = input("Insira a UF (sigla): ")
-            cg.createGraphic(series1, series2, "scatter", title, "Novos empregos", "Novos empreendimentos")
+            cg.createGraphic(series1, series2, "scatter", title, "Novos empreendimentos", "Empregados")
         
         elif (analysis == "correlacao"):
             # Cria duas pd.Series contendo as séries temporais completas

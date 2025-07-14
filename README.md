@@ -21,7 +21,7 @@ Através deste trabalho, espera-se contemplar os [Objetivos de Desenvolvimento S
 
 ## Sobre os dados
 
-Foram considerados para essa análise a [Quantidade de Estabelecimentos por Porte da Empresa - Sebrae, UF e Ano](data/source_data/RAIS_establishment_2025-07-12T06_26_17.595Z.csv), o [Produto Interno Bruto a preços correntes por UF e Ano](data/source_data/IBGE_Year_State_GDP.csv), a [Taxa de desocupação - PNAD contínua por UF e Ano](data/source_data/IBGE_Year_State_GDP.csv), a quantidade de [Estabelecimentos por Porte da Empresa - Sebrae e Mesoregião (especificamente do Vale do Paraíba)](data/source_data/IBGE_Year_Municipality_GDP.csv) e a quantidade de [Empregados por Mesoregião e Ano (especificamente do Vale do Paraíba)](data/source_data/RAIS_workers_2025-07-13T23_41_48.044Z.csv)
+Foram considerados para essa análise a [Quantidade de Estabelecimentos por Porte da Empresa - Sebrae, UF e Ano](data/source_data/RAIS_establishment_2025-07-12T06_26_17.595Z.csv), o [Produto Interno Bruto a preços correntes por UF e Ano](data/source_data/IBGE_Year_State_GDP.csv), a [Taxa de desocupação - PNAD contínua por UF e Ano](data/source_data/IBGE_Year_State_GDP.csv), a quantidade de [Estabelecimentos por Porte da Empresa - Sebrae e Mesoregião (especificamente do Vale do Paraíba)](data/source_data/IBGE_Year_Municipality_GDP.csv) e a quantidade de [Empregados por Mesoregião e Ano (especificamente do Vale do Paraíba)](data/source_data/RAIS_workers_2025-07-13T23_41_48.044Z.csv).
 
 ### Fontes
 
@@ -60,6 +60,29 @@ De acordo com o tipo de análise solicitada pelo usuário, o arquivo chama outra
 - **[stats](stats.py):** possui duas funções, a primeira retorna as medidas de posição e de dispersão de uma série temporal, e a segunda faz a análise associativa de duas séries temporais, utilizando o coeficiente de correlação.
 
 ## Análise
+
+As principais análises neste trabalho envolvem as comparações entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de contribuição para o crescimento do Produto Interno Bruto (PIB)](#taxa-de-crescimento-de-quantidade-de-estabelecimentos-e-a-taxa-de-contribuição-para-o-crescimento-do-produto-interno-bruto-pib) e entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de Pobreza](#taxa-de-crescimento-de-quantidade-de-estabelecimentos-e-taxa-de-pobreza), ambas análies por UF e Ano; e entre a [Quantidade total de empregados e a Quantidade total de estabelecimentos](#quantidade-total-de-empregados-e-a-quantidade-total-de-estabelecimentos), analisada por Município, voltada para o Vale do Paraíba.
+
+### Taxa de crescimento de quantidade de estabelecimentos e Taxa de contribuição para o crescimento do Produto Interno Bruto (PIB)
+
+O objetivo é verificar se o surgimento de micro-empreendimentos é um fator positivo para o desenvolvimento financeiro da região. Para isso, foi utilizada a contribuição de cada Estado para o PIB nacional, entre 2017 e 2021, como medida de desenvolvimento econômico.
+
+**Exemplo (dados parciais):**
+
+|State   |2017        |2018        |2019        |2020        |2021        | 
+|:-------|:-----------|:-----------|:-----------|:-----------|:-----------|
+|Rondônia|43516144000 |44913978000 |47091334000 |51598745000 |58170098000 |
+|Acre    |14272939000 |15331124000 |15630018000 |16476370000 |21374442000 |
+|Amazonas|93240190000 |100109232000|108181093000|116019141000|131531039000|
+|Roraima |12104706000 |13369988000 |14292227000 |16024274000 |18202580000 |
+|Pará    |155232405000|161349601000|178376983000|215935606000|262904976000|
+|Amapá   |15481909000 |16795207000 |17496662000 |18469113000 |20099850000 |
+
+
+
+### Taxa de crescimento de quantidade de estabelecimentos e Taxa de Pobreza
+
+### Quantidade total de empregados e a Quantidade total de estabelecimentos
 
 ## Discussão
 
