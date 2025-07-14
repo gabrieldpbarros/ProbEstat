@@ -63,11 +63,11 @@ De acordo com o tipo de análise solicitada pelo usuário, o arquivo chama outra
 
 As principais análises neste trabalho envolvem as comparações entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de contribuição para o crescimento do Produto Interno Bruto (PIB)](#taxa-de-crescimento-de-quantidade-de-estabelecimentos-e-a-taxa-de-contribuição-para-o-crescimento-do-produto-interno-bruto-pib) e entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de Pobreza](#taxa-de-crescimento-de-quantidade-de-estabelecimentos-e-taxa-de-pobreza), ambas análies por UF e Ano; e entre a [Quantidade total de empregados e a Quantidade total de estabelecimentos](#quantidade-total-de-empregados-e-a-quantidade-total-de-estabelecimentos), analisada por Município, voltada para o Vale do Paraíba.
 
-### Taxa de crescimento de quantidade de estabelecimentos e Taxa de contribuição para o crescimento do Produto Interno Bruto (PIB)
+### Taxa de contribuição para o crescimento do Produto Interno Bruto (PIB) e Taxa de crescimento de quantidade de estabelecimentos
 
 O objetivo é verificar se o surgimento de micro-empreendimentos é um fator positivo para o desenvolvimento financeiro da região. Para isso, foi utilizada a contribuição de cada Estado para o PIB nacional, entre 2017 e 2021, como medida de desenvolvimento econômico.
 
-**Exemplo (dados parciais):**
+**Exemplo - Contribuição para o crescimento do PIB em R$ (dados parciais):**
 
 |State   |2017        |2018        |2019        |2020        |2021        | 
 |:-------|:-----------|:-----------|:-----------|:-----------|:-----------|
@@ -78,7 +78,10 @@ O objetivo é verificar se o surgimento de micro-empreendimentos é um fator pos
 |Pará    |155232405000|161349601000|178376983000|215935606000|262904976000|
 |Amapá   |15481909000 |16795207000 |17496662000 |18469113000 |20099850000 |
 
+Através do gráfico de dispersão dessa relação (gráfico 1)[^1], foi encontrado um **coeficiente de correlação positivo** (~ 0,195) entre as duas séries, indicando que as séries possuem certo grau de associação diretamente proporcional, ou seja, o aumento de uma das variáveis acarreta no aumento da outra variável simultaneamente.
 
+![grafico1](graphics/Comparação%20da%20Taxa%20Crescimento%20PIB%20x%20Taxa%20Crescimento%20Estabelecimentos%20por%20UF.png)
+[^1]: (gráfico 1)
 
 ### Taxa de crescimento de quantidade de estabelecimentos e Taxa de Pobreza
 
