@@ -15,7 +15,7 @@ Discentes: Daniel Ribeiro, Gabriel Delgado, João Vitor Gomes, Sarah Mynssen, Vi
 
 O trabalho tem como foco analisar como o surgimento de pequenas empresas, ou microempreendimentos, afeta no desempenho econômico do estado em que esses empreendimentos se originam.
 
-Os dados observados foram extraídos de fontes públicas e confiáveis ([Observatório DataMPE Brasil](https://datampe.sebrae.com.br), [IBGE](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html), [Ipea](https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=1825), etc.) e processados através de [scripts de autoria própria](read_data.py). Foram utilizadas técnicas de [análise estatística](stats.py), como [gráficos](create_graphics.py) (gráfico de linhas, boxplot e gráfico de dispersão) e [associação entre variáveis](stats.py). Todas essas técnicas são executadas através de um [script principal](analysis.py).
+Os dados observados foram extraídos de fontes públicas e confiáveis (Observatório DataMPE Brasil, IBGE, Ipea, etc.) e processados através de [scripts de autoria própria](read_data.py). Foram utilizadas técnicas de [análise estatística](stats.py), como [gráficos](create_graphics.py) (gráfico de linhas, boxplot e gráfico de dispersão) e [associação entre variáveis](stats.py). Todas essas técnicas são executadas através de um [script principal](analysis.py).
 
 Através deste trabalho, espera-se contemplar os [Objetivos de Desenvolvimento Sustentável (ODS)](https://brasil.un.org/pt-br/sdgs) 1, 8 e 11 da Organização das Nações Unidas (ONU), contribuindo para a efetivação desses objetivos propostos pela ONU.
 
@@ -35,7 +35,7 @@ Foram considerados para essa análise a [Quantidade de Estabelecimentos por Port
  [^2]: https://www.ipeadata.gov.br/Default.aspx
  [^3]: https://datampe.sebrae.com.br
  [^4]: https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos
- [^5]: https://datampe.sebrae.com.br/data-explorer?cube=RAIS_establishment&drilldowns%5B0%5D=Establishment+Size&drilldowns%5B1%5D=Geography.Municipality.State&drilldowns%5B2%5D=Year&drilldowns%5B3%5D=Type+Establishment&measures%5B0%5D=Establishments
+ [^5]: https://www.rais.gov.br/sitio/index.jsf
 
 ### Séries
 
@@ -89,10 +89,33 @@ Através do gráfico de dispersão dessa relação (gráfico 1), foi encontrado 
 ![grafico1](graphics/Comparação%20da%20Taxa%20Crescimento%20PIB%20x%20Taxa%20Crescimento%20Estabelecimentos%20por%20UF.png)
 (gráfico 1)
 
-### Taxa de crescimento de quantidade de estabelecimentos e Taxa de Pobreza
+### Taxa de Pobreza e Taxa de crescimento de quantidade de estabelecimentos
+
+Ao contrário da análise anterior, espera-se encontrar uma associação negativa entre as duas séries, observando que o surgimento de micro-empreendimentos influencia na redução da taxa de pobreza na região. Para isso, utilizou-se a taxa de desocupação de cada Estado, entre 2018 e 2025, como medida de taxa de pobreza.
+
+**Exemplo - Taxa de desocupação - PNAD Contínua (dados parciais):**
+
+| Estado   | 2018 T1 | 2018 T2 | 2018 T3 | 2018 T4 | 2019 T1 | 2019 T2 | 2019 T3 | 2019 T4 | ... | 2024 T1 | 2024 T2 | 2024 T3 | 2024 T4 | 2025 T1 |
+|:---------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:---:|:--------|:--------|:--------|:--------|:--------|
+| Acre     | 14.6    | 13.7    | 13.3    | 13.3    | 18.3    | 13.8    | 13.2    | 13.9    | ... |8.9      | 7.2     | 7.4     | 7.3     | 8.2     |
+| Alagoas  | 18      | 17.7    | 17.3    | 16.2    | 16.2    | 14.9    | 15.6    | 13.8    | ... |9.9      | 8.1     | 7.7     | 8.1     | 8.9     |
+| Amazonas | 14      | 14.3    | 13.2    | 14.6    | 16      | 14      | 13.5    | 13.1    | ... |9.8      | 7.9     | 8.1     | 8.3     | 10.1    |
+| Amapá    | 21.7    | 21.6    | 18.4    | 19.8    | 20.3    | 17.1    | 16.9    | 15.8    | ... |14.2     | 10.9    | 9       | 8.7     | 8.7     |
+| Bahia    | 18.1    | 16.8    | 16.4    | 17.6    | 18.5    | 17.5    | 16.9    | 16.5    | ... |14       | 11.1    | 9.7     | 9.9     | 10.9    |
+| Ceará    | 12.9    | 11.8    | 10.7    | 10.2    | 11.5    | 11      | 11.4    | 10.3    | ... |8.6      | 7.5     | 6.7     | 6.5     | 8       |
+
+> [!NOTE]
+> Como os dados estão separados por trimestres, foi calculada a média entre os quatro valores para ser utilizada como variável relativa ao respectivo ano.
+ 
+Pelo gráfico de dispersão dessa associação (gráfico 2), verificamos um **coeficiente de correlação negativo** (~ -0,242) entre as duas séries. Isso indica que existe certo grau de relação inversamente proporcional entre as variáveis, ou seja, o aumento de uma delas causa a diminuição da outra simultaneamente.
+
+![grafico2](graphics/Comparação%20da%20Taxa%20Pobreza%20x%20Taxa%20Crescimento%20Estabelecimentos%20por%20UF.png)
+(gráfico 2)
 
 ### Quantidade total de empregados e a Quantidade total de estabelecimentos
 
 ## Discussão
 
 ## Conclusão
+
+## Referências
