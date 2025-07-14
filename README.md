@@ -25,11 +25,17 @@ Foram considerados para essa análise a [Quantidade de Estabelecimentos por Port
 
 ### Fontes
 
- - **[Instituto Brasileiro de Geografia e Estatística (IBGE)](https://www.ibge.gov.br)**
- - **[Instituto de Pesquisa Econômica Aplicada (Ipea)](https://www.ipeadata.gov.br/Default.aspx)**
- - **[Observatório DataMPE Brasil](https://datampe.sebrae.com.br)**
- - **[Receita Federal](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos)**
- - **[Relação Anual de Informações Sociais (RAIS)](https://datampe.sebrae.com.br/data-explorer?cube=RAIS_establishment&drilldowns%5B0%5D=Establishment+Size&drilldowns%5B1%5D=Geography.Municipality.State&drilldowns%5B2%5D=Year&drilldowns%5B3%5D=Type+Establishment&measures%5B0%5D=Establishments)**
+ - **Instituto Brasileiro de Geografia e Estatística (IBGE)[^1]**
+ - **Instituto de Pesquisa Econômica Aplicada (Ipea)[^2]**
+ - **Observatório DataMPE Brasil[^3]**
+ - **Receita Federal[^4]**
+ - **Relação Anual de Informações Sociais (RAIS)[^5]**
+
+ [^1]: https://www.ibge.gov.br
+ [^2]: https://www.ipeadata.gov.br/Default.aspx
+ [^3]: https://datampe.sebrae.com.br
+ [^4]: https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos
+ [^5]: https://datampe.sebrae.com.br/data-explorer?cube=RAIS_establishment&drilldowns%5B0%5D=Establishment+Size&drilldowns%5B1%5D=Geography.Municipality.State&drilldowns%5B2%5D=Year&drilldowns%5B3%5D=Type+Establishment&measures%5B0%5D=Establishments
 
 ### Séries
 
@@ -78,10 +84,10 @@ O objetivo é verificar se o surgimento de micro-empreendimentos é um fator pos
 |Pará    |155232405000|161349601000|178376983000|215935606000|262904976000|
 |Amapá   |15481909000 |16795207000 |17496662000 |18469113000 |20099850000 |
 
-Através do gráfico de dispersão dessa relação (gráfico 1)[^1], foi encontrado um **coeficiente de correlação positivo** (~ 0,195) entre as duas séries, indicando que as séries possuem certo grau de associação diretamente proporcional, ou seja, o aumento de uma das variáveis acarreta no aumento da outra variável simultaneamente.
+Através do gráfico de dispersão dessa relação (gráfico 1), foi encontrado um **coeficiente de correlação positivo** (~ 0,195) entre as duas séries, indicando que as séries possuem certo grau de associação diretamente proporcional, ou seja, o aumento de uma das variáveis acarreta no aumento da outra variável simultaneamente.
 
 ![grafico1](graphics/Comparação%20da%20Taxa%20Crescimento%20PIB%20x%20Taxa%20Crescimento%20Estabelecimentos%20por%20UF.png)
-[^1]: (gráfico 1)
+(gráfico 1)
 
 ### Taxa de crescimento de quantidade de estabelecimentos e Taxa de Pobreza
 
