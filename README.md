@@ -118,16 +118,16 @@ Esta análise busca, em menor escopo, verificar a relação de empregados por qu
 
 **Exemplo - Total de micro-empresas x Total de empregados (Maiores cidades do Vale, 2021):**
 
-| Município           | Total_Estabelecimentos | Total_Empregos |
-|:--------------------|:-----------------------|:---------------|
-| São José dos Campos | 32.892                 | 277.175        |
-| Jacareí             | 10.498                 | 59.982         |
-| Taubaté             | 15.761                 | 102.871        |
-| Pindamonhangaba     | 6.127                  | 36.681         |
-| Caraguatatuba       | 6.463                  | 30.264         |
-| Ubatuba             | 4.551                  | 15.807         |
-| São Sebastião       | 3.653                  | 16.098         |
-| Guaratinguetá       | 6.475                  | 37.161         |
+| Município           | Total de Estabelecimentos | Total de Empregos |
+|:--------------------|:--------------------------|:------------------|
+| São José dos Campos | 32892                     | 277175            |
+| Jacareí             | 10498                     | 59982             |
+| Taubaté             | 15761                     | 102871            |
+| Pindamonhangaba     | 6127                      | 36681             |
+| Caraguatatuba       | 6463                      | 30264             |
+| Ubatuba             | 4551                      | 15807             |
+| São Sebastião       | 3653                      | 16098             |
+| Guaratinguetá       | 6475                      | 37161             |
 
 Observando o gráfico de dispersão dessa análise (gráfico 3), verificamos um **coeficiente de correlação positivo** (~ 0,962) entre as duas variáveis muito alto. Podemos concluir, assim, uma relação muito forte entre a quantidade de micro-empresas e a quantidade de empregados, ressaltando a importância que esses estabelecimentos têm para a geração de empregos em um município.
 
