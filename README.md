@@ -114,6 +114,26 @@ Pelo gráfico de dispersão dessa associação (gráfico 2), verificamos um **co
 
 ### Quantidade total de empregados e a Quantidade total de estabelecimentos
 
+Esta análise busca, em menor escopo, verificar a relação de empregados por quantidade total de micro-empresas. Como citado anteriormente, esta seção reduz o escopo do estudo, voltando a avaliação para os dez maiores municípios do Vale do Paraíba, entre 2018 e 2021.
+
+**Exemplo - Total de micro-empresas x Total de empregados (Maiores cidades do Vale, 2021):**
+
+| Município           | Total_Estabelecimentos | Total_Empregos |
+|:--------------------|:-----------------------|:---------------|
+| São José dos Campos | 32.892                 | 277.175        |
+| Jacareí             | 10.498                 | 59.982         |
+| Taubaté             | 15.761                 | 102.871        |
+| Pindamonhangaba     | 6.127                  | 36.681         |
+| Caraguatatuba       | 6.463                  | 30.264         |
+| Ubatuba             | 4.551                  | 15.807         |
+| São Sebastião       | 3.653                  | 16.098         |
+| Guaratinguetá       | 6.475                  | 37.161         |
+
+Observando o gráfico de dispersão dessa análise (gráfico 3), verificamos um **coeficiente de correlação positivo** (~ 0,962) entre as duas variáveis muito alto. Podemos concluir, assim, uma relação muito forte entre a quantidade de micro-empresas e a quantidade de empregados, ressaltando a importância que esses estabelecimentos têm para a geração de empregos em um município.
+
+![grafico3](graphics/Comparação%20do%20Total%20Estabelecimentos%20x%20Total%20Empregos%20por%20Município%20(Maiores%20do%20Vale%20do%20Paraíba).png)
+(gráfico 3)
+
 ## Discussão
 
 ## Conclusão
