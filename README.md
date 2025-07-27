@@ -67,8 +67,9 @@ De acordo com o tipo de análise solicitada pelo usuário, o arquivo chama outra
 
 ## Análise
 
-As principais análises neste trabalho envolvem as comparações entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de contribuição para o crescimento do Produto Interno Bruto (PIB)](#taxa-de-crescimento-de-quantidade-de-estabelecimentos-e-a-taxa-de-contribuição-para-o-crescimento-do-produto-interno-bruto-pib) e entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de Pobreza](#taxa-de-crescimento-de-quantidade-de-estabelecimentos-e-taxa-de-pobreza), ambas análies por UF e Ano; e entre a [Quantidade total de empregados e a Quantidade total de estabelecimentos](#quantidade-total-de-empregados-e-a-quantidade-total-de-estabelecimentos), analisada por Município, voltada para o Vale do Paraíba.
+As principais análises neste trabalho envolvem as comparações entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de contribuição para o crescimento do Produto Interno Bruto (PIB)](#t1) e entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de Pobreza](#t2), ambas análies por UF e Ano; e entre a [Quantidade total de empregados e a Quantidade total de estabelecimentos](#t3), analisada por Município, voltada para o Vale do Paraíba.
 
+<a id="t1"></a>
 ### Taxa de contribuição para o crescimento do Produto Interno Bruto (PIB) e Taxa de crescimento de quantidade de estabelecimentos
 
 O objetivo é verificar se o surgimento de micro-empreendimentos é um fator positivo para o desenvolvimento financeiro da região. Para isso, foi utilizada a contribuição de cada Estado para o PIB nacional, entre 2017 e 2021, como medida de desenvolvimento econômico.
@@ -89,6 +90,7 @@ Através do gráfico de dispersão dessa relação (gráfico 1), foi encontrado 
 ![grafico1](graphics/Comparação%20da%20Taxa%20Crescimento%20PIB%20x%20Taxa%20Crescimento%20Estabelecimentos%20por%20UF.png)
 (gráfico 1)
 
+<a id="t2"></a>
 ### Taxa de Pobreza e Taxa de crescimento de quantidade de estabelecimentos
 
 Ao contrário da análise anterior, espera-se encontrar uma associação negativa entre as duas séries, observando que o surgimento de micro-empreendimentos influencia na redução da taxa de pobreza na região. Para isso, utilizou-se a taxa de desocupação de cada Estado, entre 2018 e 2025, como medida de taxa de pobreza.
@@ -112,6 +114,7 @@ Pelo gráfico de dispersão dessa associação (gráfico 2), verificamos um **co
 ![grafico2](graphics/Comparação%20da%20Taxa%20Pobreza%20x%20Taxa%20Crescimento%20Estabelecimentos%20por%20UF.png)
 (gráfico 2)
 
+<a id="t3"></a>
 ### Quantidade total de empregados e a Quantidade total de estabelecimentos
 
 Esta análise busca, em menor escopo, verificar a relação de empregados por quantidade total de micro-empresas. Como citado anteriormente, esta seção reduz o escopo do estudo, voltando a avaliação para os dez maiores municípios do Vale do Paraíba, entre 2018 e 2021.
@@ -138,7 +141,7 @@ Observando o gráfico de dispersão dessa análise (gráfico 3), verificamos um 
 
 Pelas duas primeiras análises, podemos afirmar que encontramos resultados conforme o esperado, ou seja, uma relação diretamente proporcional entre o surgimento de micro-empreendimentos e o desenvolvimento econômico e uma relação inversamente proporcional entre a taxa de pobreza e o crescimento de micro-empreendimentos. Contudo, ambos os coeficientes encontrados estão muito próximos de 0, indicando uma relação insignificante entre os dados.
 
-Portanto, devemos verificar, através do p-valor, se os resultados são, de fato, estatisticamente significantivos para concluir uma possível relação entre nossas séries. Para isso, realizamos um teste de hipótese (**[t de Student](#teste-t-de-student)**), em que consideramos a hipótese nula (H<sub>0</sub>) como a ausência de correlação entre os dados e a hipótese alternativa (H<sub>1</sub>) como a existência de correlação entre os dados, encontramos o **[grau de liberdade](#grau)** e determinamos o **[p-valor](#p-valor)** para cada correlação encontrada. 
+Portanto, devemos verificar, através do p-valor, se os resultados são, de fato, estatisticamente significativos para concluir uma possível relação entre nossas amostras. Para isso, realizamos um teste de hipótese (**[t de Student](#teste-t-de-student)**), em que consideramos a hipótese nula (H<sub>0</sub>) como a ausência de correlação entre os dados e a hipótese alternativa (H<sub>1</sub>) como a existência de correlação entre os dados, encontramos o **[grau de liberdade](#grau)** e determinamos o **[p-valor](#p-valor)** para cada correlação encontrada. 
 
 ### **Teste t de Student**
 
