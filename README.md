@@ -138,7 +138,7 @@ Observando o gráfico de dispersão dessa análise (gráfico 3), verificamos um 
 
 Pelas duas primeiras análises, podemos afirmar que encontramos resultados conforme o esperado, ou seja, uma relação diretamente proporcional entre o surgimento de micro-empreendimentos e o desenvolvimento econômico e uma relação inversamente proporcional entre a taxa de pobreza e o crescimento de micro-empreendimentos. Contudo, ambos os coeficientes encontrados estão muito próximos de 0, indicando uma relação insignificante entre os dados.
 
-Portanto, devemos verificar, através do p-valor, se os resultados são, de fato, estatisticamente significantivos para concluir uma possível relação entre nossas séries. Para isso, realizamos um teste de hipótese (**[t de Student](#teste-t-de-student)**), em que consideramos a hipótese nula (H<sub>0</sub>) como a ausência de correlação entre os dados e a hipótese alternativa (H<sub>1</sub>) como a existência de correlação entre os dados, encontramos o **[grau de liberdade](#grau-de-liberdade-)** e determinamos o **[p-valor](#p-valor)** para cada correlação encontrada. 
+Portanto, devemos verificar, através do p-valor, se os resultados são, de fato, estatisticamente significantivos para concluir uma possível relação entre nossas séries. Para isso, realizamos um teste de hipótese (**[t de Student](#teste-t-de-student)**), em que consideramos a hipótese nula (H<sub>0</sub>) como a ausência de correlação entre os dados e a hipótese alternativa (H<sub>1</sub>) como a existência de correlação entre os dados, encontramos o **[grau de liberdade](#grau)** e determinamos o **[p-valor](#p-valor)** para cada correlação encontrada. 
 
 ### **Teste t de Student**
 
@@ -162,6 +162,7 @@ $$ t = 0,195 \times {\sqrt{106 - 2 \over 1 - 0,195^2}} \approx 2,0167 $$
 
 $$ t = −0.242 \times {\sqrt{106 - 2 \over 1 - (−0.242)^2}} \approx −2.5435 $$
 
+<a id="grau"></a>
 ### **Grau de liberdade \($df$)**
 
 Precisamos do grau de liberdade para encontrar o valor de $t_c$ na tabela da distribuição t-Sudent, o qual é dado por:
