@@ -84,7 +84,7 @@ O objetivo é verificar se o surgimento de micro-empreendimentos é um fator pos
 |Pará    |155232405000|161349601000|178376983000|215935606000|262904976000|
 |Amapá   |15481909000 |16795207000 |17496662000 |18469113000 |20099850000 |
 
-Através do gráfico de dispersão dessa relação (gráfico 1), foi encontrado um **coeficiente de correlação positivo** (~ 0,195) entre as duas séries, indicando que as séries possuem certo grau de associação diretamente proporcional, ou seja, o aumento de uma das variáveis acarreta no aumento da outra variável simultaneamente.
+Através do gráfico de dispersão dessa relação (gráfico 1), foi encontrado um **coeficiente de correlação positivo** ($\approx$ 0,195) entre as duas séries, indicando que as séries possuem certo grau de associação diretamente proporcional, ou seja, o aumento de uma das variáveis acarreta no aumento da outra variável simultaneamente.
 
 ![grafico1](graphics/Comparação%20da%20Taxa%20Crescimento%20PIB%20x%20Taxa%20Crescimento%20Estabelecimentos%20por%20UF.png)
 (gráfico 1)
@@ -107,7 +107,7 @@ Ao contrário da análise anterior, espera-se encontrar uma associação negativ
 > [!NOTE]
 > Como os dados estão separados por trimestres, foi calculada a média entre os quatro valores para ser utilizada como variável relativa ao respectivo ano.
  
-Pelo gráfico de dispersão dessa associação (gráfico 2), verificamos um **coeficiente de correlação negativo** (~ -0,242) entre as duas séries. Isso indica que existe certo grau de relação inversamente proporcional entre as variáveis, ou seja, o aumento de uma delas causa a diminuição da outra simultaneamente.
+Pelo gráfico de dispersão dessa associação (gráfico 2), verificamos um **coeficiente de correlação negativo** ($\approx$ -0,242) entre as duas séries. Isso indica que existe certo grau de relação inversamente proporcional entre as variáveis, ou seja, o aumento de uma delas causa a diminuição da outra simultaneamente.
 
 ![grafico2](graphics/Comparação%20da%20Taxa%20Pobreza%20x%20Taxa%20Crescimento%20Estabelecimentos%20por%20UF.png)
 (gráfico 2)
@@ -129,12 +129,66 @@ Esta análise busca, em menor escopo, verificar a relação de empregados por qu
 | São Sebastião       | 3653                      | 16098             |
 | Guaratinguetá       | 6475                      | 37161             |
 
-Observando o gráfico de dispersão dessa análise (gráfico 3), verificamos um **coeficiente de correlação positivo** (~ 0,962) entre as duas variáveis muito alto. Podemos concluir, assim, uma relação muito forte entre a quantidade de micro-empresas e a quantidade de empregados, ressaltando a importância que esses estabelecimentos têm para a geração de empregos em um município.
+Observando o gráfico de dispersão dessa análise (gráfico 3), verificamos um **coeficiente de correlação positivo** ($\approx$ 0,962) entre as duas variáveis muito alto. Podemos concluir, assim, uma relação muito forte entre a quantidade de micro-empresas e a quantidade de empregados, ressaltando a importância que esses estabelecimentos têm para a geração de empregos em um município.
 
 ![grafico3](graphics/Comparação%20do%20Total%20Estabelecimentos%20x%20Total%20Empregos%20por%20Município%20(Maiores%20do%20Vale%20do%20Paraíba).png)
 (gráfico 3)
 
 ## Discussão
+
+Pelas duas primeiras análises, podemos afirmar que encontramos resultados conforme o esperado, ou seja, uma relação diretamente proporcional entre o surgimento de micro-empreendimentos e o desenvolvimento econômico e uma relação inversamente proporcional entre a taxa de pobreza e o crescimento de micro-empreendimentos. Contudo, ambos os coeficientes encontrados estão muito próximos de 0, indicando uma relação insignificante entre os dados.
+
+Portanto, devemos verificar, através do p-valor, se os resultados são, de fato, estatisticamente significantivos para concluir uma possível relação entre nossas séries. Para isso, realizamos um teste de hipótese (**[t de Student](#teste-t-de-student)**), em que consideramos a hipótese nula (H<sub>0</sub>) como a ausência de correlação entre os dados e a hipótese alternativa (H<sub>1</sub>) como a existência de correlação entre os dados, encontramos o **[grau de liberdade](#grau-de-liberdade-)** e determinamos o **[p-valor](#p-valor)** para cada correlação encontrada. 
+
+### **Teste t de Student**
+
+Podemos interpretar o teste da seguinte forma:
+
+$$ t = r \times {\sqrt{n - 2 \over 1 - r^2}}  $$
+
+Em que:
+
+- **$r$:** Coeficiente correlacional;
+
+- **$n$:** Tamanho da amostra;
+
+- **$t$:** Valor da estatística do teste.
+
+#### 1. Teste para $ r = 0,195 $:
+
+$$ t = 0,195 \times {\sqrt{106 - 2 \over 1 - 0,195^2}} \approx 2,0167 $$
+
+#### 2. Teste para $ r = −0.242 $:
+
+$$ t = −0.242 \times {\sqrt{106 - 2 \over 1 - (−0.242)^2}} \approx −2.5435 $$
+
+### **Grau de liberdade ($df$)**
+
+Precisamos do grau de liberdade para encontrar o valor de $t_c$ na tabela da distribuição t-Sudent, o qual é dado por:
+
+$$ df = n - 2 $$
+
+Como ambas análises têm a mesma quantidade de amostras, temos:
+
+$$ df = 106 - 2 = 104 $$
+
+### **P-valor**
+
+Como desejamos verificar apenas se há correlação entre as variáveis, ou seja, $r \neq 0$, consideramos um teste bilateral. Assim, calculamos o p-valor da seguinte forma:
+
+$$ p = 2 \times \mathrm{P}(t_c < |t|) $$
+
+#### 1. P-valor para $ r = 0,195 $:
+
+Substituindo os valores:
+
+$$ p = 2 \times \mathrm{P}(t_c < 0,195) \\ \Longleftrightarrow p = 2 \times 0.02316 \\ \Longrightarrow p \approx 0.04632$$
+
+#### 2. P-valor para $ r = −0.242 $:
+
+Temos:
+
+$$ p = 2 \times \mathrm{P}(t_c < 0.242) \\ \Longleftrightarrow p = 2 \times 0.00620 \\ \Longrightarrow p \approx 0.01240$$
 
 ## Conclusão
 
