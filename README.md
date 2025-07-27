@@ -154,11 +154,11 @@ Em que:
 
 - **$t$:** Valor da estatística do teste.
 
-#### 1. Teste para $ r = 0,195 $:
+#### 1. Teste para $r = 0,195$:
 
 $$ t = 0,195 \times {\sqrt{106 - 2 \over 1 - 0,195^2}} \approx 2,0167 $$
 
-#### 2. Teste para $ r = −0.242 $:
+#### 2. Teste para $r = −0.242$:
 
 $$ t = −0.242 \times {\sqrt{106 - 2 \over 1 - (−0.242)^2}} \approx −2.5435 $$
 
@@ -178,13 +178,13 @@ Como desejamos verificar apenas se há correlação entre as variáveis, ou seja
 
 $$ p = 2 \times \mathrm{P}(t_c < |t|) $$
 
-#### 1. P-valor para $ r = 0,195 $:
+#### 1. P-valor para $r = 0,195$:
 
 Substituindo os valores:
 
 $$ p = 2 \times \mathrm{P}(t_c < 0,195) \\ \Longleftrightarrow p = 2 \times 0.02316 \\ \Longrightarrow p \approx 0.04632$$
 
-#### 2. P-valor para $ r = −0.242 $:
+#### 2. P-valor para $r = −0.242$:
 
 Temos:
 
