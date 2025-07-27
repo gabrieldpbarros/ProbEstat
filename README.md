@@ -162,7 +162,7 @@ $$ t = 0,195 \times {\sqrt{106 - 2 \over 1 - 0,195^2}} \approx 2,0167 $$
 
 $$ t = −0.242 \times {\sqrt{106 - 2 \over 1 - (−0.242)^2}} \approx −2.5435 $$
 
-### **Grau de liberdade ($df$)**
+### **Grau de liberdade \($df$)**
 
 Precisamos do grau de liberdade para encontrar o valor de $t_c$ na tabela da distribuição t-Sudent, o qual é dado por:
 
