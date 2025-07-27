@@ -182,13 +182,13 @@ $$ p = 2 \times \mathrm{P}(t_c < |t|) $$
 
 Substituindo os valores:
 
-$$ p = 2 \times \mathrm{P}(t_c < 0,195) \\ \Longleftrightarrow p = 2 \times 0.02316 \\ \Longrightarrow p \approx 0.04632$$
+$$ p = 2 \times \mathrm{P}(t_c < 0,195)\\ \Longleftrightarrow p = 2 \times 0.02316\\ \Longrightarrow p \approx 0.04632$$
 
 #### 2. P-valor para $r = −0.242$:
 
 Temos:
 
-$$ p = 2 \times \mathrm{P}(t_c < 0.242) \\ \Longleftrightarrow p = 2 \times 0.00620 \\ \Longrightarrow p \approx 0.01240$$
+$$ p = 2 \times \mathrm{P}(t_c < 0.242)\\ \Longleftrightarrow p = 2 \times 0.00620\\ \Longrightarrow p \approx 0.01240$$
 
 ## Conclusão
 
