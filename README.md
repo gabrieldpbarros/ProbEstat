@@ -67,7 +67,7 @@ De acordo com o tipo de análise solicitada pelo usuário, o arquivo chama outra
 
 ## Análise
 
-As principais análises neste trabalho envolvem as comparações entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de contribuição para o crescimento do Produto Interno Bruto (PIB)](#t1) e entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de Pobreza](#t2), ambas análies por UF e Ano; e entre a [Quantidade total de empregados e a Quantidade total de estabelecimentos](#t3), analisada por Município, voltada para o Vale do Paraíba.
+As principais análises neste trabalho envolvem as comparações entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de contribuição para o crescimento do Produto Interno Bruto (PIB)](#t1) e entre a [Taxa de crescimento de quantidade de estabelecimentos e a Taxa de Pobreza](#t2), ambas análies por UF e Ano; e entre a [Quantidade total de empregados e a Quantidade total de estabelecimentos](#t3), analisada por Município, voltada para o Vale do Paraíba. Vale ressaltar que nosso estudo é voltado para pequenos empreendimentos, logo toda menção a "estabelecimento" trata-se de pequenas empresas ou micro-empreendimentos.
 
 <a id="t1"></a>
 ### Taxa de contribuição para o crescimento do Produto Interno Bruto (PIB) e Taxa de crescimento de quantidade de estabelecimentos
@@ -193,6 +193,10 @@ $$ p = 2 \times \mathrm{P}(t_c < 0,195)\\ \Longleftrightarrow p = 2 \times 0.023
 Temos:
 
 $$ p = 2 \times \mathrm{P}(t_c < 0.242)\\ \Longleftrightarrow p = 2 \times 0.00620\\ \Longrightarrow p \approx 0.01240$$
+
+Segundo essa análise, encontramos $p \approx 0.04632$ para a primeira correlação (índice de desenvolvimento x surgimento de novos empreendimentos) e $p \approx 0.01240$ para a segunda correlação (taxa de pobreza x surgimento de novos empreendimentos). Isso indica que, dado o tamanho da amostra, os resultados encontrados para os coeficientes de correlação são, de fato, estatisticamente relevantes para afirmar algum tipo de relação.
+
+Note que, apesar disso, temos uma relação fraca para ambas correlações, indicando a possível presença de variáveis de confusão no escopo do estudo feito. 
 
 ## Conclusão
 
